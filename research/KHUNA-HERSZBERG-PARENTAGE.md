@@ -413,7 +413,7 @@ Khuna / Chuna Herszberg  (age 19 in 1872 ⇒ b. ~1853; parents UNKNOWN)
         │
         └── Jankiel / Jankel Hersz / Yaakov Tzvi Yerachmiel
             age 5 in 1872 ⇒ b. ~1867; d. 1892 age 22 ⇒ b. ~1870
-            (not in JRI Biała births 1864–73; not in 1869 or 1870 Г)
+            (not in JRI Biała births 1864–73; not in **1869, 1870, or 1871** Г)
             m. Sura Nechuma Zak
                     │
                     └── Szlema / Shlomo Chaim Gerszberg
