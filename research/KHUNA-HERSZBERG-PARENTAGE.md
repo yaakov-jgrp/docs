@@ -18,7 +18,9 @@ No record examined in this continuation names Khuna's parents. The strongest nea
 
 This round searched **beyond Biała**: neighboring-town Jewish USC fonds, Siedlce Jewish registers, 1931–42 Biała Jewish registration cards (which name parents), USHMM/Yad Vashem name lists, yizkor, cemetery, 1897 census, military/conscription catalogues, and Wajntal/Wajntraub nationwide. **None of those sources named Khuna's father or mother.** Several same-town Herszberg branches were identified with *their* parents, and Khuna is **not** among those fathers.
 
-The 1870 birth index has now been **located** (scans 116–117 of unit 53 / jednostka 167457) but the Cyrillic **Г** section has not yet been read line-by-line. 1871 unit 54 / jednostka 167458 is open (174 scans); its birth index has not been read.
+The **1870** birth-index **Г** section has now been read (jednostka 167457, scans 116–117). **No Гершберг / Герцберг / Herszberg / Gerszberg.** Jankiel son of Khuna was **not** registered in Biała in 1870. Combined with the 1869 negative, his civil birth is still unlocated: try **1871**, then 1868 / 1872–73 (delayed), then another town.
+
+The **1871** birth index (jednostka 167458, 174 scans) is **not yet read**.
 
 ---
 
@@ -33,7 +35,7 @@ Confirmed by the previous agent and not repeated here:
 - No Гершберг / Герцберг or plausible Herszberg/Gerszberg variant.
 - Jankiel was **not** registered in Biała in 1869.
 
-### B2. 1870–71 units — now identified; indexes not fully read
+### B2. 1870 birth-index Г section — NEGATIVE; 1871 still unread
 
 Live viewer (browser session, 17 Aug 2026) confirmed:
 
@@ -47,17 +49,18 @@ Series page: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998 (`35/1612
 **1870 end-of-volume indexes (scans 115–119 captured in a browser session):**
 - Scan **116**: alphabetical surnames starting with **А**. Heading reported as **Алфавитъ Младенца** (birth index).
 - Scan **117**: surnames starting with **З** (Зайчикъ, Злотопольская, Зельманъ, …). Column headers look like a **marriage** index (husband/wife ages), not the infant list. Do not treat 117 as the birth-index Г page.
-- Cyrillic order is А Б В **Г** Д Е Ж **З**. There is **no separate scan between 116 and 117**. The birth-index **Г** block is therefore either on the remainder of scan **116** (after А, possibly Б/В/Г) or **absent** because no 1870 births were indexed under Г.
-- Гершберг/Герцберг has **not** been confirmed present or absent. A dedicated Г-section read of scan 116 is still required.
+- Cyrillic order is А Б В **Г** Д Е Ж **З**. There is **no separate scan between 116 and 117**. The birth-index **Г** block is on the remainder of scan **116** (after А, and any Б/В). Scan 117 remains the **З** block / likely marriages.
+- **Г section on scan 116 was read line-by-line** (browser session, 17 Aug 2026). Surnames transcribed under Г: Гольбейдеръ, Геншелъ, Гелбманъ, **Гершелькъ** (Iosel, acts 46/2 — a different surname, not Гершберг), Голслейкеръ, Гольферлейръ.
+- **No Гершберг / Герцберг / Герсберг / Хершберг.** Do not treat Гершелькъ as Herszberg.
 - Scans 115, 118–119 are transition / continuation / near-blank; 120–121 are end-matter.
 
-**1871:** volume opened (cover labelled “7”). Birth index is expected at the end (~scans 161–174). Pages 161–162 were marriage/death text, not the birth alphabet. **Birth-index Г section not yet read.**
+**1870 result:** Jankiel / Khuna **not** in the 1870 Biała birth index. This is a completed negative for 1870 births indexed under Г. It is **not** a negative for 1871, delayed registration, or another okręg.
+
+**1871:** volume opened (cover labelled “7”, 174 scans). Birth index is expected at the end (~scans 161–174). Pages 161–162 were marriage/death text, not the birth alphabet. **Birth-index Г section not yet read.** A follow-up session had the 1871 unit loaded but stopped before the index.
 
 FamilySearch film **1199952** from this host hits a **sign-in wall**. Do not treat FS as the working copy. The Polish archive scans are the working copy.
 
 Headless curl still gets Imperva; the Liferay “jednostka” portlet still says unavailable. Related-materials widgets on 167457/167458/167480 listing 1851–1854 books are **misleading when the portlet is down** — the live viewer showed 121 scans and a 1870 birth index at 167457. Trust the viewer title + scan count, not the related-materials sidebar.
-
-A follow-up browser session was started to finish the 1870 Г section and then 1871.
 
 ### B3. Jankiel's 1892 death — Level B transcription now pinned to the Dvorkin tables
 
@@ -350,7 +353,7 @@ No Chuna/Khuna in the translated index.
 Khuna / Chuna Herszberg  ×  Liba Enta [WAJNTLOW in 1892 death transcription]
         │
         └── Jankiel / Jankel Gersz / Yaakov Tzvi Yerachmiel
-            b. ~1869–1871 (not in 1869 Biała birth index)
+            b. ~1869–1871 (not in 1869 or **1870** Biała birth indexes)
             d. Biała 17 Jan 1892, age 22
             m. Sura Nechuma Zak
                     │
@@ -406,6 +409,7 @@ Same-generation Herszberg women whose **own** marriages (pre-1885) would name a 
 - Mejta/Meita Herszberg (b. ~1856) × Jankiel Blusztejn  
 - Estera Herszberg (b. ~1863) × Aron Aronowicz  
 - Bluma Gerszberg × Mordko Minc  
+- **Sura Herszberg** × **Berko Edelman** (daughter Basia b. 1879)  
 
 ---
 
@@ -433,7 +437,7 @@ Same-generation Herszberg women whose **own** marriages (pre-1885) would name a 
 
 ## G. What to do next — do not restart discovery
 
-1. **Finish 1870 birth-index Г section** — unit 53 / **jednostka 167457**, **scan 116**. Then **1871** unit 54 / **167458**. If negative: 1868 /51, 1872 /55, 1873 /56.  
+1. **1871 birth-index Г section** — unit 54 / **jednostka 167458**, last scans (~161–174). 1869 and 1870 are already negative. If 1871 is negative: 1868 /51, 1872 /55, 1873 /56 (delayed registration).  
 2. **Read Jankiel Wolf Herszberg's 1872 birth act** in Biała (`35/1612/0/2.21/55` likely). It will name **Lejzor's father, age, occupation, house**. That is the cleanest H2 test (is Lejzor Khuna's brother?).  
 3. **Read Rywka Herszberg 3 Feb 1875 birth** and **Sura Herszberg 14 Oct 1865 birth** (Szmul × Szejndla) — same test for those fathers' patronymics.  
 4. On any Jankiel/Khuna hit: full act (ages, occupation, house, witnesses, maiden name).  
@@ -448,4 +452,4 @@ Same-generation Herszberg women whose **own** marriages (pre-1885) would name a 
 13. After any act gives Khuna's age: film **681205** / Biała births 1836–1864.  
 14. **Do not** re-search USHMM SourceId 15600 for exact Herszberg (done); **do** request the paper scans for Jankiel Wolf / Rywka / Sura 1865 if parent palaeography is disputed. **Do not** treat Łódź Chuna/Liba as this family.
 
-The parentage question is unsolved because the 1870–71 **Г sections**, the Khuna/Liba marriage act, and Lejzor's own birth/marriage (which would name *Lejzor's* father) have not yet been fully read — not because those records have been shown to be absent. The 1931–42 cards prove several other Herszberg fathers (Lejzor, Szmul, Abram Abe, Josel, Jankiel Wolf) and **do not** list Khuna.
+The parentage question is unsolved because the **1871 Г section**, the Khuna/Liba marriage act, and Lejzor's own birth/marriage (which would name *Lejzor's* father) have not yet been fully read. 1869 and **1870** Biała birth indexes are completed negatives. The 1931–42 cards prove several other Herszberg fathers (Lejzor, Szmul, Abram Abe, Josel, Jankiel Wolf) and **do not** list Khuna.
