@@ -409,6 +409,8 @@ Khuna has **no patronymic** there. The 1872 death index (same unit; JPEG `35_161
 
 A first attempt at **1860 D16** and **1831 B30** downloaded the wrong leaves (`/2.21/44` scan 82 = 1860 **marriage 24** Goldsztejn; `/2.21/14` scan 10 = akts **27–30** of an unconfirmed year). Those files are not D16 / B30.
 
+A later pass on the same 1831 jednostka (`35/1612/0/2.21/14`, reported id **167487**) downloaded scan **13** (`35_1612_0_2.21_14_896165.jpg`) as birth **akt 30**. Independent crops of that leaf do **not** yet yield a stable reading of the father’s surname (one pass: Gerszberg; an overlapping crop: Glikdorf). **Do not add Lejzor’s parents from this file until the letters are quoted from a single uncontradicted crop.** 1860 deaths in `/2.21/44` (id **167448**) start around scan **89**; akt 16 is still unread.
+
 ---
 
 ## C. Exact citations used this round
