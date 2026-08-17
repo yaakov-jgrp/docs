@@ -42,12 +42,12 @@ Live viewer (browser session, 17 Aug 2026) confirmed:
 
 Series page: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998 (`35/1612/0/2.21`, 8,869 scans).
 
-**1870 birth index location (confirmed on the scan, not guessed):**
-- Scans **116–117** of 121.
-- Heading: **Алфавитъ Младенца** / list of 1870 birth acts.
-- Two-column Cyrillic surname + act-number table.
-- A quick visual pass did **not** immediately show Гершберг/Герцберг, but only Б-names were quoted. **This is not a completed negative.** The Г section must still be read line-by-line.
-- Scans 120–121 are end-matter / cover, not more index.
+**1870 end-of-volume indexes (scans 115–119 captured in a browser session):**
+- Scan **116**: alphabetical surnames starting with **А**. Heading reported as **Алфавитъ Младенца** (birth index).
+- Scan **117**: surnames starting with **З** (Зайчикъ, Злотопольская, Зельманъ, …). Column headers look like a **marriage** index (husband/wife ages), not the infant list. Do not treat 117 as the birth-index Г page.
+- Cyrillic order is А Б В **Г** Д Е Ж **З**. There is **no separate scan between 116 and 117**. The birth-index **Г** block is therefore either on the remainder of scan **116** (after А, possibly Б/В/Г) or **absent** because no 1870 births were indexed under Г.
+- Гершберг/Герцберг has **not** been confirmed present or absent. A dedicated Г-section read of scan 116 is still required.
+- Scans 115, 118–119 are transition / continuation / near-blank; 120–121 are end-matter.
 
 **1871:** volume opened (cover labelled “7”). Birth index is expected at the end (~scans 161–174). Pages 161–162 were marriage/death text, not the birth alphabet. **Birth-index Г section not yet read.**
 
