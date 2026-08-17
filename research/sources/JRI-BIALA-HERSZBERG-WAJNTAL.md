@@ -132,6 +132,19 @@ Lublin gubernia exact HERSZBERG: 195 hits; no Khuna/Chuna Herszberg.
 
 Kodeń/Łomazy/Terespol 1850–1856 Herszberg children are Abram Icek, Abram Aba, Ruchla, Chaja, etc. — **no Khuna**.
 
+Line-listed 17 Aug 2026 evening (exact HERSZBERG, births 1848–1856 unless noted):
+
+- **Kodeń 1845–60 (10):** Abram Icek 1850 B1 Josel × Chana Chawa; Abram Aba 1850 B4 and Ruchla 1852 B14 Jankiel × Fejga Goldsztejn (res. Łomazy); Chaja 1854 B3 Aron × Touba Perla (res. Terespol); Josef 1859 B16 Lejb × Genendla; Mejer 1859 B27 Abram × Sura Dwera. Girls née Herszberg: Ryfka Rubinowicz 1845, Dwera Rozencweig 1849, Tema Basia Perelsztejn 1853, Ryfka Hellerman 1860.
+- **Terespol:** Hinda Ruchla 1851 B34 (blank parents, unikaty+duplikat); Abram Aba 1855 B15 (blank).
+- **Łomazy:** Ryfka 1849 B4; Abus 1849 B11 (blank on duplikat).
+- **Międzyrzec 1848–56 births: 0.** **Piszczac:** Srul 1850 B27 (blank). **Konstantynów: 0.** **GERSZBERG births Siedlce 1848–56: 0.**
+
+**Jankiel/Jankel + HERSZBERG births, all regions, 1868–1873: 2 hits**, of which the only extracted child is Moszek Hersz RODAL, Końskie 1868 B79 (mother Haja Dwojra HERSZBERG). **No Jankiel Hersz son of Khuna anywhere in JRI for that window.**
+
+**1881 M2** GERSZBERG Matla × ZONSZAJN Chaim Dawid, Biała PSA — parents blank.
+
+**CHERSZBERG exact, Siedlce (5):** Chisza 1871 D11 age 40 (née Kac, husband Zelik Szinkar, children **Chuna, Josel** — different Chuna); Chil Gerszon Rozenbaum 1871 M7 age 19 of Łosice (Boruch Mordko × Frejna CHERSZBERG); Jankel Cherszberg 1872 M3.
+
 ---
 
 ## 8. PSA Biała deaths 1878–1910 (GERSZBERG) — Khuna not listed
