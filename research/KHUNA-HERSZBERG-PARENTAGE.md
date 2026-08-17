@@ -29,7 +29,7 @@ No examined record names Khuna's parents. **1872 death akt 26 is now located on 
 | Surviving son | **Jankiel Hersz** | JRI age **5**; page also read as **1.5** — palaeography still open |
 | Witnesses | Boruch Gutman ~52, Szulim Piwo ~62 | Same pair as other 1872 Biała deaths |
 
-**Still required from scan 113 at high zoom:** Khuna’s age; any `сынъ` + given name after the husband (not after the child); exact child age word.
+**Still required from scan 113 at ~100–120% zoom (not 600%):** Khuna’s age; any `сынъ` + given name after the husband (not after the child); exact child age word. A high-zoom pass failed to capture that sentence in one readable frame.
 
 **What JRI now rules out, at index level:**
 
