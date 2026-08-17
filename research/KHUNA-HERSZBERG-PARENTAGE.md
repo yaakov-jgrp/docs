@@ -359,7 +359,17 @@ Working copy of the extract: `research/sources/JRI-BIALA-HERSZBERG-WAJNTAL.md` a
 
 This is **Level B** (published index). It does **not** replace the Russian acts. It **does** mean we should stop treating 1865–1873 / film 1199952 as “JRI in-progress / empty.”
 
-**Do not treat scan 105 of 167459 as 1872 D26.** A browser pass opened scan 105 (of 141) and mislabelled it. That page is **death akt 10**, 27 Feb 1872, **Gitel/Gidel Fishman**, child of Moishka × Tema/Beyla Rozenbaum — **not** Liba Enta Herszberg. Any “сынъ Хуны / husband son of Khuna” reading from that session is **void**. Akt 26 is later in the same death section (roughly scans **113–125** if ~1–2 acts per page after akt 10). Death indexes sit near the end, before or around the birth index at scan ~137.
+**1872 B32 is now located on the original (scan 18), D26 is still not.** Browser session on jednostka **167459** (141 scans):
+
+| Scan | What it actually is | Status |
+|---|---|---|
+| **18** | Birth **akt 32**, left margin **Янкель Вульф Гершбергъ**. Drawn up 15 May 1872, 9 a.m. Child **Jankiel Wulf** born **7 May 1872**, 4 p.m. Father **Лейзеръ Гершбергъ**, age **34**, **blacksmith** (кузнецъ), of Biała. Mother indexed/read as **Малька / Mejta** née **Эдельманъ**, age **32**. Witnesses Josel Petersburg 67, Szulim Piwo 62. | **Lejzor’s patronymic (сынъ X) not yet extracted** from the narrative. Age 34 ⇒ b. ~1838; JRI 1831 B30 would make him ~41 — flag, do not merge or split without 1831 B30. Mother Małka vs Mejta is palaeography vs 1931 cards. Occupation matches the later blacksmith line (Jankiel Wolf kowal). |
+| 105 | Death **akt 10**, 27 Feb 1872, Fishman | Not Herszberg |
+| **134** | Death **akt 66**, 13/25 Dec 1872, **Gitla Olshenbaum**, parents Gosil × Hana Nukha — **not** akt 26 | A later pass labelled this D26; **that label is wrong.** |
+
+**D26 (Liba Enta) is still unread.** Interpolation: akt 10 on scan 105 (Feb) and akt 66 on scan 134 (Dec) ⇒ ~2 acts/scan ⇒ akt 26 ≈ **scans 112–116**. Do not reopen 105 or 134 as D26.
+
+**1872 D26 (must open on jednostka 167459 / film 1199952):** Liba Enta HERSZBERG / WAJNTLOW, 19, father Jankel Hersz, mother Dwejra, husband Khuna 19, child Jankiel Hersz 5. Target scans **112–116**.
 
 **WAJNTAL in Biała (H3 now strong):** Beniamin Wulf 1849 B68, parents Jankiel × Dwora; Jankiel WAJNTAL 1856 D9; Golda 1848 M13 father Josel; Josel Lejb 1868 D44 age 75 father Srul. Liba Enta’s birth is **not** under WAJNTAL in JRI (0 hits for Liba+WAJNTAL). Open 1849 B68 and 1856 D9 for Jankiel’s patronymic and whether he was already dead when Liba married.
 
