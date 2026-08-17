@@ -486,7 +486,7 @@ Abram Abe Herszberg  ×  Chaja Sura Wajsbrot
 |---|---|---|
 | **H1** | Khuna is son of Abram Herszberg + Chana Tauba | **Possible, weaker after JRI.** Their indexed children are Sura Fejga (1829), Mojsko Lejb (1840), Cyrla (m. 1851 age 17). **No Khuna birth.** Abram's **1860 D16** original is the test (surviving sons). Do not add Abram as father. |
 | **H2** | Khuna is brother/cousin of Lejzor Herszberg (b. 1831 B30) | **Still unknown.** Lejzor's parents are **blank in JRI**. Open **1831 B30** and **1862 M21** and **1872 B32**. Khuna is not Lejzor's son. |
-| **H3** | Liba Enta's maiden name is WAJNTAL (indexed WAJNTLOW) | **Strong, not yet proved on the original page.** JRI 1872 D26 parents Jankel Hersz × Dwejra match 1849 B68 Beniamin Wulf WAJNTAL (Jankiel × Dwora). WAJNTLOW is a unique JRI spelling (1 hit). 1931 cards still have no Wajntal. |
+| **H3** | Liba Enta's maiden name is WAJNTAL (indexed WAJNTLOW; page “из Валенталовъ”) | **Strong.** Original D26 margin and parents Jankiel Hersz × Dwejra match 1849 B68 Beniamin Wulf WAJNTAL. WALENTAL exact JRI: 0. |
 | **H4** | Liba Enta belongs to a Wajntraub/Wajntrob family | **Weaker.** Local Wajntraubs exist; they do not match Jankel Hersz × Dwejra. |
 | **H9** | Khuna is Szmul Herszberg × Szejndla Kligsberg (Sura b. 1865) | **Unproved.** Do not equate Szmul with Khuna. |
 | **H10** | Basia Edelman's mother Sura Herszberg is Khuna's sister | **Possible, unproved.** JRI **1862 M16 Sura × Berek ADELMAN** — open for Sura's father. |
@@ -521,7 +521,7 @@ Same-generation Herszberg women whose **own** marriages (pre-1885) would name a 
 | Chuna Warszawski × Genja Domaczewska (1872/1875 births) | **Separate couple.** Do not merge with Herszberg. |
 | Szaja Huna Herszberg of Jędrzejów (b. 1847, Zelig × Ruchla Tenenbaum) | **Rejected.** Wrong town. |
 | Chaim Chuna Gerszberg of Terespol (m. 1884 Kodeń age 18, Aron × Tauba) | **Rejected.** Too young. |
-| Chuna Hornberg b. 1854 Biała (Zelko × Cisna) | **Unproved alternate identity.** Same town and year; different surname in the index. Do not rename him Herszberg without an act. |
+| “Khuna son of Goldenshtand” from a D26 pass | **Rejected as a reading.** No such Biała surname in JRI; independent reading of scan 113 does not name Khuna’s father. |
 | Cyna Wajntrob 1875 Chęciny | **Already rejected** (wrong town). |
 | Memorial-book “Shlomo Chaim the melamed” | **Already rejected** (no Herszberg). |
 | St. Anne / bbc.mbp.org.pl | **Already rejected** (Catholic). |
