@@ -14,10 +14,22 @@
 | **Khuna Herszberg's mother** | **UNKNOWN** |
 | **Confidence** | **unknown** |
 
-No examined record — including the full JRI-Poland HERSZBERG/GERSZBERG extract for Biała and a nationwide Khuna+Herszberg search — names Khuna's parents. The two strongest *near-primary* acts still name him only as a husband/father:
+No examined record names Khuna's parents. **1872 death akt 26 is now located on the original scans** (jednostka 167459, **scan 113**). It confirms the JRI identification of the deceased and of Khuna as her husband. A browser pass proposed “Khuna son of Goldenshtand”; that reading is **not accepted** (no GOLDENSHTAND in Biała JRI; independent reading of the same page names Khuna without a father). Khuna's father and mother remain **unknown**.
 
-1. **JRI 1872 Biała death akt 26** (film 1199952): **Liba Enta HERSZBERG / WAJNTLOW**, age **19**, father **Jankel Hersz**, mother **Dwejra**, spouse **Khuna age 19**, surviving child **Jankiel Hersz age 5**. This is the first index that ages Khuna (~born **1853**) and names Liba Enta's parents. It does **not** name Khuna's father. Original Russian page not yet read.
-2. Jankiel's **1892** death (Dvorkin): parents Khuna + Liba Enta WAJNTLOW; no Khuna patronymic.
+**1872 D26 original (scan 113, akt № 26) — what is confirmed vs not:**
+
+| Field | Confirmed on the page / JRI | Notes |
+|---|---|---|
+| Unit | `35/1612/0/2.21/55` jednostka **167459**, scan **113** of 141 | Scan 112 = akts 23–24; 114 = 27–28 |
+| Deceased | **Либа Энта** Herszberg, maiden **из Валенталовъ / WAJNTLOW** | Aligns with WAJNTAL; WALENTAL has 0 JRI hits |
+| Age | **19** | ⇒ b. ~1853 if the age is right |
+| Death / registration | Died **yesterday 26 July 1872** ~9 a.m.; recorded **27 July 1872**, Biała | One independent reading of the date line |
+| Her parents | **Jankiel Hersz × Dwejra**, spouses **Walental / Wajntal** | Matches 1849 B68 Beniamin Wulf WAJNTAL |
+| Husband | **Khuna** (Хуну) Herszberg | **Patronymic not verified.** Discard “Гольденштандъ”. |
+| Surviving son | **Jankiel Hersz** | JRI age **5**; page also read as **1.5** — palaeography still open |
+| Witnesses | Boruch Gutman ~52, Szulim Piwo ~62 | Same pair as other 1872 Biała deaths |
+
+**Still required from scan 113 at high zoom:** Khuna’s age; any `сынъ` + given name after the husband (not after the child); exact child age word.
 
 **What JRI now rules out, at index level:**
 
@@ -30,7 +42,7 @@ No examined record — including the full JRI-Poland HERSZBERG/GERSZBERG extract
 
 **What JRI now supports at high confidence for the wife's natal family (not Khuna's):** Liba Enta's parents **Jankel Hersz × Dwejra** match the Biała **WAJNTAL** couple **Jankiel × Dwora**, who had **Beniamin Wulf WAJNTAL** in 1849 (B68). **Jankiel WAJNTAL** died 1856 (D9). Treat WAJNTLOW as the 1872 indexer's reading of WAJNTAL until the Cyrillic page is seen.
 
-The **1871** birth-index Г section is now a **completed negative** (jednostka 167458, scan 170). Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. Next unread highest-value scans: **1872 D26 / B32 originals**, then **1866–1868** births (age 5 in 1872 ⇒ ~1867).
+The **1871** birth-index Г section is a **completed negative**. Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. If the D26 child age is **1.5** (born ~Jan 1871), that negative is sharper; if it is **5**, keep searching **1866–1868**. **1872 D26 original is found (scan 113); Khuna’s patronymic is not.** Next: high-zoom husband line on 113; Lejzor `сынъ` on scan 18; then 1860 D16 Abram / 1831 B30 Lejzor.
 
 ---
 
@@ -365,11 +377,13 @@ This is **Level B** (published index). It does **not** replace the Russian acts.
 |---|---|---|
 | **18** | Birth **akt 32**, left margin **Янкель Вульф Гершбергъ**. Drawn up 15 May 1872, 9 a.m. Child **Jankiel Wulf** born **7 May 1872**, 4 p.m. Father **Лейзеръ Гершбергъ**, age **34**, **blacksmith** (кузнецъ), of Biała. Mother indexed/read as **Малька / Mejta** née **Эдельманъ**, age **32**. Witnesses Josel Petersburg 67, Szulim Piwo 62. | **Lejzor’s patronymic (сынъ X) not yet extracted** from the narrative. Age 34 ⇒ b. ~1838; JRI 1831 B30 would make him ~41 — flag, do not merge or split without 1831 B30. Mother Małka vs Mejta is palaeography vs 1931 cards. Occupation matches the later blacksmith line (Jankiel Wolf kowal). |
 | 105 | Death **akt 10**, 27 Feb 1872, Fishman | Not Herszberg |
-| **134** | Death **akt 66**, 13/25 Dec 1872, **Gitla Olshenbaum**, parents Gosil × Hana Nukha — **not** akt 26 | A later pass labelled this D26; **that label is wrong.** |
+| **110** | Death **akt 20**, 4/16 May 1872, **Bluma Rac** age 42, parents Lejbka × Cypa. Husband **Хуня age 57** (~b. 1815), sons **Hersz-Wolf 24** and **Berko 18**. Witnesses Berko Gutman 52, Szulim Piwo 62. | **Different Khuna.** Too old; different wife. A pass labelled this № 26; the margin is **№ 20**. Do not merge with our Khuna (~19 in 1872). |
+| **113** | Death **akt 26**, **Liba Enta** Herszberg née Wajntlow/Walental, 19, d. 26 Jul 1872. Parents Jankiel Hersz × Dwejra. Husband **Khuna**. Son Jankiel Hersz. | **This is D26.** Khuna’s father **not verified** on the page. Discard Goldenshtand. Child age 5 vs 1.5 still open. |
+| **114** | Death akts **27** and **28** | Past D26 |
 
-**D26 (Liba Enta) is still unread.** Interpolation: akt 10 on scan 105 (Feb) and akt 66 on scan 134 (Dec) ⇒ ~2 acts/scan ⇒ akt 26 ≈ **scans 112–116**. Do not reopen 105 or 134 as D26.
+**D26 is scan 113.** Do not reopen 105, 110, or 134 as D26. High-zoom of the husband clause on 113 is still required. A “сынъ Гольденштанда” reading is **rejected** until the letters are shown; Biała JRI has Goldenberg / Goldensztejn, not Goldenshtand.
 
-**1872 D26 (must open on jednostka 167459 / film 1199952):** Liba Enta HERSZBERG / WAJNTLOW, 19, father Jankel Hersz, mother Dwejra, husband Khuna 19, child Jankiel Hersz 5. Target scans **112–116**.
+**H3** is now **strong**: the original margin reads Liba Enta **из Валенталовъ** Herszberg, parents Jankiel Hersz × Dwejra, Walental/Wajntal spouses. Keep the JRI spelling WAJNTLOW in citations. WALENTAL as an exact JRI surname: **0** hits.
 
 **WAJNTAL in Biała (H3 now strong):** Beniamin Wulf 1849 B68, parents Jankiel × Dwora; Jankiel WAJNTAL 1856 D9; Golda 1848 M13 father Josel; Josel Lejb 1868 D44 age 75 father Srul. Liba Enta’s birth is **not** under WAJNTAL in JRI (0 hits for Liba+WAJNTAL). Open 1849 B68 and 1856 D9 for Jankiel’s patronymic and whether he was already dead when Liba married.
 
@@ -522,8 +536,8 @@ Same-generation Herszberg women whose **own** marriages (pre-1885) would name a 
 
 JRI-Poland Biała Herszberg/Gerszberg and nationwide Khuna+Herszberg are **done** (B23). Do not re-dump those indexes.
 
-1. **Open 1872 D26 Liba Enta** on `35/1612/0/2.21/55` jednostka **167459** (film 1199952). Extract Khuna’s patronymic if the Russian narrative has сынъ X, house number, occupation, whether Jankel Hersz / Dwejra were living, palaeography of WAJNTLOW. This is the single highest-value unread act.
-2. **Open 1872 B32 Jankel Wulf** on the same unit — Lejzor’s patronymic (H2).
+1. **High-zoom 1872 D26 scan 113** — Khuna’s age and any `сынъ` after the husband (not the child). Goldenshtand is not a working hypothesis until the letters are visible.
+2. **Scan 18 B32** — Lejzor’s `сынъ` given name (H2).
 3. **1849 B68 Beniamin Wulf WAJNTAL** and **1856 D9 Jankiel WAJNTAL** (film 1199950 / 1199951) — Jankiel’s age, patronymic, widow Dwora.
 4. **1860 D16 Abram Herszberg** — surviving children (H1 kill/confirm).
 5. **1831 B30 Lejzor** and **1862 M21 Lejzor × Mojte** — Lejzor’s parents.
