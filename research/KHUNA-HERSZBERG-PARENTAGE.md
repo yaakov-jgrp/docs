@@ -359,7 +359,7 @@ Working copy of the extract: `research/sources/JRI-BIALA-HERSZBERG-WAJNTAL.md` a
 
 This is **Level B** (published index). It does **not** replace the Russian acts. It **does** mean we should stop treating 1865–1873 / film 1199952 as “JRI in-progress / empty.”
 
-**1872 D26 (must open on jednostka 167459 / film 1199952):** Liba Enta HERSZBERG / WAJNTLOW, 19, father Jankel Hersz, mother Dwejra, husband Khuna 19, child Jankiel Hersz 5.
+**Do not treat scan 105 of 167459 as 1872 D26.** A browser pass opened scan 105 (of 141) and mislabelled it. That page is **death akt 10**, 27 Feb 1872, **Gitel/Gidel Fishman**, child of Moishka × Tema/Beyla Rozenbaum — **not** Liba Enta Herszberg. Any “сынъ Хуны / husband son of Khuna” reading from that session is **void**. Akt 26 is later in the same death section (roughly scans **113–125** if ~1–2 acts per page after akt 10). Death indexes sit near the end, before or around the birth index at scan ~137.
 
 **WAJNTAL in Biała (H3 now strong):** Beniamin Wulf 1849 B68, parents Jankiel × Dwora; Jankiel WAJNTAL 1856 D9; Golda 1848 M13 father Josel; Josel Lejb 1868 D44 age 75 father Srul. Liba Enta’s birth is **not** under WAJNTAL in JRI (0 hits for Liba+WAJNTAL). Open 1849 B68 and 1856 D9 for Jankiel’s patronymic and whether he was already dead when Liba married.
 
