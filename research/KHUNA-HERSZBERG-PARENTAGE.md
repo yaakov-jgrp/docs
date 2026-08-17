@@ -22,6 +22,8 @@ The **1870** birth-index **Г** section has now been read (jednostka 167457, sca
 
 The **1871** birth index (jednostka 167458, 174 scans) is **not yet read**.
 
+A 1872–73 duplicate-index pass for **Jankiel Wolf** (Lejzor’s son, card date 7 May 1872) did **not** find Гершберг in those Г sections. That does **not** disprove the 1931 birthplace; Lejzor’s patronymic is still unread (see B22).
+
 ---
 
 ## B. What was completed this round (do not redo)
@@ -43,6 +45,8 @@ Live viewer (browser session, 17 Aug 2026) confirmed:
 |---|---|---|---|---|
 | **1870** | `35/1612/0/2.21/53` | **121** | **167457** | https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457 |
 | **1871** | `35/1612/0/2.21/54` | **174** | **167458** | https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167458 |
+| **1872** | `35/1612/0/2.21/55` | (opened) | **167459** | https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167459 |
+| **1873** | `35/1612/0/2.21/56` | (opened) | **167460** | https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167460 |
 
 Series page: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998 (`35/1612/0/2.21`, 8,869 scans).
 
@@ -323,6 +327,19 @@ No Chuna/Khuna in the translated index.
 
 `api/getAct.php` (GET and JSON POST) returned `recordsTotal: 0` even for the already-known 1823 Gotla Herszberg row. Treat that as an **API/session failure from this datacenter**, not as a nationwide negative. The 1823 Gotla index hit still stands from the prior session.
 
+### B22. 1872–73 duplicate birth indexes — Jankiel Wolf Herszberg not under Г
+
+USHMM card 5657272 still stands: Jankiel Wolf, born **7 May 1872, Biała**, parents Lejzor × Mejta Edelman. The civil act should exist. A browser pass of the **duplicate** books did not find Гершберг / Герцберг in the Г infant index:
+
+| Year | Signature | Jednostka | What was read |
+|---|---|---|---|
+| **1872** | `35/1612/0/2.21/55` | **167459** | Birth index ~scan 137, Cyrillic Г (acts ~15–22): Гиршель Гейделович, Гозинштадт, Гришунского, Гофмагел, **Гриньберга**, Гирштадь, **Гилбергль**. Not Гершберг. |
+| **1873** | `35/1612/0/2.21/56` | **167460** | End-of-volume scans ~199–201; one page labelled “Numbering Error”; visible surnames mostly Latin-script G (Goldmann, etc.). Cyrillic Гершберг not located in the portion examined. |
+
+**Do not treat this as a completed negative** that he was unregistered. Independent evidence says he was born in Biała in 1872. Likely remaining causes: indexed under **Х** / a given-name column / **Гринберг** misread; delayed registration after 1873; unikaty (series other than 2.21) not the duplicate; palaeography on scan 137 still needs a second pair of eyes on Гриньберга vs Гершберг.
+
+Lejzor’s **patronymic is still unread**. Next for H2: re-open 167459 scan 137 (and the matching birth acts for Гриньберга / Гилбергль if the child could be Jankiel), then 1874+, then unikaty, then Rywka’s 1875 birth.
+
 ---
 
 ## C. Exact citations used this round
@@ -335,6 +352,8 @@ No Chuna/Khuna in the translated index.
 6. HebrewBooks 35010, רמזי דחכמתא (Zak, Warsaw 1932). https://www.hebrewbooks.org/35010
 7. 1870 duplicate book: `35/1612/0/2.21/53`, jednostka **167457**, 121 scans. Birth index scans **116–117**. https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457
 8. 1871 duplicate book: `35/1612/0/2.21/54`, jednostka **167458**, 174 scans. https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167458
+8a. 1872 duplicate book: `35/1612/0/2.21/55`, jednostka **167459**. Birth index ~scan 137 (Г). https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167459
+8b. 1873 duplicate book: `35/1612/0/2.21/56`, jednostka **167460**. https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167460
 9. Series 2.21: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998
 10. Geneteka lubelskie birth 1823 akt 128, Gotla Herszberg, parents Herszko + Chaja Szmulowicz, Biała św. Anna USC (mojżeszowe), jednostka 220911.
 11. Skanoteka 1122d: Akta stanu cywilnego wyznania mojżeszowego w **Białej Rawskiej** = fonds 73/1122/0. https://metryki.genealodzy.pl/opozespole-id1062
@@ -392,7 +411,7 @@ Abram Abe Herszberg  ×  Chaja Sura Wajsbrot
 | ID | Hypothesis | Status after this round |
 |---|---|---|
 | **H1** | Khuna is son of Abram Herszberg + Chana Tauba | **Possible, still unproved.** Sura Fejga Waserman née Herszberg (d. 1886) is their daughter. No record places Khuna in that sibship. Do not add Abram as Khuna's father. |
-| **H2** | Khuna is brother/cousin of Lejzor Herszberg (~1838) | **Still unknown, now better bounded.** Lejzor's children Jankiel Wolf (1872) and Rywka (1875) are documented; **Khuna is not their father**. Lejzor's *own* parents are still unread. 1872 birth of Jankiel Wolf is the fastest way to get Lejzor's patronymic. |
+| **H2** | Khuna is brother/cousin of Lejzor Herszberg (~1838) | **Still unknown, now better bounded.** Lejzor's children Jankiel Wolf (1872) and Rywka (1875) are documented on 1931 cards; **Khuna is not their father**. The 1872 duplicate Г index did not yield Lejzor's patronymic (B22). Use Rywka 1875 or a second pass on 167459. |
 | **H3** | Liba Enta's surname is properly Wajntal | **Plausible but unsupported by 1931–42 cards** (no Wajntal in ŻIH 244). Dwojra Wajntal d. 1889 still the only local 19th-century hint. Original 1892 page required. |
 | **H4** | Liba Enta belongs to a Wajntraub/Wajntrob family | **Possible, weaker.** 1931 cards have Wajntraubs; Liba Wajntraub b. 1900 Terespol is **not** Liba Enta. |
 | **H9** | Khuna is Szmul Herszberg × Szejndla Kligsberg (Sura b. 1865) | **Unproved.** New named couple. Sura's 1865 birth act would give Szmul's age/patronymic. Do not equate Szmul with Khuna. |
@@ -437,8 +456,8 @@ Same-generation Herszberg women whose **own** marriages (pre-1885) would name a 
 
 ## G. What to do next — do not restart discovery
 
-1. **1871 birth-index Г section** — unit 54 / **jednostka 167458**, last scans (~161–174). 1869 and 1870 are already negative. If 1871 is negative: 1868 /51, 1872 /55, 1873 /56 (delayed registration).  
-2. **Read Jankiel Wolf Herszberg's 1872 birth act** in Biała (`35/1612/0/2.21/55` likely). It will name **Lejzor's father, age, occupation, house**. That is the cleanest H2 test (is Lejzor Khuna's brother?).  
+1. **1871 birth-index Г section** — unit 54 / **jednostka 167458**, last scans (~161–174). 1869 and 1870 are already negative.  
+2. **Jankiel Wolf 1872 birth** — duplicate Г index on jednostka **167459** scan ~137 did not show Гершберг. Do **not** redo a generic Г dump. Next: **Х** section, given-name index, open the **Гриньберга / Гилбергль** acts on that page, then 1874+ / unikaty, then **Rywka 3 Feb 1875** (same father, may be easier to find).  
 3. **Read Rywka Herszberg 3 Feb 1875 birth** and **Sura Herszberg 14 Oct 1865 birth** (Szmul × Szejndla) — same test for those fathers' patronymics.  
 4. On any Jankiel/Khuna hit: full act (ages, occupation, house, witnesses, maiden name).  
 5. **Original 1892 death page** for WAJNTLOW palaeography.  
@@ -452,4 +471,4 @@ Same-generation Herszberg women whose **own** marriages (pre-1885) would name a 
 13. After any act gives Khuna's age: film **681205** / Biała births 1836–1864.  
 14. **Do not** re-search USHMM SourceId 15600 for exact Herszberg (done); **do** request the paper scans for Jankiel Wolf / Rywka / Sura 1865 if parent palaeography is disputed. **Do not** treat Łódź Chuna/Liba as this family.
 
-The parentage question is unsolved because the **1871 Г section**, the Khuna/Liba marriage act, and Lejzor's own birth/marriage (which would name *Lejzor's* father) have not yet been fully read. 1869 and **1870** Biała birth indexes are completed negatives. The 1931–42 cards prove several other Herszberg fathers (Lejzor, Szmul, Abram Abe, Josel, Jankiel Wolf) and **do not** list Khuna.
+The parentage question is unsolved because the **1871 Г section**, the Khuna/Liba marriage act, and Lejzor's patronymic (1872 act not yet extracted; 1875 Rywka unread) have not been fully read. 1869 and **1870** Biała birth indexes are completed negatives for Khuna's son. The 1931–42 cards prove several other Herszberg fathers (Lejzor, Szmul, Abram Abe, Josel, Jankiel Wolf) and **do not** list Khuna.
