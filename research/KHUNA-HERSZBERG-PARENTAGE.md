@@ -30,7 +30,7 @@ No examined record — including the full JRI-Poland HERSZBERG/GERSZBERG extract
 
 **What JRI now supports at high confidence for the wife's natal family (not Khuna's):** Liba Enta's parents **Jankel Hersz × Dwejra** match the Biała **WAJNTAL** couple **Jankiel × Dwora**, who had **Beniamin Wulf WAJNTAL** in 1849 (B68). **Jankiel WAJNTAL** died 1856 (D9). Treat WAJNTLOW as the 1872 indexer's reading of WAJNTAL until the Cyrillic page is seen.
 
-The **1871** birth index (jednostka 167458) and the **1872 D26 / B32 originals** are still the highest-value unread scans.
+The **1871** birth-index Г section is now a **completed negative** (jednostka 167458, scan 170). Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. Next unread highest-value scans: **1872 D26 / B32 originals**, then **1866–1868** births (age 5 in 1872 ⇒ ~1867).
 
 ---
 
@@ -45,7 +45,7 @@ Confirmed by the previous agent and not repeated here:
 - No Гершберг / Герцберг or plausible Herszberg/Gerszberg variant.
 - Jankiel was **not** registered in Biała in 1869.
 
-### B2. 1870 birth-index Г section — NEGATIVE; 1871 still unread
+### B2. 1870 birth-index Г section — NEGATIVE; 1871 now also NEGATIVE
 
 Live viewer (browser session, 17 Aug 2026) confirmed:
 
@@ -66,9 +66,14 @@ Series page: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998 (`35/1612
 - **No Гершберг / Герцберг / Герсберг / Хершберг.** Do not treat Гершелькъ as Herszberg.
 - Scans 115, 118–119 are transition / continuation / near-blank; 120–121 are end-matter.
 
-**1870 result:** Jankiel / Khuna **not** in the 1870 Biała birth index. This is a completed negative for 1870 births indexed under Г. It is **not** a negative for 1871, delayed registration, or another okręg.
+**1870 result:** Jankiel / Khuna **not** in the 1870 Biała birth index. This is a completed negative for 1870 births indexed under Г. It is **not** a negative for delayed registration or another okręg.
 
-**1871:** volume opened (cover labelled “7”, 174 scans). Birth index is expected at the end (~scans 161–174). Pages 161–162 were marriage/death text, not the birth alphabet. **Birth-index Г section not yet read.** A follow-up session had the 1871 unit loaded but stopped before the index.
+**1871 (completed 17 Aug 2026, jednostka 167458, 174 scans):**
+- Birth index **Алфавитъ Младенца** is **scan 170** (infant names/surnames). Scan 171 is a parent index; 161–169 are marriage/death text; 172 administrative.
+- Full Cyrillic **Г** section on scan 170: **Грильшъ** (Meshel Abram, entry 7); **Грюссмокеръ** (Sorke, entry 10). About 26 births in the year.
+- **No Гершберг / Герцберг / Герсберг / Хершберг.** No Jankiel son of Khuna.
+- No separate **Х** block was visible on scan 170.
+- Combined with 1869 and 1870: Jankiel was **not** registered in Biała in **1869–1871**. JRI 1864–73 is also negative for a Khuna-fathered Herszberg birth. Remaining birth window: **1866–1868** (age 5 in 1872 D26) and delayed acts after 1871.
 
 FamilySearch film **1199952** from this host hits a **sign-in wall**. Do not treat FS as the working copy. The Polish archive scans are the working copy.
 
@@ -513,7 +518,7 @@ JRI-Poland Biała Herszberg/Gerszberg and nationwide Khuna+Herszberg are **done*
 4. **1860 D16 Abram Herszberg** — surviving children (H1 kill/confirm).
 5. **1831 B30 Lejzor** and **1862 M21 Lejzor × Mojte** — Lejzor’s parents.
 6. **1862 M16 Sura × Berek Adelman** — Sura’s father (H10).
-7. **1871 birth-index Г** (jednostka **167458**) and **1866–1868** births for Jankiel son of Khuna (age 5 in 1872 ⇒ ~1867). 1869–70 Г already negative; JRI 1864–73 also negative.
+7. **1866–1868** birth-index Г for Jankiel son of Khuna (age 5 in 1872 ⇒ ~1867). **1869, 1870, and 1871** Г are completed negatives; JRI 1864–73 is also negative. Try jednostka IDs **167453–167455** (confirm year on the cover).
 8. Khuna × Liba marriage: not in JRI Biała 1858–75. Search **1855 alegata**, delayed marriage after Jankiel WAJNTAL’s 1856 death, and **Kodeń / Terespol / Łomazy** (Herszberg towns that actually have 1850s acts).
 9. Khuna × Fejga Domaczewska remarriage **1873–1885** (H5). PSA marriages 1878–93 given-name columns are thin — read marriage indexes for Х / Chuma, not only Herszberg.
 10. If 1872 D26 confirms age ~19, search **non-Herszberg** 1852–1854 Biała births only if an original later gives a different surname; otherwise search **Kodeń unikaty** (some 1850s Herszberg births are “duplikat set” with blank parents in JRI).
