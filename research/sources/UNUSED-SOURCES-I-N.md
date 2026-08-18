@@ -224,3 +224,6 @@ https://poborowi.ltg.pl/baza-rekrutow/
 - 19th-c. Siedlce gubernial newspaper.
 
 Khuna’s father and mother remain **unknown**. I–N does not change that. The only unused online original that is *worth opening* from this pass is still **Sławatycze 1854 B13** (Fejga’s parents) plus, if a browser can get the list, any **digitized `38/20/0` ludności unit**. Everything else is a documented negative or an on-site Radzyń job.
+
+**Same-day JRI leftover queries** (1865 D32 given name still `?`; exact given Khuna + Biała = only 1872 D26; Biała Herszberg/Gerszberg deaths **1878–1915** have no adult Khuna; Feyga Hinda 1854 B13 is index page **165**): `research/sources/JRI-REMAINING-QUERIES.md`.
+
