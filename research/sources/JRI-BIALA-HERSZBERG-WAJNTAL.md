@@ -117,7 +117,7 @@ Son **Moszek** d. 1841 D24 age 24, father Herszek Abramowicz, mother Chaja, wife
 
 **Abram × Tauba / Chana**: Mojsko Lejb 1840; Cyrla m. 1851 M2 age 17 (father Abram, mother Chana); Sura Fejga b. 1829 (twin), m. Elo Waserman 1845 M19; Abram d. **1860 D16** (index has no survivors — original required).
 
-**Lejzor** b. **1831 B30** (parents blank in JRI); m. 1862 M21 Mojte Ejdelman; son Jankel Wulf 1872 B32; son Josel 1877 B84.
+**Lejzor** b. **1831 B30** (parents blank in JRI) is **not** automatically the 1862 M21 groom. **1862 M21** Lejzor × Mojte/Mejle Ejdelman: original (scan 84, jednostka 167450) names parents **Dan × Ester**, both living. Son Jankel Wulf 1872 B32; son Josel 1877 B84.
 
 **Dan × Ester**: Basia Bejla 1838, Tjzla 1847, Chana 1854 (d. 6m), Tyla m. 1865 age 17, Meita m. 1872 age 16. Zelko d. 1903 age 67 father Don/Dania × Estera.
 
