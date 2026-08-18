@@ -42,7 +42,7 @@ Working copies: `research/scans/1872-d26-scan113-full.jpg` (full leaf); `d26-par
 
 **What JRI now supports at high confidence for the wife's natal family (not Khuna's):** Liba Enta's parents **Jankel Hersz × Dwejra** match the Biała **WAJNTAL** couple **Jankiel × Dwora**, who had **Beniamin Wulf WAJNTAL** in 1849 (B68). **Jankiel WAJNTAL** died 1856 (D9). Treat WAJNTLOW as the 1872 indexer's reading of WAJNTAL until the Cyrillic page is seen.
 
-The **1871** birth-index Г section is a **completed negative**. Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. The original D26 age **полтора года** now makes that negative the right window (born ~Jan 1871), not 1866–1868. Delayed 1872 registration remains possible: the 1872 Г infant index also missed **Jankiel Wolf Herszberg B32**, who is on scan 18, so that index is **incomplete**. **Khuna’s patronymic is not on D26.** **1860 D16 is now read (H1 rejected).** **1862 M21 is now read:** Lejzor’s parents are **Dan × Ester**. **1852 B1 and B9 originals are now located:** neither child is Khuna. The three 1852 Herszberg births with blank JRI parents are **not** a hidden Khuna registration. **B31 non-BMD pass also names no father. 1862 M16: Sura is Dan × Ester’s daughter — Khuna still not named. JRI deaths 1878–1915 also lack Khuna.** Next: Szukaj originals (1865 M27, 1856 B33, 1860 B48, 1873 marriages, Sławatycze 1854 B13); APL Radzyń residents/notary/hipoteka; a letter-stable D32 reading. Do not expect 1874+ Bialski name lists in fond 175.
+The **1871** birth-index Г section is a **completed negative**. Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. The original D26 age **полтора года** now makes that negative the right window (born ~Jan 1871), not 1866–1868. Delayed 1872 registration remains possible: the 1872 Г infant index also missed **Jankiel Wolf Herszberg B32**, who is on scan 18, so that index is **incomplete**. **Khuna’s patronymic is not on D26.** **1860 D16 is now read (H1 rejected).** **1862 M21 is now read:** Lejzor’s parents are **Dan × Ester**. **1852 B1 and B9 originals are now located:** neither child is Khuna. The three 1852 Herszberg births with blank JRI parents are **not** a hidden Khuna registration. **B31 non-BMD pass also names no father. 1862 M16: Sura is Dan × Ester’s daughter — Khuna still not named. JRI deaths 1878–1915 also lack Khuna. 1865 D32 palaeography (B34c): Jewish man Dan/Dana Herszberg, age in the eighties, Khuna not named, parents unpublished.** Next: Szukaj originals (1865 M27, 1856 B33, 1860 B48, 1873 marriages, Sławatycze 1854 B13); APL Radzyń residents/notary/hipoteka. Do not expect 1874+ Bialski name lists in fond 175.
 
 ---
 
@@ -540,7 +540,7 @@ Working copies: `research/scans/1890-b101-REAL-full.jpg`; `1890-a101-father-band
 
 **Identity:** this is the same Biała man as the 1930s Chuma/Chuna × Fejga Domaczewska cards, and the **same age** as the 1872 D26 husband (19 in June 1872 ⇒ ~36–37 in 1890). **H5 is now a strong identity: our Khuna remarried Fejga née Domaczewska.** It still does **not** name his parents.
 
-**1865 D32 — not read.** Jednostka **167452** (`/2.21/48`, 149 scans) is mapped. A file labelled `1865-d32-REAL-full.jpg` is a **Polish marriage leaf** (Korenkier / Borenhut-type names; margin not a confirmed death № 32 Herszberg). Discard as D32. Hunt again in the death section of 167452.
+**1865 D32 — later located on scan 118** (see B32b / B34c). `1865-d32-REAL-full.jpg` remains a **wrong leaf** (marriage page 78). Do not reuse it.
 
 **1862 M16 / 1865 M27 / 1831 B30:** not finished this pass. 1831 scan 10 vision remains contradictory; do not publish parents.
 
@@ -635,13 +635,9 @@ One pass read the father’s given name as **Dawid**. Treat that as a **Dan/Dana
 
 Do **not** reuse the earlier `1862-m16-full.jpg` (that was 1852 M13 Morew × Pimo).
 
-#### B32b. 1865 D32 Herszberg death — leaf found, identity not published
+#### B32b. 1865 D32 Herszberg death — leaf found; given name / age now locked in B34c
 
-Jednostka **167452**, **scan 118**, left margin **№ 31** (top) and **№ 32** (bottom). File: `research/scans/1865-D32-full-page.jpg`. This **is** the death section (not the marriage leaf saved earlier).
-
-JRI given name was blank. The identification line is a Herszberg **widower, trader** (`Wdowiec z handlu`). Independent crops disagree on the given name (**Dawid** vs others) and on age (**48** vs **82**). Parent names (**Jankiel × Ruchla** vs a possible Herszek × Chaja misread) are **not stable enough to publish**. Khuna is **not** confirmed in the survivors clause.
-
-This cannot be our Khuna dying (he is alive in 1872 and 1890). If a later reading settles the deceased as **Dawid Leyzor ~48**, the survivors list would be the test of whether Khuna was his son — same logic as 1860 D16. Until the letters are stable, do not merge D32 with Dawid Leyzor or treat it as Khuna’s father.
+Jednostka **167452**, **scan 118**, left margin **№ 31** (top) and **№ 32** (bottom). File: `research/scans/1865-D32-full-page.jpg`. This **is** the death section (not the marriage leaf saved earlier). JRI given name remains **blank**. Palaeography of overlapping crops is in B34c and `research/sources/1865-D32-READING.md`. **Wdowiec** is **not** locked. **Do not publish parents.**
 
 #### B32c. 1865 M27 Pesza × Litman — still unread
 
@@ -699,9 +695,29 @@ Sub-agents + JRI detail POSTs + Genealogy Indexer retry + poborowi A–E. **Fath
 
 Dvorkin already covered 1885–1893. This extends the **index** negative through PSA **1915**. He may still have died out of town, unindexed, or after 1915.
 
-#### B34c. 1865 D32 — still unpublished identity
+#### B34c. 1865 D32 — palaeography: Dan/Dana, eighties, Khuna not named
 
-Leaf + margin **№ 32** unchanged (`1865-D32-full-page.jpg`). New crops `1865-d32-NAMEZONE.jpg` / `SURVZONE.jpg`. Tesseract on the cursive is unusable. **Vision readings of the same pixels still conflict** (Dawid vs Dana; age 48 vs 82; parents Jankiel × Ruchla vs others; one unreproduced “z Khunem”). **Do not publish** given name, age, parents, or survivors. Khuna is **not** a stable letter-sequence on this akt. Index screenshots of 167452 scans 141–148 were saved; they are **not** a substitute for JRI’s blank given name.
+Leaf + margin **№ 32** unchanged (`1865-D32-full-page.jpg`, page **114**). Crops `1865-d32-NAMEZONE.jpg` / `SURVZONE.jpg`. Tesseract on the cursive is unusable and is **not** evidence. Method and conflict table: `research/sources/1865-D32-READING.md`. Isolated tiles that “found” names from the conflict list on the **wrong** line (including Khuna on the opening formula) are **contaminated**. Only letter sequences that recur on **more than one complete crop** of the same zone are published here.
+
+**Wrong files (do not use as D32):** `1865-claimed-d32-*` and `1865-d32-REAL-full.jpg` are **marriage page 78**, akts **12 / 13** (Rozenkier / Berenhut). A “z Khunem” on those strips is **invalid**.
+
+**Locked (cross-crop):**
+
+| Field | Reading |
+|---|---|
+| Akt | Left-margin **№ 32** under **№ 31**, 5 June 1865, Biała |
+| Informants | Szkolnicy **Szulim Piwo (56)** and **Silbersztejn (~64)** |
+| Deceased | Jewish man (**Starozakonny**) **Herszberg**; given name starts **D-a-n** (**Dan / Dana**, **not** Chuna / Khuna). **Dawid** is **not** locked (no stable terminal **d**-ascender). |
+| Occupation fragment | **z handlu** and **utrzymujący się** in Biała. **Wdowiec** is **not** locked. |
+| Age | In words; long numeral begins with **o** → prefer **osiemdziesiąt** (eighties), **not** 42/48. **82 vs 88** not locked. |
+| Close | Age → **Po przekonaniu się naocznie o zejściu** → witnesses sign. **No stable *pozostawiwszy* / widow / children list.** |
+| Khuna | **Not named.** |
+
+**Still unpublished:** parents (most-repeated genitive pair on some crops is Jankiel × Ruchla — **do not publish**); widow Ita; exact given Dawid vs Dana beyond the **D-a-n** core.
+
+This **cannot** be Khuna dying (he is alive in 1872 D26 and 1890 B101). The *Dawid Leyzor ~48 + widow Ita* test of whether Khuna is a surviving son is **not** the locked reading. The locked reading is an elderly **Dan ~80+** with **no survivors clause**. That can be **Dan of Dan × Ester as a candidate identity only**. It is **still not proof that Khuna is his son**.
+
+Index screenshots of 167452 scans **141–148** are mixed: several are the **1862 marriage** index (Abram 16 / Leyzor 21 / Sura 16). The 1865 **death**-index H row for D32 was **not** captured as a clean plate. JRI given name remains **blank**.
 
 #### B34d. Databases I–N
 
@@ -710,7 +726,7 @@ Fuller table (already committed, then extended here): `research/sources/UNUSED-S
 | Lane | Result |
 |---|---|
 | **I Genealogy Indexer** | Homepage loads; search POST still **“temporarily offline.”** Not a verified 0. |
-| **J Szukaj** | Search + lista zespołów still down. `38/20/0` scan table still missing. Sławatycze **1854 jednostka ID still unknown**; Bloodandfrogs id 90004201 is **stale**. FS Sławatycze film **753441** / cat **272307**. |
+| **J Szukaj** | Search + lista zespołów still down. `38/20/0` scan table still missing. Sławatycze **1854 signature** from Wayback: **`35/1772/0/1/1`** (births 1847–1855, 100 scans); **numeric jednostka ID still unknown**. Bloodandfrogs id 90004201 is **stale**. FS Sławatycze film **753441** / cat **272307**. Log: `research/sources/SLAWATYCZE-AND-1856-UNITS.md`. |
 | **K CAHJP / YIVO / JHI** | No Biała pinkas. JHI CBJ **temporarily offline**. |
 | **L Dvorkin** | No years after 1885–1893. |
 | **M press / Arolsen / sztetl** | No parentage article. Arolsen unquoted search unusable. |
@@ -724,10 +740,14 @@ A computerUse pass saved files named `1865-m27-VERIFIED-*`. The full leaf is **1
 Still unread:
 
 1. **1865 M27** Pesza × Litman — margin **27**, not scan 27.
-2. **1856 HIRSZBERG Josel B33** — series 7998, signature `/40`.
+2. **1856 HIRSZBERG Josel B33** — series 7998, signature `/40` (numeric ID **not** live-confirmed; do not treat **167444** as fact).
 3. **1860 HIRSZBERG Chaja Ruchla B48** — jednostka **167448**.
 4. **1873** jednostka **167460** marriage index / bound alegata (possible Khuna × Fejga).
-5. **Sławatycze 1854 B13** Feyga Hinda DOMACZEWSKA (JRI page **165**), her parents only.
+5. **Sławatycze 1854 B13** Feyga Hinda DOMACZEWSKA (JRI page **165**), her parents only. Book signature **`35/1772/0/1/1`**; numeric ID still unknown.
+
+#### B34f. Sławatycze / 1856 unit hunt (Wayback; live Szukaj blocked)
+
+Log: `research/sources/SLAWATYCZE-AND-1856-UNITS.md`. Live `szukajwarchiwach.gov.pl` returned Imperva shells. **No new parent names.** Sławatycze 1854 births are signature **`35/1772/0/1/1`** (100 scans). Biała 1856 remains `/2.21/40`, 65 scans, numeric ID unknown. Feyga Hinda 1854 B13 still **parents blank** on the public index.
 
 
 ---
@@ -778,8 +798,9 @@ Still unread:
 36. Genealogy Indexer POST `term=Herszberg Biala`, 18 Aug 2026: engine **temporarily offline**. https://genealogyindexer.org/
 37. Lubelskie Towarzystwo Genealogiczne, nazwiska **A–E / K–Ł / M–P / R–S**, 18 Aug 2026. 0 Herszberg/Domaczew/Wajntal. Combined `/nazwiska-k-r/` is **404**. Fond 175 sygn. 868–880: last Siedlce named books 1873. https://poborowi.ltg.pl/baza-rekrutow/
 38. Blood-and-Frogs, Sławatycze archival records: fonds 1772; FamilySearch film **753441** (births 1847–1855). https://bloodandfrogs.com/compendium/poland/lublin/slawatycze/a-slawatycze
-39. 1865 D32 palaeography log (unpublished identity). `research/sources/1865-D32-READING.md`. Crops: `research/scans/1865-d32-NAMEZONE.jpg`, `1865-d32-SURVZONE.jpg`.
+39. 1865 D32 palaeography log (locked: Dan/Dana, eighties, Khuna not named; parents unpublished). `research/sources/1865-D32-READING.md`. Crops: `research/scans/1865-d32-NAMEZONE.jpg`, `1865-d32-SURVZONE.jpg`.
 40. Unused sources I–N. `research/sources/UNUSED-SOURCES-I-N.md`.
+41. Sławatycze 1854 / Biała 1856 jednostka hunt (Wayback; live Szukaj blocked). `research/sources/SLAWATYCZE-AND-1856-UNITS.md`. Wayback fonds `35/1772/0`: https://web.archive.org/web/20151119081530/http://szukajwarchiwach.pl/35/1772/0
 
 ---
 
@@ -837,6 +858,7 @@ Dan × Ester Herszberg  (both living 22 July 1862 on M21; both named on 1862 M16
         └── Chana, b. 1854 B12 (d. 6m)
         1852 B9 Jojna Szulim is a Herszberg birth on scan 6; **not proven** as their child.
         Khuna (~1853) is **not** a registered child in 1852–54. Unproved sibling.
+        **1865 D32** may be this **Dan** (candidate only: given **Dan/Dana**, age **eighties**, **no** children named). Not proof Khuna is his son.
 
 Lejzor Herszberg  ×  Mejle / Mejta / Mojka Edelman (her father Judka Lejb d.; mother Dyna)
         ├── Danijel (m. 1889 age 20, × Liba Rejzla Geltman)
@@ -865,7 +887,7 @@ Abram Abe Herszberg  ×  Chaja Sura Wajsbrot
 | ID | Hypothesis | Status after this round |
 |---|---|---|
 | **H1** | Khuna is son of Abram Herszberg + Chana Tauba | **Rejected.** 1860 D16 survivors are wife Chana Tauba and daughters Fejga 32 and Cyrla 26. No Khuna (would have been ~7). |
-| **H2** | Khuna is brother of Lejzor Herszberg (1862 M21) / son of Dan × Ester | **Open, still unproved.** Dan × Ester now have a documented sibship: Zelko, Basia Bejla, Lejzor, **Sura (1862 M16)**, Tyla, Meita, Chana. A ~1853 son would fit the gap **only if unregistered**. No act names Khuna as their child. |
+| **H2** | Khuna is brother of Lejzor Herszberg (1862 M21) / son of Dan × Ester | **Open, still unproved.** Dan × Ester now have a documented sibship: Zelko, Basia Bejla, Lejzor, **Sura (1862 M16)**, Tyla, Meita, Chana. A ~1853 son would fit the gap **only if unregistered**. No act names Khuna as their child. **1865 D32** is a candidate death of elderly **Dan** (no survivors clause) — **not** a Khuna parentage proof. |
 | **H3** | Liba Enta's maiden name is WAJNTAL (indexed WAJNTLOW; page **изъ Вайнталовъ**) | **Strong.** Act + 1872 death index + parents Jankiel Hersz × Dwejra match 1849 B68 Beniamin Wulf WAJNTAL. WALENTAL exact JRI: 0. |
 | **H4** | Liba Enta belongs to a Wajntraub/Wajntrob family | **Weaker.** Local Wajntraubs exist; they do not match Jankel Hersz × Dwejra. |
 | **H9** | Khuna is Szmul Herszberg × Szejndla Kligsberg (Sura b. 1865) | **Unproved.** Do not equate Szmul with Khuna. |
@@ -919,17 +941,17 @@ Fruma/Frejna CHERSZBERG × Mordko Boruch Rozenbaum is an **older** woman (son b.
 
 ## G. What to do next — do not restart discovery
 
-JRI-Poland Biała Herszberg/Gerszberg, nationwide Khuna+Herszberg, JRI census/Holocaust/army, **JRI deaths 1878–1915**, exact given Khuna+Biała, 1852 B1/B9, **1890 B101**, **poborowi.ltg.pl A–E / F–J / S–Z**, cemetery/JOWBR negatives, YIVO/CAHJP finding aids, unused sources A–H, and the Simon Herszberg Bochum file are **done**. Do not re-dump those. Do not reuse scan 51 of 167478 as B101. Do not treat Yad Vashem “Tejga” as a new wife. Do not treat 1938 “Chuna son of Worek” as the 1853 man. Do not treat Genealogy Indexer’s downtime 0 as a directory negative. Do not publish 1865 D32 given name/age/parents from a single vision pass.
+JRI-Poland Biała Herszberg/Gerszberg, nationwide Khuna+Herszberg, JRI census/Holocaust/army, **JRI deaths 1878–1915**, exact given Khuna+Biała, 1852 B1/B9, **1890 B101**, **poborowi.ltg.pl A–E / F–J / S–Z**, cemetery/JOWBR negatives, YIVO/CAHJP finding aids, unused sources A–H, and the Simon Herszberg Bochum file are **done**. Do not re-dump those. Do not reuse scan 51 of 167478 as B101. Do not treat Yad Vashem “Tejga” as a new wife. Do not treat 1938 “Chuna son of Worek” as the 1853 man. Do not treat Genealogy Indexer’s downtime 0 as a directory negative. Do not republish 1865 D32 from a single vision pass; use the **cross-crop locked subset** in B34c. **Do not publish D32 parents.** Do not treat idx 141/142/146 as 1865 deaths.
 
 1. **On-site at APL Radzyń (highest remaining non-BMD chance):** księgi ludności / 1895 residents of Biała (`38/20/0` and related); **hipoteka bialska**; name search in the **27 Biała notary fonds** (1810–1951) for Хуна/Chuna Herszberg/Gerszberg. A deed or residents row is the likeliest place left for `сынъ` + father’s given name. **18 Aug 2026 inventory:** `research/sources/SWA-RADZYN-LUBLIN-INVENTORY.md`. `38/20/0` **was digitized in part** (Kultura+ 2014 / zbiory-online) but the **jednostka scan table was down**; 1895 księga / address cards are still described as **on-site**. **None** of the 27 Biała notary fonds is on the published Radzyń scan list. Hipoteka bialska **on-site**. **No Herszberg in Kowalik or Szukaj metadata.**
 2. **AP Lublin fond 175:** do **not** expect 1874–80 **Bialski/Siedlce named rolls** there (inventory: last Siedlce books are sygn. **868–870**, 1871–73). Sygn. 1–10 are Lublin protocols. Khuna ~age 21 is **not** in the surviving Siedlce 1873 book (already dumped). poborowi **A–E** is now also empty for this family.
-3. **1865 D32** — identity **still unpublished**. Re-read only from a human-stable crop. Log: `research/sources/1865-D32-READING.md`.
+3. **1865 D32** — **locked subset done** (Dan/Dana, eighties, no Khuna, no survivors clause). Parents still unpublished. Re-open only from a **sharper plate**, not from the contaminated tiles. Log: `research/sources/1865-D32-READING.md`.
 4. **1865 M27** Pesza × Litman — still unread (the “REAL” file is the wrong century). Marriage section of 167452, margin **27**.
 5. **1873 yearly book** `/2.21/56` jednostka **167460** (203 scans) — marriages **and bound-in alegata**. Possible Khuna × Fejga packet.
 6. **1831 B30** from scan **10** of 167487 only. Do **not** use scan 13.
 7. Genealogy Indexer retry when the engine is up (1929 KAP Biała page); JOWBR Woodbridge plot if a login is available — low chance of a patronymic. Arolsen name search needs a browser, not curl.
 7a. **1856 B33 Josel HIRSZBERG** and **1860 B48 Chaja Ruchla HIRSZBERG** originals — sibling test only.
-7b. **Sławatycze 1854 B13** Feyga Hinda DOMACZEWSKA (page **165**; film **753441** / fonds **35/1772/0**) — **Fejga’s** parents, not Khuna’s.
-8. **Do not** re-open 1860 D16, 1862 M21, **1862 M16**, 1872 D26, 1852 B1/B9, or 1890 B101 as unread. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom. Do not treat Chuna Warszawski as Herszberg. Do not publish 1865 D32 parents until the letters are stable. Do not promise 1874+ fond 175 Bialski name lists.
+7b. **Sławatycze 1854 B13** Feyga Hinda DOMACZEWSKA (page **165**; film **753441** / fonds **`35/1772/0/1/1`**) — **Fejga’s** parents, not Khuna’s. Numeric jednostka ID still unknown.
+8. **Do not** re-open 1860 D16, 1862 M21, **1862 M16**, 1872 D26, 1852 B1/B9, or 1890 B101 as unread. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom. Do not treat Chuna Warszawski as Herszberg. Do not publish 1865 D32 parents. Do not treat D32 as proof that Khuna is Dan’s son. Do not promise 1874+ fond 175 Bialski name lists. Do not use `1865-claimed-d32-*` / `1865-d32-REAL-full.jpg` as D32.
 
-The parentage question is unsolved because **every Khuna-as-adult source found so far omits his father** (1872 D26; 1890 B101; children’s cards; son Simon’s German file; conscription indexes). A registered Biała Herszberg birth in **1852–54 is ruled out**. He is **not** in JRI Biała Herszberg/Gerszberg **deaths 1878–1915**. **1862 M16** puts Sura in the Dan × Ester sibship; Khuna is still not on that list. Remaining tests are a **residents/notary/hipoteka row** (Radzyń), **1873 alegata in 167460**, a **stable D32 survivors clause**, **1865 M27**, **1856 B33 / 1860 B48**, or Fejga’s **1854 B13**. Do not expect a 1874–80 Bialski name list inside `35/175/0`.
+The parentage question is unsolved because **every Khuna-as-adult source found so far omits his father** (1872 D26; 1890 B101; children’s cards; son Simon’s German file; conscription indexes). A registered Biała Herszberg birth in **1852–54 is ruled out**. He is **not** in JRI Biała Herszberg/Gerszberg **deaths 1878–1915**. **1862 M16** puts Sura in the Dan × Ester sibship; Khuna is still not on that list. **1865 D32** names an elderly **Dan/Dana Herszberg** and **does not name Khuna**. Remaining tests are a **residents/notary/hipoteka row** (Radzyń), **1873 alegata in 167460**, **1865 M27**, **1856 B33 / 1860 B48**, or Fejga’s **1854 B13** (`35/1772/0/1/1`). Do not expect a 1874–80 Bialski name list inside `35/175/0`.

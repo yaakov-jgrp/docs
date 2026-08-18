@@ -20,7 +20,7 @@ Coverage reminder (Biała Podlaska LDS header on the 1865 detail page): Births 1
 | Priority | Act | Why open | What the index says | Film / unit |
 |---|---|---|---|---|
 | 1 | **1865 M27** Pesza HERSZBERG × Jeremiasz LITMAN | Sister-father test vs Khuna | **Parents blank** | JRI microfilm **1199951**; APL `35/1612/0/2.21/48` jedn. **167452** (marriage section, margin 27) |
-| 1 | **1865 D32** HERSZBERG given **?** | Identity + survivors still unpublished | Given name **blank**; all parent/survivor columns blank | Same film / **167452 scan 118** (already located; letters not stable) |
+| 1 | **1865 D32** HERSZBERG given **?** (JRI) | Palaeography locked **Dan/Dana**, age **eighties**, **no** survivors / Khuna. Parents **unpublished**. JRI given name still blank | Given name **blank**; all parent/survivor columns blank | Same film / **167452 scan 118** (leaf located; log `1865-D32-READING.md`) |
 | 1 | **1881 M2** Matla GERSZBERG × Chaim Dawid ZONSZAJN | PSA sister/aunt test | **Parents blank** on the PSA extract (same row as JRI; no extra PSA parent fields) | No LDS film. Book `35/1612/0/2.21/64` |
 | 1 | **Sławatycze 1854 B13** Feyga Hinda DOMACZEWSKA | H5-wife natal parents (not Khuna’s) | **Parents blank.** Page **165**, akt **13**, town Sławatycze | Film **0753441**. APL `35/1772/0` |
 | 2 | Same film, blank-parent sibs: Henia **1848 B34** p.21; Gitla **1849 B6** p.32; Kejla **1850 B34** p.74; Szmuel Moysze **1851 B33** p.97; Pinkes **1852 B22** p.115 | Any one names the father of the whole Sławatycze cluster | Parents blank | **0753441** |
@@ -299,7 +299,7 @@ All-types GERSZBERG Biała 1894–1910 (44 hits) were also scanned for Khuna/Chu
 | JRI Legacy Search | https://legacy.jri-poland.org/jriplweb-legacy.htm |
 | Biała Podlaska JRI town page | https://jri-poland.org/town/biala_podlaska/ |
 | 1865 book (D32 / M27) | https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167452 |
-| Sławatycze Jewish USC (1854 B13) | APL `35/1772/0`; film https://www.familysearch.org/search/film/007990704 is Biała, **not** this. Sławatycze film **753441** via Blood-and-Frogs / FS catalog for Sławatycze |
+| Sławatycze 1854 B13 | APL `35/1772/0/1/1` (births 1847–1855, 100 scans; numeric ID unknown); film **753441** via Blood-and-Frogs / FS catalog for Sławatycze |
 | 1939 cards blog | https://jri-poland.org/blog/1939-jewish-census-biala-podlaska/ |
 | JewishGen Poland DB | https://www.jewishgen.org/databases/Poland/ |
 | JewishGen Holocaust DB | https://www.jewishgen.org/databases/Holocaust/ |
@@ -312,6 +312,6 @@ All-types GERSZBERG Biała 1894–1910 (44 hits) were also scanned for Khuna/Chu
 
 No leftover JRI/JewishGen query in this pass prints Khuna Herszberg’s father or mother.
 
-**Open next (index will not substitute):** 1865 M27 Pesza; 1865 D32 given name/survivors; 1881 M2 Matla; Sławatycze 1854 B13 Feyga Hinda (film 0753441 p.165); 1856 D9 Jankiel Wajntal. Female blank-parent Herszberg births 1850 B12 / 1852 B83 / 1856 B26 / 1862 B104 are lower-yield sibling tests.
+**Open next (index will not substitute):** 1865 M27 Pesza; 1881 M2 Matla; Sławatycze 1854 B13 Feyga Hinda (film 0753441 p.165; SWA `35/1772/0/1/1`); 1856 D9 Jankiel Wajntal. **1865 D32** original is located: palaeography locked Dan/Dana / eighties / no Khuna; parents still unpublished. Female blank-parent Herszberg births 1850 B12 / 1852 B83 / 1856 B26 / 1862 B104 are lower-yield sibling tests.
 
 **Do not reopen as if the index were empty:** Tyla 1865 M8 (Dane × Ester); 1849 B68 Beniamin Wulf Wajntal (Jankiel × Dwora, FF Josel); 1872 D26; HIRSZBERG Biała pair; PSA GERSZBERG deaths 1894–1910; given Khuna+Biała (only D26). **Chaim Menachem 1865 B21 is not in JRI.**
