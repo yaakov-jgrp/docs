@@ -657,6 +657,23 @@ A file labelled `1865-m27-REAL-full.jpg` is **not** Pesza Herszberg (it reads as
 | AP Lublin fond 175 (1874+) scans on Szukaj | **Not** found digitized under a clickable Herszberg name. LTG online tables still stop ~1873. |
 | 1873 marriage index | Not finished this pass. |
 
+### B33. Unused sources A–H (18 Aug 2026 evening) — still no parents
+
+Full table: `research/sources/UNUSED-SOURCES-A-H.md`. **None of these names Khuna’s father or mother.**
+
+| Lane | Result |
+|---|---|
+| **A JRI Other / variants** | Exact **HERSCHBERG** / **HERZBERG** + Biała Siedlce: **NONE**. Exact **HIRSZBERG** + Biała: **2** given-name-only births, **1856 B33 Josel** and **1860 B48 Chaja Ruchla**, film **1199951**, parents **blank**. Any Field Elchanan/Elchonon and given Elchanan/Chonon + HERSZBERG: **NONE**. Lists (Duma) / Newspapers HERSZBERG Siedlce: **NONE**. Delayed-birth remarks: **NONE**. Census Siedlce 63 = 1939 cards already dumped. Census Khuna/Chuma+HERSZBERG all regions = those cards + a **Kodeń** Łódź card (Moszek s. Chuma, 1921) — **not** Biała Khuna. Radom BoR 18 = Szmul s. Berek × Marja KRONGOLD b. 1850 Sandomierz — **no Khuna**. |
+| **B FamilySearch 1199951 / 1199952** | Catalog **16873**; digital films **007990704** / **007990705**. Incapsula from this host. **No FS index names Khuna’s father.** Films = same APL duplicates. |
+| **C Geneteka** | **No** Biała / Sławatycze / Parczew (mojż.) parish. 1854 Domaczewska stays JRI Sławatycze B13. API still 0 from this host. |
+| **D Press / HebrewBooks / Otzar** | HebrewBooks **403**. No חונה הרשברג ביאלא parentage. 35010 still omits the grandfather. |
+| **E 1929 KAP** | Genealogy Indexer **offline**. No OCR line naming Khuna or a patronymic. |
+| **F Parczew** | No Khuna Herszberg marriage. Indexed Chunas are **BINENSZTOK 1885** and **BAJTEL 1896**. Łódź cards: Jankel Wolf Herszberg b. 1868 Parczew, **Lejzer × Rywka GOLDBERG** — different Lejzer. Parczew marriages start **1883**. |
+| **G Domaczewo / Damachava** | No Domaczewo parish in Geneteka Belarus; 1929 PDF 404. Fejga still points first to **Sławatycze**, not NIAB Domaczewo. |
+| **H Monitor / gazettes** | ELI title/keyword Herszberg* **0**. MP in ELI from 1930 only. |
+
+**Only leftover original from this pass:** 1856 B33 and 1860 B48 **HIRSZBERG** (sibling test). Do not treat them as Khuna’s birth.
+
 ---
 
 ## C. Exact citations used this round
@@ -692,7 +709,14 @@ A file labelled `1865-m27-REAL-full.jpg` is **not** Pesza Herszberg (it reads as
 24. JewishGen KehilaLinks, Biała Podlaska: JOWBR landsmanshaft Beth Israel Memorial Park, Woodbridge, NJ. http://kehilalinks.jewishgen.org/Biala_Podlaska/Home.html
 25. Polska1926 / Biblioteka Kongresu, tom 96 p. 208, signature T. Herszberg, szkoła powszechna, Biała Podlaska. https://www.polska1926.pl/podpisy/835003
 26. Teatr NN, recovered Biała matzevot (Chesia bat Shalom; Avraham son of Dow). Not Herszberg. https://biblioteka.teatrnn.pl/dlibra/publication/147891/edition/141664
-27. Szukaj / AP Lublin / Kowalik inventory of digitized vs on-site Radzyń and fond 175 material, 18 Aug 2026. `research/sources/SWA-RADZYN-LUBLIN-INVENTORY.md`. `35/1612/0` alegata years from https://www.szukajwarchiwach.gov.pl/en/zespol/-/zespol/4113 . 1873 book jednostka **167460**.
+27. JRI-Poland Legacy Search, 18 Aug 2026, unused-source pass A–H (variants, Any Field, Census/Lists/Newspapers, Parczew). Working extract: `research/sources/UNUSED-SOURCES-A-H.md`. https://legacy.jri-poland.org/jriplweb-legacy.htm
+28. FamilySearch catalog 16873 / films 1199951 (007990704) and 1199952 (007990705). https://www.familysearch.org/search/catalog/16873
+29. Geneteka lubelskie parish list (no Biała/Sławatycze/Parczew mojż.). https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=03lb
+30. ELI acts search, surnames Herszberg/Gerszberg/Hirszberg: totalCount 0. https://api.sejm.gov.pl/eli/acts/search
+31. Genealogy Indexer, 1929 KAP search “Herszberg Biala”: engine temporarily offline. https://genealogyindexer.org/
+32. UMCS dlibra, *Księga Adresowa Polski* 1929. https://www.bc.umcs.pl/dlibra/publication/1598/edition/19465
+33. KehilaLinks Domachevo census page (1929 PDF 404). https://kehilalinks.jewishgen.org/Domachevo/census.html
+34. Szukaj / AP Lublin / Kowalik inventory of digitized vs on-site Radzyń and fond 175 material, 18 Aug 2026. `research/sources/SWA-RADZYN-LUBLIN-INVENTORY.md`. `35/1612/0` alegata years from https://www.szukajwarchiwach.gov.pl/en/zespol/-/zespol/4113 . 1873 book jednostka **167460**.
 
 ---
 
@@ -840,7 +864,8 @@ JRI-Poland Biała Herszberg/Gerszberg, nationwide Khuna+Herszberg, JRI census/Ho
 4. **1865 M27** Pesza × Litman — still unread (the “REAL” file from this pass is the wrong century). Marriage section of 167452, margin 27.
 5. **1873 yearly book** `/2.21/56` jednostka **167460** (203 scans) — marriages **and bound-in alegata** (fonds 4113 lists 1873 alegata at sygn. 56). Possible Khuna × Fejga packet. **No separate alegata series** after 1855 (sygn. 39). No 1869–72 alegata at all.
 6. **1831 B30** from scan **10** of 167487 only. Do **not** use scan 13.
-7. Genealogy Indexer retry when the engine is up; JOWBR Woodbridge plot if a login is available — low chance of a patronymic.
+7. Genealogy Indexer retry when the engine is up (1929 KAP Biała page); JOWBR Woodbridge plot if a login is available — low chance of a patronymic.
+7a. **1856 B33 Josel HIRSZBERG** and **1860 B48 Chaja Ruchla HIRSZBERG** originals (film 1199951 / Biała 1856 and 1860 books) — sibling test only; parents blank in JRI.
 8. **Do not** re-open 1860 D16, 1862 M21, **1862 M16**, 1872 D26, 1852 B1/B9, or 1890 B101 as unread. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom. Do not treat Chuna Warszawski as Herszberg. Do not publish 1865 D32 parents until the letters are stable.
 
 The parentage question is unsolved because **every Khuna-as-adult source found so far omits his father** (1872 D26; 1890 B101; children’s cards; son Simon’s German file; conscription indexes). A registered Biała Herszberg birth in **1852–54 is ruled out**. **1862 M16** now puts Sura in the Dan × Ester sibship; Khuna is still not on that list. Remaining tests are a **residents/notary/hipoteka row** (Radzyń; `38/20/0` only partly online), **1873 alegata in 167460**, a **stable D32 survivors clause**, **1865 M27**, or Fejga’s **1854 B13** in `35/1772/0` (her parents only). Do not expect a 1874–80 Bialski name list inside `35/175/0`.
