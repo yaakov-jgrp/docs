@@ -312,6 +312,6 @@ All-types GERSZBERG Biała 1894–1910 (44 hits) were also scanned for Khuna/Chu
 
 No leftover JRI/JewishGen query in this pass prints Khuna Herszberg’s father or mother.
 
-**Open next (index will not substitute):** 1865 M27 Pesza; 1881 M2 Matla; Sławatycze 1854 B13 Feyga Hinda (film 0753441 p.165; SWA `35/1772/0/1/1`); 1856 D9 Jankiel Wajntal. **1865 D32** original is located: palaeography locked Dan/Dana / eighties / no Khuna; parents still unpublished. Female blank-parent Herszberg births 1850 B12 / 1852 B83 / 1856 B26 / 1862 B104 are lower-yield sibling tests.
+**Open next (index will not substitute):** 1865 M27 Pesza (do **not** reuse `1865-m27-VERIFIED-*` — that leaf is akt **17** Mink/Minc × Edelsztejn); 1881 M2 Matla; Sławatycze 1854 B13 Feyga Hinda (film 0753441 p.165; SWA `35/1772/0/1/1`); 1856 D9 Jankiel Wajntal. **1865 D32** original is located: palaeography locked Dan/Dana / eighties / no Khuna; parents still unpublished. Female blank-parent Herszberg births 1850 B12 / 1852 B83 / 1856 B26 / 1862 B104 are lower-yield sibling tests.
 
 **Do not reopen as if the index were empty:** Tyla 1865 M8 (Dane × Ester); 1849 B68 Beniamin Wulf Wajntal (Jankiel × Dwora, FF Josel); 1872 D26; HIRSZBERG Biała pair; PSA GERSZBERG deaths 1894–1910; given Khuna+Biała (only D26). **Chaim Menachem 1865 B21 is not in JRI.**
