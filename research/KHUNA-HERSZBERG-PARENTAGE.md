@@ -641,7 +641,7 @@ Jednostka **167452**, **scan 118**, left margin **№ 31** (top) and **№ 32** 
 
 #### B32c. 1865 M27 Pesza × Litman — still unread
 
-A file labelled `1865-m27-REAL-full.jpg` is **not** Pesza Herszberg (it reads as an 1830s marriage, margin ~20). Discard. Hunt again in 167452 **marriage** section, scans ~88–102, margin **№ 27**.
+A file labelled `1865-m27-REAL-full.jpg` is **not** Pesza Herszberg (it reads as an 1830s marriage, margin ~20). Discard. Hunt again in 167452 **marriage** section, left margin **№ 27**, surnames Herszberg + Litman. Do **not** use scan number as akt number.
 
 #### B32d. Other leftover databases this pass
 
@@ -735,7 +735,7 @@ Fuller table (already committed, then extended here): `research/sources/UNUSED-S
 
 #### B34e. Still unread originals (browser/Szukaj)
 
-A computerUse pass saved files named `1865-m27-VERIFIED-*`. The full leaf is **1865 marriage akt 17** (Mendel Mirski × Ruchla Leja Edelsztejn / Minc-class names in the crop), **not** Pesza Herszberg × Litman. **Discard** those filenames. Hunt again: 167452 marriage section, left margin **№ 27**, surnames Herszberg + Litman.
+Files named `1865-m27-VERIFIED-*` were saved twice as Pesza × Litman. Cross-crop palaeography: they are **1865 marriage akt № 17**, page **83**, couple **Mendel Mink/Minc × Ruchla Leja Edelsztejn**. The “margin” JPEG is a 200×800 opening-text strip, **not** an akt-number plate. `1865-marriage-index-H.jpg` is folio **126**, marriage index **M–Z** then death letter **A** — **no H**, no Pesza/Litman, no D32 given name. Log: `research/sources/1865-M27-FALSE-POSITIVE.md`. `research/GENEALOGY_AGENT_REPORT.md` is **wrong** on these files. Hunt again: 167452 marriage section, left margin **№ 27**, surnames Herszberg + Litman.
 
 Still unread:
 
@@ -801,6 +801,7 @@ Log: `research/sources/SLAWATYCZE-AND-1856-UNITS.md`. Live `szukajwarchiwach.gov
 39. 1865 D32 palaeography log (locked: Dan/Dana, eighties, Khuna not named; parents unpublished). `research/sources/1865-D32-READING.md`. Crops: `research/scans/1865-d32-NAMEZONE.jpg`, `1865-d32-SURVZONE.jpg`.
 40. Unused sources I–N. `research/sources/UNUSED-SOURCES-I-N.md`.
 41. Sławatycze 1854 / Biała 1856 jednostka hunt (Wayback; live Szukaj blocked). `research/sources/SLAWATYCZE-AND-1856-UNITS.md`. Wayback fonds `35/1772/0`: https://web.archive.org/web/20151119081530/http://szukajwarchiwach.pl/35/1772/0
+42. 1865 M27 false-positive log (`1865-m27-VERIFIED-*` = akt **17** Mink/Minc × Edelsztejn, page 83). `research/sources/1865-M27-FALSE-POSITIVE.md`.
 
 ---
 
@@ -946,12 +947,12 @@ JRI-Poland Biała Herszberg/Gerszberg, nationwide Khuna+Herszberg, JRI census/Ho
 1. **On-site at APL Radzyń (highest remaining non-BMD chance):** księgi ludności / 1895 residents of Biała (`38/20/0` and related); **hipoteka bialska**; name search in the **27 Biała notary fonds** (1810–1951) for Хуна/Chuna Herszberg/Gerszberg. A deed or residents row is the likeliest place left for `сынъ` + father’s given name. **18 Aug 2026 inventory:** `research/sources/SWA-RADZYN-LUBLIN-INVENTORY.md`. `38/20/0` **was digitized in part** (Kultura+ 2014 / zbiory-online) but the **jednostka scan table was down**; 1895 księga / address cards are still described as **on-site**. **None** of the 27 Biała notary fonds is on the published Radzyń scan list. Hipoteka bialska **on-site**. **No Herszberg in Kowalik or Szukaj metadata.**
 2. **AP Lublin fond 175:** do **not** expect 1874–80 **Bialski/Siedlce named rolls** there (inventory: last Siedlce books are sygn. **868–870**, 1871–73). Sygn. 1–10 are Lublin protocols. Khuna ~age 21 is **not** in the surviving Siedlce 1873 book (already dumped). poborowi **A–E** is now also empty for this family.
 3. **1865 D32** — **locked subset done** (Dan/Dana, eighties, no Khuna, no survivors clause). Parents still unpublished. Re-open only from a **sharper plate**, not from the contaminated tiles. Log: `research/sources/1865-D32-READING.md`.
-4. **1865 M27** Pesza × Litman — still unread (the “REAL” file is the wrong century). Marriage section of 167452, margin **27**.
+4. **1865 M27** Pesza × Litman — still unread. `1865-m27-REAL-*` is the wrong century; `1865-m27-VERIFIED-*` is **akt 17** (Mink/Minc × Edelsztejn). Marriage section of 167452, left margin **№ 27**, surnames Herszberg + Litman.
 5. **1873 yearly book** `/2.21/56` jednostka **167460** (203 scans) — marriages **and bound-in alegata**. Possible Khuna × Fejga packet.
 6. **1831 B30** from scan **10** of 167487 only. Do **not** use scan 13.
 7. Genealogy Indexer retry when the engine is up (1929 KAP Biała page); JOWBR Woodbridge plot if a login is available — low chance of a patronymic. Arolsen name search needs a browser, not curl.
 7a. **1856 B33 Josel HIRSZBERG** and **1860 B48 Chaja Ruchla HIRSZBERG** originals — sibling test only.
 7b. **Sławatycze 1854 B13** Feyga Hinda DOMACZEWSKA (page **165**; film **753441** / fonds **`35/1772/0/1/1`**) — **Fejga’s** parents, not Khuna’s. Numeric jednostka ID still unknown.
-8. **Do not** re-open 1860 D16, 1862 M21, **1862 M16**, 1872 D26, 1852 B1/B9, or 1890 B101 as unread. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom. Do not treat Chuna Warszawski as Herszberg. Do not publish 1865 D32 parents. Do not treat D32 as proof that Khuna is Dan’s son. Do not promise 1874+ fond 175 Bialski name lists. Do not use `1865-claimed-d32-*` / `1865-d32-REAL-full.jpg` as D32.
+8. **Do not** re-open 1860 D16, 1862 M21, **1862 M16**, 1872 D26, 1852 B1/B9, or 1890 B101 as unread. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom. Do not treat Chuna Warszawski as Herszberg. Do not publish 1865 D32 parents. Do not treat D32 as proof that Khuna is Dan’s son. Do not promise 1874+ fond 175 Bialski name lists. Do not use `1865-claimed-d32-*` / `1865-d32-REAL-full.jpg` as D32. Do not use `1865-m27-VERIFIED-*` as Pesza × Litman.
 
 The parentage question is unsolved because **every Khuna-as-adult source found so far omits his father** (1872 D26; 1890 B101; children’s cards; son Simon’s German file; conscription indexes). A registered Biała Herszberg birth in **1852–54 is ruled out**. He is **not** in JRI Biała Herszberg/Gerszberg **deaths 1878–1915**. **1862 M16** puts Sura in the Dan × Ester sibship; Khuna is still not on that list. **1865 D32** names an elderly **Dan/Dana Herszberg** and **does not name Khuna**. Remaining tests are a **residents/notary/hipoteka row** (Radzyń), **1873 alegata in 167460**, **1865 M27**, **1856 B33 / 1860 B48**, or Fejga’s **1854 B13** (`35/1772/0/1/1`). Do not expect a 1874–80 Bialski name list inside `35/175/0`.
