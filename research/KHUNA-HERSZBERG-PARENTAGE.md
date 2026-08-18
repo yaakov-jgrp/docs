@@ -42,7 +42,7 @@ Working copies: `research/scans/1872-d26-scan113-full.jpg` (full leaf); `d26-par
 
 **What JRI now supports at high confidence for the wife's natal family (not Khuna's):** Liba Enta's parents **Jankel Hersz × Dwejra** match the Biała **WAJNTAL** couple **Jankiel × Dwora**, who had **Beniamin Wulf WAJNTAL** in 1849 (B68). **Jankiel WAJNTAL** died 1856 (D9). Treat WAJNTLOW as the 1872 indexer's reading of WAJNTAL until the Cyrillic page is seen.
 
-The **1871** birth-index Г section is a **completed negative**. Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. The original D26 age **полтора года** now makes that negative the right window (born ~Jan 1871), not 1866–1868. Delayed 1872 registration remains possible: the 1872 Г infant index also missed **Jankiel Wolf Herszberg B32**, who is on scan 18, so that index is **incomplete**. **Khuna’s patronymic is not on D26.** **1860 D16 is now read (H1 rejected).** Next originals: **1831 B30** / **1862 M21** (Lejzor’s parents) and **1865 D32**.
+The **1871** birth-index Г section is a **completed negative**. Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. The original D26 age **полтора года** now makes that negative the right window (born ~Jan 1871), not 1866–1868. Delayed 1872 registration remains possible: the 1872 Г infant index also missed **Jankiel Wolf Herszberg B32**, who is on scan 18, so that index is **incomplete**. **Khuna’s patronymic is not on D26.** **1860 D16 is now read (H1 rejected).** **1862 M21 is now read:** Lejzor’s parents are **Dan × Ester**. Next: Dan × Ester births ~1853, and **1831 B30** as a separate Lejzor.
 
 ---
 
@@ -597,11 +597,11 @@ Abram Abe Herszberg  ×  Chaja Sura Wajsbrot
 Same-generation Herszberg women whose **own** marriages (pre-1885) would name a father and could prove or kill H2 (H1 is already rejected):
 
 - Pesia / Pesza Herszberg (1847 D38 daughter of Zysza × Jochwet) × Jeremiasz Litman **1865 M27** — original still unread  
-- Mejta/Meita Herszberg (b. ~1856) × Jankiel Blusztejn  
+- Mejta/Meita Herszberg (m. 1872 M12 age 16, **Dan × Ester** already in JRI) — sister test vs Khuna already pointed at this household  
 - Estera Herszberg (b. ~1863) × Aron Aronowicz  
 - Bluma Gerszberg × Mordko Minc  
 - **Sura Herszberg** × **Berko Edelman** (1862 M16; daughter Basia b. 1879)  
-- **Matla Gerszberg** × Chaim Dawid Zonszajn **1881 M2** — parents blank in JRI  
+- **Matla Gerszberg** × Chaim Dawid Zonszajn **1881 M2** — parents still blank in JRI  
 
 Fruma/Frejna CHERSZBERG × Mordko Boruch Rozenbaum is an **older** woman (son b. ~1852). Aunt test only.  
 
