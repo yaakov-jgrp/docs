@@ -1,6 +1,6 @@
 # Khuna / Chuna Herszberg of Biała Podlaska — parentage continuation
 
-**Date:** 17 August 2026  
+**Date:** 18 August 2026  
 **Question:** Who were the father and mother of Khuna / Chuna Herszberg (Gerszberg) of Biała Podlaska?  
 **Standard:** Primary or near-primary civil evidence. Speculation is labelled as such.
 
@@ -42,7 +42,7 @@ Working copies: `research/scans/1872-d26-scan113-full.jpg` (full leaf); `d26-par
 
 **What JRI now supports at high confidence for the wife's natal family (not Khuna's):** Liba Enta's parents **Jankel Hersz × Dwejra** match the Biała **WAJNTAL** couple **Jankiel × Dwora**, who had **Beniamin Wulf WAJNTAL** in 1849 (B68). **Jankiel WAJNTAL** died 1856 (D9). Treat WAJNTLOW as the 1872 indexer's reading of WAJNTAL until the Cyrillic page is seen.
 
-The **1871** birth-index Г section is a **completed negative**. Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. The original D26 age **полтора года** now makes that negative the right window (born ~Jan 1871), not 1866–1868. Delayed 1872 registration remains possible: the 1872 Г infant index also missed **Jankiel Wolf Herszberg B32**, who is on scan 18, so that index is **incomplete**. **Khuna’s patronymic is not on D26.** **1860 D16 is now read (H1 rejected).** **1862 M21 is now read:** Lejzor’s parents are **Dan × Ester**. Next: Dan × Ester births ~1853, and **1831 B30** as a separate Lejzor.
+The **1871** birth-index Г section is a **completed negative**. Combined with 1869 and 1870, Jankiel son of Khuna was **not** registered in Biała in 1869–1871. The original D26 age **полтора года** now makes that negative the right window (born ~Jan 1871), not 1866–1868. Delayed 1872 registration remains possible: the 1872 Г infant index also missed **Jankiel Wolf Herszberg B32**, who is on scan 18, so that index is **incomplete**. **Khuna’s patronymic is not on D26.** **1860 D16 is now read (H1 rejected).** **1862 M21 is now read:** Lejzor’s parents are **Dan × Ester**. **1852 B1 and B9 originals are now located:** neither child is Khuna. The three 1852 Herszberg births with blank JRI parents are **not** a hidden Khuna registration. Next: 1865 D32 survivors, 1873 alegata / 1890 Szymon Szmul (H5 patronymic), 1831 B30 as a separate Lejzor.
 
 ---
 
@@ -481,7 +481,41 @@ Independent crops of scan 84, checked against JRI 1862 M21:
 
 Working crops: `1862-m21-opening-akt21.jpg`, `1862-m21-groom-parents.jpg`, `1862-m21-couple-names.jpg`.
 
-**Consequences:** this is the Lejzor who married Mojte/Mejta Edelman (later father of Jankiel Wolf 1872 and Rywka 1875). He is **not** Jochwet’s son (she died 1847; these parents are living in 1862). 1831 B30 may be a **different** Lejzor (Zysza × Jochwet’s Leyzor on 1847 D38). Khuna’s parents remain **unread**; the live hypothesis is a **Dan × Ester** child whose birth is not in JRI 1848–56.
+**Consequences:** this is the Lejzor who married Mojte/Mejta Edelman (later father of Jankiel Wolf 1872 and Rywka 1875). He is **not** Jochwet’s son (she died 1847; these parents are living in 1862). 1831 B30 may be a **different** Lejzor (Zysza × Jochwet’s Leyzor on 1847 D38). Khuna’s parents remain **unread**. H2 (Khuna as a later child of **Dan × Ester**) is **weakened** by the 1852 originals (B29): the blank-parent 1852 Herszberg births are not Khuna.
+
+### B29. Other databases + 1852 originals (18 Aug 2026)
+
+**JRI record types other than BMD (do not re-dump the 1939 cards):**
+
+| Query | Hits | Result for Khuna’s parents |
+|---|---|---|
+| Exact HERSZBERG + town Biała, Siedlce, **rectype C** (Census / Books of Residents) | **63** | These are the already-extracted **1939 JHI / ŻIH 244** registration cards. **No living Khuna/Chuna Herszberg.** H5 daughters are present: **Estera Perel née Herszberg** (Chuma × Fejga, b. 16 May 1885) and **Ruchla Worek née Herszberg** (Chuna × Fejga-Hudes Domaczewska, b. 1888). |
+| Exact GERSZBERG + town Biała, rectype C | **3** | Czyciński / Giter / Warszawczyk in-laws. No Khuna. |
+| Exact HERSZBERG + town Biała, rectype **H** (Holocaust lists) | **1** | **Daniel Herszberg**, d. 28 Aug 1939 age 2, parents Berko × Chana. Not our line. |
+| Exact HERSZBERG, all regions, rectype **A** (Army) | **0** usable | No army extract naming Khuna. |
+| Any-field KHUNA + surname starts HERSZ + town Biała | **1** | Only **1872 D26**. |
+| Exact HERSZBERG + given phonetic DAN + town Biała | **7** | Already-known Dan × Ester children plus 1872 M12 Meita and a 1939 **Don LIBMAN** false positive. **No Khuna.** |
+| Exact GERSZBERG + given phonetic DAN + town Biała | **2** | **Don 1889 B31** (Majer Rubin line) and **Zelko 1903 D4** (Don/Dania × Estera). |
+
+**Geneteka (lubelskie, Herszberg births):** no new Jewish Biała parish index beyond the already-cited **1823 Gotla** at Biała św. Anna USC. The Jewish okręg books are in JRI / Szukaj w Archiwach, not Geneteka.
+
+**Genealogy Indexer / Yad Vashem names / Arolsen:** no new act that names Khuna of Biała’s father. The 1938 Zbąszyń letter about “Chuna son of Worek of Warszawa” who helped **Simon Herszberg** (b. 27 Apr 1890 Biała) is a **different, later Chuna**.
+
+**Biała residents `38/20/0`:** still not mapped to a digitized jednostka. Allegata.pl describes an 1895 księga ludności and 1934–58 address cards at AP Radzyń — **on-site**. *Bialskie Zeszyty Genealogiczne* vol. 1 remains print-only.
+
+**1852 duplicate book now mapped and partly read.** Signature `35/1612/0/2.21/35`, jednostka **167439**, 103 scans. Births open at scan **4** (page **1**, akts **1–3**). Scan **6** = page **3**, akts **7–9**.
+
+| Akt | JRI child (parents blank) | Original (jednostka 167439) | Khuna? |
+|---|---|---|---|
+| **B1** | Jankiel? | Scan **4**, margin **№ 1**. Child **Jankiel**, male. Father **Dawid Leyzor / Lyzor Herszberg**, **tanner** (*garbarz*), of Biała. Witnesses include **Szulim Piwo**. Mother’s given name and maiden surname **unstable** across vision passes (Ita / Chaja; Adelson / Rozenblat / Herszkowicz) — **do not publish the mother from vision**. Matches the Dawid Leyzor household, not Dan × Ester. Working copies: `1852-scan04-full.jpg`, `1852-p4-akt1-mid-enh.jpg`. | **No.** |
+| **B9** | Jojna Szulim | Scan **6**, margin **№ 9**. JRI given name **Jojna Szulim** (male). Not Khuna. Father/mother palaeography **not published** (independent vision passes contradict: Zelko vs Lajzer Szulim vs a female Pesla). Working copies: `1852-scan06-full.jpg`, `1852-p6-a9-enh.jpg`. | **No** (JRI name is not Khuna). |
+| **B83** | Hana Henia | Female given name. Not Khuna. Leaf not yet pinned (akt numbering on later scans is gappy: scan 30 has ~74/80/87). | **No.** |
+
+**1853:** still **no** Herszberg birth in JRI. **1854 B12** remains **Chana**, Dan × Ester, died at 6 months (D66).
+
+**Conclusion of this test:** Khuna (~1853) was **not** any of the three 1852 Herszberg births that JRI left parent-blank, and he is **not** the 1854 Dan × Ester daughter. A registered Biała Herszberg birth for him in 1852–54 is a **completed negative**. H2 (unregistered or out-of-town son of Dan × Ester) is still possible but no longer the “unread 1852 blank” lead.
+
+**H5 contemporaneous act (already in Dvorkin, restated):** 27 Apr 1890 birth of **Szymon Szmul** Gerszberg/Herszberg, father **Chuma age 36** (⇒ b. ~1854), mother **Fejga Domaczewska age 30**. Same age as our Khuna. The **1890 original** is the remaining patronymic test for that man. No 1873–1893 marriage of Khuna × Fejga is indexed; **1873 alegata** (fond inventory sygn. 56 — verify title vs the 1873 yearly book) is still unread.
 
 ---
 
@@ -497,6 +531,7 @@ Working crops: `1862-m21-opening-akt21.jpg`, `1862-m21-groom-parents.jpg`, `1862
 8. 1871 duplicate book: `35/1612/0/2.21/54`, jednostka **167458**, 174 scans. https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167458
 8a. 1872 duplicate book: `35/1612/0/2.21/55`, jednostka **167459**. Birth index ~scan 137 (Г). https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167459
 8c. 1862 duplicate book: `35/1612/0/2.21/46`, jednostka **167450**, 156 scans. Marriage akt **21** = scan **84**. https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167450
+8d. 1852 duplicate book: `35/1612/0/2.21/35`, jednostka **167439**, 103 scans. Birth akt **1** = scan **4**; akt **9** = scan **6**. https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167439
 9. Series 2.21: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998
 10. Geneteka lubelskie birth 1823 akt 128, Gotla Herszberg, parents Herszko + Chaja Szmulowicz, Biała św. Anna USC (mojżeszowe), jednostka 220911.
 11. Skanoteka 1122d: Akta stanu cywilnego wyznania mojżeszowego w **Białej Rawskiej** = fonds 73/1122/0. https://metryki.genealodzy.pl/opozespole-id1062
@@ -550,12 +585,13 @@ Zysza Szepszelowicz Herszberg  ×  Jochwet (d. 1847 D38 age 36)
         Zysza × Ruchla (after 1847): Lejbko Ber 1849 B70. **No Khuna indexed.**
 
 Dan × Ester Herszberg  (both living 22 July 1862 on M21)
-        ├── Zelko / Zelko d. 1903 age 67 (Don/Dania × Estera)
+        ├── Zelko / Zelko d. 1903 age 67 (Don/Dania × Estera)  ⇒ b. ~1836
         ├── Basia Bejla, b. 1838 B45
         ├── **Lejzor**, m. 22 July 1862 M21 × Mejle Ejdelman  (parents Dan × Ester on the act)
         ├── Tjzla, b. 1847; Tyla m. 1865; Meita m. 1872 age 16
         └── Chana, b. 1854 B12 (d. 6m)
-        Khuna (~1853) is **not** on this list in JRI. Unproved sibling.
+        1852 B9 Jojna Szulim is a Herszberg birth on scan 6; **not proven** as their child.
+        Khuna (~1853) is **not** a registered child in 1852–54. Unproved sibling.
 
 Lejzor Herszberg  ×  Mejle / Mejta / Mojka Edelman (her father Judka Lejb d.; mother Dyna)
         ├── Danijel (m. 1889 age 20, × Liba Rejzla Geltman)
@@ -584,7 +620,7 @@ Abram Abe Herszberg  ×  Chaja Sura Wajsbrot
 | ID | Hypothesis | Status after this round |
 |---|---|---|
 | **H1** | Khuna is son of Abram Herszberg + Chana Tauba | **Rejected.** 1860 D16 survivors are wife Chana Tauba and daughters Fejga 32 and Cyrla 26. No Khuna (would have been ~7). |
-| **H2** | Khuna is brother of Lejzor Herszberg (1862 M21) | **Open, now specific.** 1862 M21: Lejzor is son of **Dan × Ester**, both living. That is the indexed Dan × Ester household (Chana 1854, Zelko, Tyla, Meita). Khuna’s ~1853 birth is still **not** in JRI. He is not Lejzor’s son. 1831 B30 / 1847 Leyzor are a **separate** Lejzor (Zysza × Jochwet). |
+| **H2** | Khuna is brother of Lejzor Herszberg (1862 M21) | **Open, weaker.** 1862 M21: Lejzor is son of **Dan × Ester**. The 1852 blank-parent Herszberg births are **not Khuna** (B1 = Jankiel son of Dawid Leyzor; B9 = Jojna Szulim; B83 = Hana Henia). No 1853 Herszberg birth. 1854 B12 is Chana, who died. H2 now requires an **unregistered** or **out-of-town** birth. |
 | **H3** | Liba Enta's maiden name is WAJNTAL (indexed WAJNTLOW; page **изъ Вайнталовъ**) | **Strong.** Act + 1872 death index + parents Jankiel Hersz × Dwejra match 1849 B68 Beniamin Wulf WAJNTAL. WALENTAL exact JRI: 0. |
 | **H4** | Liba Enta belongs to a Wajntraub/Wajntrob family | **Weaker.** Local Wajntraubs exist; they do not match Jankel Hersz × Dwejra. |
 | **H9** | Khuna is Szmul Herszberg × Szejndla Kligsberg (Sura b. 1865) | **Unproved.** Do not equate Szmul with Khuna. |
@@ -635,17 +671,16 @@ Fruma/Frejna CHERSZBERG × Mordko Boruch Rozenbaum is an **older** woman (son b.
 
 ## G. What to do next — do not restart discovery
 
-JRI-Poland Biała Herszberg/Gerszberg and nationwide Khuna+Herszberg are **done** (B23). Do not re-dump those indexes.
+JRI-Poland Biała Herszberg/Gerszberg, nationwide Khuna+Herszberg, and JRI census/Holocaust/army passes are **done** (B23, B29). Do not re-dump those indexes. Do not re-open 1852 B1/B9 as unread.
 
-1. **Dan × Ester births ~1848–56** on the originals (especially 1852–54, where JRI given names are often blank) — look for Khuna. Their daughter **Chana 1854 B12** is already indexed.
-2. **1831 B30** — quote parents from scan **10** of `/2.21/14`. This is now a *different* Lejzor test (Zysza × Jochwet), not 1862 M21. Do **not** use scan 13.
-3. **1865 D32** unnamed Herszberg death; **1862 M16 Sura × Adelman**; **1865 M27 Pesza × Litman**.
-4. **1881 M2 Matla Gerszberg × Zonszajn** — parents still blank in JRI.
-5. **1854 B13 Feyga Hinda DOMACZEWSKA**, Sławatycze (film 0753441) — H5 wife test.
-6. **1849 B68 / 1856 D9 WAJNTAL** (H3).
-7. Residents `38/20/0`; Bialskie Zeszyty vol. 1 (print).
-8. **Do not** re-open 1860 D16 or 1862 M21 as unread. Do not treat scan 90 as M21 (it is akt 27). Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom.
-9. **Do not** re-dump JRI Biała Herszberg or nationwide Khuna+Herszberg. Do not treat Fruma as Khuna’s sister. Do not merge Chisza CHERSZBERG’s child Chuna with Khuna Herszberg.
-10. **Do not** re-search USHMM 15600 Herszberg; Łódź Chuna/Liba; 73/1122/0; Geneteka empty-API as a nationwide negative; yizkor Jacob Velvel as Khuna’s son; D26 Goldenshtand; scans 105/110/134 as D26.
+1. **1890 birth of Szymon Szmul** (Chuma 36 × Fejga Domaczewska) — Russian act may give Chuma’s patronymic. Yearly book ~`/2.21/74`.
+2. **1873 alegata** (fond list sygn. 56 — **verify the unit title** is alegata, not the 1873 yearly book). Possible Khuna × Fejga remarriage packet after Liba’s 1872 death.
+3. **1865 D32** unnamed Herszberg death (survivors); **1862 M16 Sura × Adelman**; **1865 M27 Pesza × Litman**.
+4. **1831 B30** — quote parents from scan **10** of `/2.21/14`. Different Lejzor (Zysza × Jochwet). Do **not** use scan 13.
+5. **1856 B26 Mejte**; 1852 B83 leaf if needed for the Dan household, not for Khuna.
+6. Residents `38/20/0` / 1895 księga ludności at AP Radzyń; Bialskie Zeszyty vol. 1 (print).
+7. **Do not** re-open 1860 D16, 1862 M21, 1872 D26, or 1852 B1 as unread. Do not treat scan 90 as M21. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom.
+8. **Do not** re-dump JRI Biała Herszberg, nationwide Khuna+Herszberg, or the 1939 census cards. Do not treat Fruma as Khuna’s sister. Do not merge Chisza CHERSZBERG’s child Chuna with Khuna Herszberg. Do not treat “Chuna son of Worek” (1938 Zbąszyń) as our Khuna.
+9. **Do not** re-search USHMM 15600 Herszberg; Łódź Chuna/Liba; 73/1122/0; Geneteka empty-API as a nationwide negative; yizkor Jacob Velvel as Khuna’s son; D26 Goldenshtand.
 
-The parentage question is unsolved because **no original act that names Khuna’s father has been read**. D26 names him only as husband Khuna, age 19. The strongest remaining test is whether **Dan × Ester** registered a son Khuna; then **1831 B30**, **1865 D32**, or a **residents book**.
+The parentage question is unsolved because **no original act that names Khuna’s father has been read**. D26 names him only as husband Khuna, age 19. A registered Biała Herszberg birth in **1852–54 is now ruled out**. Remaining tests are **H5’s 1890 patronymic**, **1873 alegata**, **1865 D32**, or a **residents book**.

@@ -65,13 +65,13 @@ Indexed HERSZBERG births, Biała, 1848–1856:
 | 1849 | B70 | Lejbko Ber | Zysie | Ruchla | 1199950 |
 | 1850 | B12 | Chaja Feyga | (blank in index) | | 1199950 |
 | 1850 | B107 | Cywia | Dawid Leyzor | Itka | 1199950 |
-| 1852 | B1 | Jankiel? | (blank) | | 1199950 |
-| 1852 | B9 | Jojna Szulim | (blank) | | 1199950 |
-| 1852 | B83 | Hana Henia | (blank) | | 1199950 |
+| 1852 | B1 | Jankiel | **Dawid Leyzor** (tanner) on original scan 4 of jednostka **167439**; mother unread | | 1199950 |
+| 1852 | B9 | Jojna Szulim | (blank in JRI; original = scan 6, akt 9; parents not published) | | 1199950 |
+| 1852 | B83 | Hana Henia | (blank; female; original leaf not pinned) | | 1199950 |
 | 1854 | B12 | Chana | Dan | Ester | 681205 |
 | 1856 | B26 | Mejte | (blank) | | 1199951 |
 
-**No 1853 Herszberg birth. No child named Khuna/Chuna/Chuma/Huna.**
+**No 1853 Herszberg birth. No child named Khuna/Chuna/Chuma/Huna.** 18 Aug 2026 originals: B1 is **Jankiel** son of **Dawid Leyzor** (not Khuna). B9 remains **Jojna Szulim** (not Khuna). B83 is female.
 
 Given name (phonetic) Khuna or Chuna + town Biała, Siedlce gubernia, all surnames: 125 / 133 hits. Births 1845–1860 with that given name:
 
