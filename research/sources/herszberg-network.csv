@@ -1,0 +1,38 @@
+person_id,std_name,orig_spelling,event_date,event_type,age,father,mother,spouse,witness,occupation,house,town,act,source,confidence,cluster,notes
+P001,Khuna Herszberg,Хуна Гершбергъ,1872-06-26,death_of_wife,19,UNKNOWN,UNKNOWN,Liba Enta Wajntal,Boruch Gutman ~52; Szulim Piwo ~62,, ,Biała Podlaska,1872 D26,jedn.167459 scan113,high,khuna,"No syn/patronymic. Age 19."
+P001,Khuna Herszberg,Хуна Гершбергъ,1890-04-27,birth_of_son,~36,UNKNOWN,UNKNOWN,Fejga Domaczewska,,, ,Biała Podlaska,1890 B101,jedn.167478 scan29,high,khuna,"Шимонъ Шмуль; отецъ неграмотенъ; no syn."
+P002,Liba Enta Wajntal,Либа Энта изъ Вайнталовъ,1872-06-26,death,19,Jankiel Hersz Wajntal,Dwejra,Khuna Herszberg,Boruch Gutman; Szulim Piwo,, ,Biała Podlaska,1872 D26,jedn.167459 scan113,high,wajntal,"Maiden WAJNTAL not WALENTAL."
+P002,Liba Enta Wajntal,Liba (Jenta),1856-03-08,listed_survivor,4,Jankiel Wajntal,Dwora,,, , ,Biała Podlaska,1856 D9,jedn.167444 scans45-46,high,wajntal,"Age 4 Mar 1856 => b.~1852; matches Liba 19 in 1872 within a year."
+P003,Jankiel Hersz Herszberg,Янкеля Герша,1892-01-17,death,~22,Khuna Herszberg,Liba Enta Wajntal,Sura Nechuma Zak,,, ,Biała Podlaska,1892 D16,JRI/Dvorkin + 1872 D26 son 1.5y,high,khuna,"b.~1870/71. Birth akt still missing. Marriage akt not in Biała 1885-93 tables."
+P004,Szlema Chaim Herszberg,Szlema Chaim,1891-04-15,birth,inf,Jankiel Hersz Herszberg,Sura Nechuma Zak,,, , ,Biała Podlaska,1891 B,Cemetery Scribes/Dvorkin,high,khuna,"Guardianship after 1892 unread (on-site)."
+P005,Fejga Domaczewska,Фейги урожденной Домачевской,1890-04-27,birth_of_son,~30,UNREAD,UNREAD,Khuna Herszberg,,, ,Biała Podlaska,1890 B101,jedn.167478 scan29,high,khuna_h5,"Candidate = Feyga Hinda DOMACZEWSKA Sławatycze 1854 B13 (parents unread)."
+P010,Dan Herszberg,Dan/Dana,1865,death,80s,unpublished,unpublished,, ,z handlu, ,Biała Podlaska,1865 D32,jedn.167452 scan118,high,dan,"No survivors clause. Khuna not named. Not proof Khuna is his son."
+P011,Ester Herszberg,Ester/Estera,1862,named_as_mother,living, , ,Dan Herszberg,,, ,Biała Podlaska,1862 M16/M21,jedn.167450 scans79/84,high,dan,"Living 1862."
+P012,Lejzor Herszberg,Lejzor,1862,marriage,,Dan,Ester,Mejta Edelman,,, ,Biała Podlaska,1862 M21,jedn.167450 scan84,high,dan,"Blacksmith/kovel branch. Not Jochwet's Leyzor."
+P013,Sura Herszberg,Sura,1862,marriage,,Dan,Estera,Berek Adelman,,, ,Biała Podlaska,1862 M16,jedn.167450 scan79,high,dan,
+P014,Tyla Herszberg,Tyla,1865-02-03,marriage,17,Dane,Ester,Wolf Korman,,, ,Biała Podlaska,1865 M8,JRI 1199951,high,dan,"Original not reopened this run."
+P015,Chana Herszberg,Chana,1854,birth,inf,Dan,Ester,,,, ,Biała Podlaska,1854 B12,JRI,high,dan,
+P016,Zelko Herszberg,Zelko,1903-10-01,death,67,Don or Dania,Estera,,,, ,Biała Podlaska,1903 D4,JRI PSA,medium,dan,"Late death; parents Don/Dania x Estera."
+P020,Zysia Herszberg,Zysia/Zysza Szepszelowicz,1865-08-26,named_deceased_father,, , ,Jochwet (deceased),,, ,Biała Podlaska,1865 M27,jedn.167452 scan97,high,zysza,"Dead by Aug 1865. Death akt 1847-1865 NOT in JRI HERSZBERG given-name index."
+P021,Jochwet Herszberg,Jochwet,1847,death,36,,Berek x Ryfka,Zysza Szepszelowicz,,, ,Biała Podlaska,1847 D38,JRI 681207,high,zysza,"Survived by Zysza 60, Leyzor, Pesia. Khuna ~1853 cannot be her child."
+P022,Pesza Herszberg,Pesza,1865-08-26,marriage,21,Zysia,Jochwet,Jeremiasz Litman,Szulim Piwo 56; Zylbersztejn-class,, ,Biała Podlaska,1865 M27,jedn.167452 scan97 TRUE,high,zysza,"Sibling test NEGATIVE for Khuna."
+P023,Jeremiasz Litman,Jeremiasz Litman,1865-08-26,marriage,19,Moszek,Rejzla,Pesza Herszberg,,,cooper,Biała Podlaska,1865 M27,jedn.167452 scan97,high,zysza_inlaw,
+P024,Leyzor Herszberg (of Jochwet),Leyzor,1847,listed_survivor,,Zysza,Jochwet,,,, ,Biała Podlaska,1847 D38,JRI,high,zysza,"Not the 1862 M21 groom (those parents living)."
+P030,Abram Herszberg,Abram,1860,death,, , ,Chana Tauba,,, ,Biała Podlaska,1860 D16,jedn.167448 scan95,high,abram,"Survivors: wife; Fejga 32; Cyrla 26. No Khuna (~7). H1 disproved."
+P031,Chana Tauba Herszberg,Chana Tauba,1860,listed_widow,, , ,Abram,,, ,Biała Podlaska,1860 D16,jedn.167448 scan95,high,abram,
+P032,Fejga d. Abram,Fejga,1860,listed_survivor,32,Abram,Chana Tauba,,,, ,Biała Podlaska,1860 D16,jedn.167448 scan95,high,abram,
+P033,Cyrla d. Abram,Cyrla,1860,listed_survivor,26,Abram,Chana Tauba,,,, ,Biała Podlaska,1860 D16,jedn.167448 scan95,high,abram,
+P040,Dawid Leyzor Herszberg,Dawid Leyzor,1852,birth_of_son,,Herszek (1843 D110),Itta/Ita,,,,tanner,Biała Podlaska,1852 B1,jedn.167439 scan4,high,dawid,"Separate from Dan x Ester."
+P041,Jankiel s. Dawid Leyzor,Jankiel,1852,birth,inf,Dawid Leyzor,unpublished,,,, ,Biała Podlaska,1852 B1,jedn.167439 scan4,high,dawid,"Not Khuna."
+P050,Josel Hirszberg (infant),Josel,1856-09-13,birth,inf,Hirszberg given unpublished ~22,Chana-class Jakubowicz ~22,,,, ,Biała Podlaska,1856 B33,jedn.167444 scan20,high,b33,"Father is Khuna's generation, not his father."
+P051,Chaja Ruchla Hirszberg?,Chaja Ruchla,1860,birth,inf,surname not locked,unpublished,,,, ,Biała Podlaska,1860 B48,jedn.167448 scan28,low,b48_partial,"Parents unpublished. Do not publish as Hirszberg household."
+P060,Josel Wajntal,Josel,1856,named_as_father,, ,Fraindla,Fraindla,,, ,Biała Podlaska,1856 D9,jedn.167444 scans45-46,high,wajntal,"Liba's paternal grandfather."
+P061,Fraindla Wajntal,Fraindla/Fradla,1856,named_as_mother,, , ,Josel,,, ,Biała Podlaska,1856 D9,jedn.167444,high,wajntal,
+P062,Jankiel Wajntal,Jankiel,1856-03-08,death,32,Josel,Fraindla,Dwora 31,, ,przy ojcu,Biała Podlaska,1856 D9,jedn.167444 scans45-46,high,wajntal,"Liba Enta's father. Khuna not named."
+P063,Dwora Wajntal,Dwora/Dwejra,1856,listed_widow,31, , ,Jankiel Wajntal,,, ,Biała Podlaska,1856 D9,jedn.167444,high,wajntal,"Do not merge 1889 D8 Dwojra (Dvorkin: father Jojna?) without original."
+P064,Golda Wajntal,Golda,1856,listed_survivor,12,Jankiel,Dwora,,,, ,Biała Podlaska,1856 D9,jedn.167444,high,wajntal,"b.~1844. Distinct from Golda 1848 M13 d/o Josel (aunt)."
+P065,Golda Wajntal (aunt),Golda,1848,marriage,20,Josel,Fradla,Hersz Lejb Mandelsberg,,, ,Biała Podlaska,1848 M13,JRI 1199950,high,wajntal,"Liba's aunt, not sister."
+P066,Beniamin Wulf Wajntal,Beniamin Wulf,1849,birth,inf,Jankiel,Dwora,,,, ,Biała Podlaska,1849 B68,JRI,medium,wajntal,"Not locked on 1856 D9 survivors. Died/omitted/unresolved."
+P070,Matla Gerszberg,Matla,1881,marriage,,UNREAD,UNREAD,Chaim Dawid Zonszajn,,, ,Biała Podlaska,1881 M2,JRI PSA blank parents,low,unread_m2,"Original still unread. 1881 book scans 1-15 are births not this akt."
+P071,Feyga Hinda Domaczewska,Feyga Hinda,1854,birth,inf,UNREAD,UNREAD,,,, ,Sławatycze,1854 B13,JRI p.165 film753441,low,unread_b13,"H5 wife-candidate parents. Original unread."
+P080,Estera Perel n. Herszberg,Estera PEREL,1942ca,holocaust_list,57,Moszko-Aron Herszberg (from cards),,Perel,,, ,Biała Podlaska,Tracing the Tribe snippet,medium,later_gen,"b.~1885. NOT Khuna's generation. Thread SOLVED as identity of the snippet."
