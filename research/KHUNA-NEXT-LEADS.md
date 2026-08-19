@@ -144,11 +144,11 @@
 
 **SOURCE:** `35/1772/0/1/1` births **1847–1855**, 100 scans (2015 fonds list). FS film **753441** / cat **272307** / digital **007954618**, JRI p. **165**. Numeric ID unknown.
 
-**ACTIONS ATTEMPTED:** 2015 fonds list confirms signature. Unit page `/1/1` **not** in the 20150416 or 20151119 snapshots. FamilySearch catalog **272307** = Incapsula 403 from this host. Live Szukaj Incapsula.
+**ACTIONS ATTEMPTED:** 2015 fonds list confirms signature. Unit page `/1/1` **not** in the 20150416 or 20151119 snapshots. FamilySearch catalog **272307** = Incapsula 403 from this host. Live Szukaj Incapsula. Browser pass 19 Aug 2026: search hit for `35/1772/0/1/1` (1847–1855, 100 scans) **exists**; click did **not** yield a numeric jednostka. A viewer opened at “scan 5 of **119**” — **wrong book** (target is 100 scans). No JPEG of akt 13. FS not reached from that session.
 
-**STATUS:** BLOCKED (online exists; this host cannot open images). Not a “does not exist” conclusion.
+**STATUS:** BLOCKED (online exists; this host cannot open the correct 100-scan unit). Not a “does not exist” conclusion.
 
-**NEXT DERIVATIVE LEAD:** Browser to `35/1772/0/1/1`, 1854 births, left-margin **№ 13**. FS image ~165 if a session passes Incapsula.
+**NEXT DERIVATIVE LEAD:** Re-open **only** a 100-scan unit whose address bar contains `/jednostka/-/jednostka/NNNNNN` for `35/1772/0/1/1`. Discard any 119-scan viewer. Then 1854 section, left-margin **№ 13**. FS image ~165 if a session passes Incapsula.
 
 ---
 
