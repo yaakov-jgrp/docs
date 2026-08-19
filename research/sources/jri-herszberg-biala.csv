@@ -1,0 +1,241 @@
+click,surname,given,year,type,akta,page,district,sygnatura,house,sex,age,dob,dom,dod,doreg,townb,townm,townd,townr,cause,spouse,spousesn,maiden,patronymic,othersn,occ,focc,father,fsurname,mother,msurname,fage,mage,ftown,mtown,ffather,mfather,fmother,mmother,comments,extra,microfilm
+,HERSZBERG,Jankiel Szymon,1826,B,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Ester Golda,1826,M,6,,,,,,,,,,,,,,,,,,,,,,Garbana (Tanner),Zwi / Herszko,,,,,,,,Abrahamowicz,,,,,,681203 & 681206
+,ALBERSZTEJN,Dawid,1826,M,6,,,,,M,,,,,,,,,,,,,,,,,,Szulimowicz,,,,,,,,,,,,,,681203 & 681206
+,HERSZBERG,Mejta Gitla,1827,B,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Gelda?,1827,D,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Szepoel Szlama,1829,B,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Abram,1829,B,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,twin,,681203
+,HERSZBERG,Sura Fejga,1829,B,56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,twin,,681203
+,HERSZBERG,Abram,1829,D,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Chaim Dawid,1829,D,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Szefroel? Szloma,1830,D,57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Lejzor,1831,B,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681203
+,HERSZBERG,Sura,1833,D,17,,,,,,30,,,,,,,,,,Chaim Dawid,,,,,,,Beniamin,,Itta,,,,,,Zelman,,,,,Survived by: husband Chaim Dawid,681207
+,HERSZBERG,Beyla Sosia,1836,D,29,,,,,,2y3m,,,,,,,,,,,,,Zyszowna,,,,Zysza Szepszelowicz,,Jochwet,,,,,,,,,,,,681207
+,HERSZBERG,Boruch Lejzor,1837,B,37,,,,,,,,,,,,,,,,,,,,,,shoemaker,Berko,,Jochwet,,26,25,,,Hersz,,,,,,681205
+,HERSZBERG,Kielman Lejb,1837,B,57,,,,,,,,,,,,,,,,,,,,,,vendor,,,Jochwet,,,24,,,Szepsel,,,,,,681205
+,HERSZBERG,Basia Bejla,1838,B,45,,,,,,,,,,,,,,,,,,,,,,laborer,Dan,,Ester,,28,24,,,Jankiel,,,,,,681205
+,HERSZBERG,Kalma Leyb,1838,D,44,,,,,,1y6m,,,,,,,,,,,,,,,,,Zysza Szepszelowicz,,Jachet,,,,,,,,,,,,681207
+,HERSZBERG,Mojsko,1839,B,5,,,,,,,,,,,,,,,,,,,,,,,Dawid Lejzor,,Ita,,20,18,,,Hersz,,,,,,681205
+,HERSZBERG,Ester Malka,1839,B,7,,,,,,,,,,,,,,,,,,,,,,dealer,Sapio,,Jachwet,,,,,,Szepsel,,,,,,681205
+,HERSZBERG,Mojsko Lejb,1840,B,35,,,,,,,,,,,,,,,,,,,,,,laborer,Abram,,Tauba,,,30,,,,,,,,,681205
+,HERSZBERG,Mordko,1840,B,85,,,,,,,,,,,,,,,,,,,,,,laborer,Dawid,,Ester,,27,,,,Jankiel,,,,,,681205
+,HERSZBERG,Mordko,1841,B,12,,,,,,,,,,,,,,,,,,,,,,,Mojsko,,Hana,,24,24,,,Hersz,,,,,,681205
+,HERSZBERG,Rywa,1841,B,59,,,,,,,,,,,,,,,,,,,,,,miller,Lipsza,,Jochwet,,42,38,,,Szjmcho,,,,,,681205
+,HERSZBERG,Moszek,1841,D,24,,,,,,24,,,,,,,,,,Henia,,,,,,,Herszek Abramowicz,,Chaja,,,,,,,Szmulowicz,,,,"Survived by: wife Henia, son Mordka",681207
+,HERSZBERG,Moszek,1841,D,73,,,,,,2y1m,,,,,,,,,,,,,,,,,Dawid Leyzor,,Itta,,,,,,Herszko,,,,,,681207
+,GIELTMAN,Szmul,1842,M,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681206
+,HERSZBERG,Gele Perla,1842,M,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681206
+,HERSZBERG,Gitla,1843,B,19,,,,,,,,,,,,,,,,,,,,,,peddler,Dawid Lejzor,,Itta,,24,22,,,Hersz,,,,,,681205
+,HERSZBERG,Etia,1843,D,84,,,,,,80,,,,,,,,,,,,,Szepselowa,,,,Kielman,,Bayla,,,,,,,Chaimowicz,,,widow,"Survived by: son Zyzsa, 40, daughter Lipa",681207
+,HERSZBERG,Estera Malka,1843,D,95,,,,,,3y6m,,,,,,,,,,,,,,,,,Zuszek Szepselowicz,,Jochwet,,,,,,,Berkowicz,,,,,681207
+,HERSZBERG,Rywa,1843,D,107,,,,,,1y9m,,,,,,,,,,,,,,,,,Zuszek Szepselowicz,,Jochwet,,,,,,,Berkowicz,,,,,681207
+,HERSZBERG,Herszek,1843,D,110,,,,,,54,,,,,,,,,,Chaia,,,,,,,Abram,,Gitla,,,,,,,Wolfowicz,,,,"Survived by: wife Chaia, sons Dawid Leyzar, 26, Jankiel Szyman, daughter Estera",681207
+,HERSZBERG,Pesza,1844,B,66,,,,,,,,,,,,,,,,,,,,,,,Zjska,,Jochwet,,45,40,,,Szepsel,,,,,,681205
+,HERSZBERG,Gitla,1844,D,24,,,,,,1y2m,,,,,,,,,,,,,,,,,Dawid Leyzor,,Itta,,,,,,Herszko,Abelowna,,,,,681207
+,FRIDMAN,Izrael Jakub,1844,M,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681206
+,HERSZBERG,Feiga Rywa,1844,M,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681206
+,HERSZBERG,Sura Ryfka,1845,B,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681205
+,HERSZBERG,Sura,1845,B,86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,681205
+,HERSZBERG,Hersz,1846,B,7,,,,,,,,,,,,,,,,,,,,,,stallkeeper,Dawid Lejzor,,Ita,,28,24,,,Hersz,,,,,,681205
+,HERSZBERG,Cipa,1846,B,51,,,,,,,,,,,,,,,,,,,,,,peddler,Zjsia,,Jochwet,,44,36,,,Szepsel,,,,,,681205
+,HERSZBERG,Tjzla,1847,B,103,,,,,,,,,,,,,,,,,,,,,,gardener,Dan,,Pjter,,36,34,,,Jankiel,,,,,,681205
+,HERSZBERG,Jochwet,1847,D,38,,,,,,36,,,,,,,,,,Zysza,SZEPSZELOWICZ,,Zyszowa,,,,Berek,,Ryfka,,,,,,,Chaymowicz,,,,"Survived by: husband Zysza Szepszelowicz, 60, son Leyzor, daughter Pesia",681207
+,HERSZBERG,Cypa,1847,D,73,,,,,,1y4m,,,,,,,,,,,,,,,,,Zysza,,Jachwet,,,,,,,,,,,,681207
+,HERSZBERG,Srul Icek,1848,B,66,,,,,,,,,,,,,,,,,,,,,,,Dawid Lejzor,,Ita,,,,,,Herszko,,,,,,1199950
+,HERSZBERG,Srul Icek,1848,D,145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Lejbko Ber,1849,B,70,,,,,,,,,,,,,,,,,,,,,,,Zysie,,Ruchla,,,,,,Szepsel,,,,,,1199950
+,HERSZBERG,Szmul,1849,D,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Chaja Feyga,1850,B,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Cywia,1850,B,107,,,,,,,,,,,,,,,,,,,,,,,Dawid Leyzor,,Itka,,,,,,,,,,,,1199950
+,GOLDSZTAYN,Abram Lejb,1851,M,2,,,,,,18,,,,,,,,,,,,,,,,,Szamy,,Bluma,,,,,,,,,,,,1199950
+,HERSZBERG,Cyrla,1851,M,2,,,,,,17,,,,,,,,,,,,,,,,,Abram,,Chana,,,,,,,,,,,,1199950
+,HERSZBERG,Jankiel?,1852,B,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Jojna Szulim,1852,B,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Hana Henia,1852,B,83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Sura Rywa,1852,D,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Cywa,1852,D,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Ita,1852,D,65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Chaja,1852,D,73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199950
+,HERSZBERG,Chana,1854,B,12,,,,,,,,,,,,,,,,,,,,,,baker,Dan,,Ester,,38,,,,,Josel,,,,,681205
+,HERSZBERG,Chana,1854,D,66,,,,,,6m,,,,,,,,,,,,,,,,,Dan,,Ester,,38,,,,,,,,,,681208
+,HERSZBERG,Mejte,1856,B,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,HERSZBERG,Abram,1860,D,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,HERSZBERG,Chaja Leja,1862,B,104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,ADELMAN,Berek,1862,M,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,HERSZBERG,Sura,1862,M,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,EJDELMAN,Mojte?,1862,M,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,HERSZBERG,Lejzor,1862,M,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,HERSZBERG,?,1865,D,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,HERSZBERG,Tyla,1865,M,8,,,,,F,17,,3-Feb-1865,,,,,,,,,,,,,,,Dane,,Ester,,,,,,,,,,,Spouse : Wolf Spouse Surname : KORMAN,1199951
+,KORMAN,Wolf,1865,M,8,,,,,M,18,,3-Feb-1865,,,,,,,,,,,,,,handlarz,Berko,,Rejzla Etla,,,,,,,,,,,Spouse : Tyla Spouse Surname : HERSZBERG,1199951
+,HERSZBERG,Pesza,1865,M,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,LITMAN,Jeremiasz,1865,M,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,HERSZBERG,Menachym,1867,D,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1199951
+,KORMAN,Dina,1868,B,20,,,,,M,,23-Mar-1868,,,,,,,,,,,,,,,,Wolf,,Tylia,HERSZBERG,23,22,,,,,,,,,1199952
+,IZAKSON,Leja,1869,M,12,,,,,,18,,,,,,,,,,,,,,,,,Jankel Nusen,,Ruchla,,,,,,,,,,Mother was deceased,,1199952
+,HERSZBERG,Chaim Szepsel,1869,M,12,,,,,,19,,,,,,,,Slawatyce,,,,,,,,,Jankel,,Malka,,,,,,,,,,,,1199952
+,EDELMAN,Estera,1870,B,56,,,,,,,,,,,,,,,,,,,,,,,Berko,,Sura,HERSZBERG,26,24,,,,,,,,,1199952
+,ADELMAN,Chaja Feiga,1872,B,1,,,,,,,,,,,,,,,,,,,,,,,Berko,,Sura,HERSZBERG,27,26,,,,,,,,,1199952
+,HERSZBERG,Jankel Wulf,1872,B,32,,,,,,,,,,,,,,,,,,,,,,,Lejzor,,Mejta,EDELSMAN,34,32,,,,,,,,,1199952
+,HERSZBERG / WAJNTLOW,Liba Enta,1872,D,26,,,,,,19,,,,,,,,,,Khuna,,,,,,,Jankel Hersz,,Dwejra,,,,,,,,,,,"Survived by: husband Khuna 19, child Jankiel Hersz 5",1199952
+,BLUSZTEJN,Jankel,1872,M,12,,,,,,20,,,,,,,,Losice,,,,,,,,,Abram,,Ryfka,,,,,,,Wulf,,,,,1199952
+,HERSZBERG,Meita,1872,M,12,,,,,,16,,,,,,,,,,,,,,,,,Dan,,Ester,,,,,,,,,,,,1199952
+,ADELMAN,Hudes,1873,B,163,,,,,,,,,,,,,,,,,,,,,,,Berko,,Sura,HERSZBERG,30,28,,,,,,,,,1199952
+,HERSZBERG,Ester Rywka,1873,D,67,,,,,,2,,,,,,,,,,,,,,,,,Jankel Mojsze,,Chawa Rojza,,,,,,,,,,,,1199952
+,ROZENBERG,Jankel Wulf,1873,D,82,,,,,,11,,,,,,,,,,,,,,,,,Motel,,Frima,HERSZBERG,,,,,,,,,,,1199952
+,ADELMAN,Ita,1874,B,3,,,,,,,,,,,,,,,,,,,,,,,Berko,,Sura,HERSZBERG,30,28,,,,,,,,,1201147
+,HERSZBERG,Abram Abe,1874,M,13,,,,,,18,,,,,,,,Terespol,,,,,,,,,Aron,,Perla,,,,,,,,,,,,1201147
+,WAJSBROT,Chaja Sura,1874,M,13,,,,,,19,,,,,,,,,,,,,,,,,Jentel,,Fajga,,,,,,,,,,,,1201147
+,HERSZBERG,Riwka Ejdlja,1875,B,63,,,,,,,,,,,,,,,,,,,,,,,Abram Abe,,Chaia Sura,WAJSBERG,20,20,,,,,,,,,1201147
+,HERSZBERG,Josel,1875,M,27,,,,,,19,,,,,,,,,,,,,,,,,Zelik,,Chamia,,,,,,,,,,,,1201147
+,LENCZNER,Chana,1875,M,27,,,,,,21,,,,,,,,,,,,,,,,,Josel,,Chaia,,,,,,,,,,,,1201147
+,BLUMSZTEJN,Szija,1876,B,4,,,,,,,,,,,,,,,,,,,,,,,Jankel,,Mejta,HERSZBERG,28,27,,,,,,,,,1201147
+,GOLDSZTEJN,Froim,1876,B,130,,,,,,,,,,,,,,,,,,,,,,,Abram Lejb,,Cirla,HERSZBERG / GOLDSZTAJN,,,,,,,,,,,1201147
+,HERSZBERG,Szulim,1877,B,32,,,,,,,,,,,,,,,,,,,,,,,Josel,,Chana,LENCZNYK,21,23,,,,,,,,,1201147
+,HERSZBERG,Josel,1877,B,84,,,,,,,,,,,,,,,,,,,,,,,Lejzor,,Mejta,EDELMAN,39,37,,,,,,,,,1201147
+,HERSZBERG,Szosza Beyla,1834,B,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,HERSZBERG,Sura Fejga,1845,M,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,WASERMAN,Elo,1845,M,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,HERSZBERG,Estera,1910,M,10,,,,,F,24,,,,,,Biala Podlaski,,,,,,,,,,,Josel,,Chana,LENCZNER,,,,,,,,,,,
+,ROGONSIK,Szebsel,1910,M,10,,,,,M,28,,,,,,,,,,,,,,,,,Zejlik,,Lei,SZEWEC,,,,,,,,,"widow, married name EKERMAN",,
+ARONOWICZ,Mejer,,rymarz,Aron i Estera,HERSZBERG,1904,Biała Podlaska,74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARONOWICZ,Estera,HERSZBERG,,Lejzor i Majła,EDELMAN,10.V.1870,,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLANKLEJDER,Estera,HERSZBERG,,Jankiel - Wulf i Basia,ADELMAN,1.VI.1899,Biała Podlaska,192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLANKLEJDER,Golda,,,Icko - Lejb,HERSZBERG,27.I.1918,,192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLANKLEJDER,Sara,,,Icko - Lejb,HERSZBERG,22.VI.1932,Biała Podlaska,192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDELMAN,Rywka,HERSZBERG,kucharka,Lejzor i Mejta,,30.II.1875,Biała Podlaska,416,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDELMAN,Abram,,stolarz,Nachman i Rywka,HERSZBERG,15.II.1904,Biała Podlaska,420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Srul - Lejb,,kupiec,Jenikiel i Małka,GOLDBERG,15.VIII.1873,Sławatycze,1064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Szprynca,,,Srul - Lejb,EJBLUM,16.IV.1909,Biała Podlaska,1064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Tercia,,,Srul - Lejb,EJBLUM,1913,,1064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Chaja - Bejla,EJBLUM,,Litman i Chawa,LIBERMAN,18.II.1870,Biała Podlaska,1064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Gołda,BRODACZ,,Rubin i Bejla - Marjem,GOLDSZTEJN,31.XII.1890,Biała Podlaska,1065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Rejzla,,,Gołda,BRODACZ,1914,,1065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Jankiel - Aron,,gonciarz,Abram - Abe i Chaja,WAJSBROT,1883,Biała Podlaska,1066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Mejta,,,Jankiel - Aron,LEBENBERG,6.II.1912,Biała Podlaska,1066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Hela,,,Jankiel - Aron,LEBENBERG,17.VI.1916,Biała Podlaska,1066,Brak meldunku Heli i Jechudyty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Abram - Abe,,,Jankiel - Aron,LEBENBERG,11.X.1918,Biała Podlaska,1066,Abram - Abe dn .19.VIII.1938 wymeldowany do Warszawy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Jontel,,,Jankiel - Aron,LEBENBERG,23.II.1924,Biała Podlaska,1066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Jechudyt,,,Jankiel - Aron,LEBENBERG,29.IX.1925,Biała Podlaska,1066,Brak meldunku Heli i Jechudyty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Frejda - Bejla,LEBENBERG,,Srul - Ber i Szejna - Ruchla,PAKMAN,1883,JanĂłw Podlaski,1066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Menachem,,kupiec,Jankel i Tauba,LUBELCZYK,21.VIII.1908,SokołĂłw,1067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Rywka,KLIKSBERG,,Dawid i Estera - Kejła,FEFERMAN,23.II.1903,Biała Podlaska,1067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Estera,,,Menachem,KLIKSBERG,29.XI.1933,Warszawa,1067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Hadasa,,,Menachem,KLIKSBERG,19.III.1936,Biała Podlaska,1067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Sura,,,Szmul i Szejndla,KLIGSBERG,14.X.1865,,1069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Abram,,krawiec,Jankiel i Frejda,,24.X.1909,Łomazy,1070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Berko,KACHA(ILLEGIBLE),kowal,Jankiel - WĂłlf i Basia,ADELMAN,15.II.1901,Biała Podlaska,1071,Berko przybył z Argentyny dn 16.V.1936.Berko dn. 20.XI.1939 wymeldowany.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Chana,KACHA(ILLEGIBLE),,Josel i Estera,EDELMAN,18.II.1896,Biała Podlaska,1071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Sura,,,Berko,KACHA(ILLEGIBLE),3.I.1925,Biała Podlaska,1071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Matla,,,Berko,KACHA(ILLEGIBLE),12.I.1931,Biała Podlaska,1071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Moszko,,,Berko,KACHA(ILLEGIBLE),,,1071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Daniel,,,Berko,KACHA(ILLEGIBLE),24.II.1937,Biała Podlaska,1071,Daniel zmarł dn. 18.VIII.1939.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Aron - Szyja,,,Jankiel - Wulf i Basia,ADELMAN,17.VII.1910,Biała Podlaska,1072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Gita,GODELSZTEJN,,Szapsia - Mendel i Pesia - Rywka,,15.V.1910,Biała Podlaska,1072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Jankiel - Wolf,,kowal,Lejzor i Mejta,EDELMAN,7.V.1872,Biała Podlaska,1073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Mejta,,,Jankiel - Wolf,EDELMAN,10.IX.1902,Biała Podlaska,1073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Minia,,,Jankiel - Wolf,EDELMAN,1.VII.1905,Biała Podlaska,1073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Aron - Szyja,,,Jankiel - Wolf,EDELMAN,17.VII.1910,Biała Podlaska,1073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Zelik,,,Jankiel - Wolf,EDELMAN,13.VIII.1913,Biała Podlaska,1073,Zelik zameldowany przy ul. Szkolny DwĂłr 19.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Basia,EDELMAN,,Berko i Sura,HERSZBERG,10.III.1879,Biała Podlaska,1073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HERSZBERG,Mejta,,,Daniel i Liba,GELTMAN,18.V.1900,Biała Podlaska,1074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HOCHBERG,Estera,BLUSZTEJN,,Jankiel i Mejta,HERSZBERG,5.IX.1882,Biała Podlaska,1086,"Estera paszport zagraniczny dn.24.II.1939,",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIBMAN,Zelik,,stolarz,Ajzyk i Sura - Brajna,HERSZBERG,20.IV.1905,Biała Podlaska,1531,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIBMAN,Sura,HERSZBERG,wyrobnica,Lejzor i Mejta,EDELMAN,3.IX.1866,Biała Podlaska,1532,Sura zmarła dn.15.I.1941.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIBMAN,Dyna,,,Sura,HERSZBERG,15.II.1890,Biała Podlaska,1532,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIBMAN,Mendel - Mejer,,stolarz,Ajzyk i Sura - Brejna,HERSZBERG,2.X.1902,Biała Podlaska,1538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIBMAN,Zysle,,bednarz,Irma i Pesza,HERSZBERG,3.VI.1870,Biała Podlaska,1539,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIBMAN,Don,,brakarz,Ajzyk i Sura - Brajna,HERSZBERG,22.II.1888,Biała Podlaska,1541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MARKUS,Estera,HERSZBERG,,Daniel i Liba,GELFMAN,1906,Biała Podlaska,1625,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PEREL,Chuna - Josif,,,Moszko - Aron,HERSZBERG,6.IX.1919,Biała Podlaska,1823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PEREL,Szejndla,,,Moszko - Aron,HERSZBERG,26.IV.1922,Biała Podlaska,1823,Szejndla dn.30.V.1939 wymeldowana do Warszawy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PEREL,Estera,HERSZBERG,,Chuma i Fejga,,16.V.1885,Biała Podlaska,1823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PLAT,Chaja - Rejzla,,,Josef,HERSZBERG,1940,,1871,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PLAT,Mejta,HERSZBERG,,Jankiel - Aron i Frejda - Bejla,LEBENBERG,6.II.1912,Biała Podlaska,1871,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RAJC,Mejta,ARONOWICZ,,Aron i Estera,HERSZBERG,1902,Biała Podlaska,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STRYCHER,Estera,EDELMAN,,Nachman i Rywka,HERSZBERG,20.I.1890,Biała Podlaska,2211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WAJNGLUS,Szejndla,ARONOWICZ,,Aron i Estera,HERSZBERG,28.III.1901,Biała Podlaska,2487,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WOREK,Abram - Chaim,,robotnik,Nuchim i Ruchla,HERSZBERG,10.II.1902,Biała Podlaska,2638,Abram - Chaim i Chune wymeldowani do Warszawy dn.20.VIII.1936.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WOREK,Ruchla,HERSZBERG,,Chuna i Fejga - Hudes,DOMACZEWSKA,1888,Biała,2639,"Ruchla , Zejlyk i Zelman - Josif wymeldowani do Warszawy dn.18.VIII.1936.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WOREK,Chume,,,Nuchim,HERSZBERG,13.VII.1913,Biała Podlaska,2639,Abram - Chaim i Chune wymeldowani do Warszawy dn.20.VIII.1936.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WOREK,Abram - Chaim,,,Nuchim,HERSZBERG,9.IX.1918,Biała Podlaska,2639,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WOREK,Zejlyk,,,Nuchim,HERSZBERG,3.X.1921,Biała Podlaska,2639,"Ruchla , Zejlyk i Zelman - Josif wymeldowani do Warszawy dn.18.VIII.1936.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WOREK,Zelman - Josif,,,Nuchim,HERSZBERG,3.II.1925,Biała Podlaska,2639,"Ruchla , Zejlyk i Zelman - Josif wymeldowani do Warszawy dn.18.VIII.1936.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ZONSZAJN,Chaim Dawid,1881,M,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Matla,1881,M,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Jojne,1882,D,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Icko Lejb,1882,D,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Sura Rywka,1882,B,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Dawid Srul,1882,B,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Sura,1883,D,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Jankel Aron,1883,B,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Mordko,1885,B,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Chasza Fryda,1885,B,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Estera,1885,B,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Bejla,1887,B,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Don,1889,B,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Cirla,1889,B,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Danijel,1889,M,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GELTMAN,Liba Rejzla,1889,M,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Szymon Szmul,1890,B,101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Berko,1890,B,116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Chana Brajna,1890,B,117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Pesia,1890,B,157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Pesia,1891,D,115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Szlema Chaim,1891,B,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Srul Lejb,1891,M,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EJBLUM,Chaja Bejla,1891,M,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Jankel Gersz,1892,D,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Abram Ajzyk,1892,D,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Dyna Szyfra,1892,D,138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Dyna Szyfra,1892,B,126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Chana Gitla,1892,B,208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Gerszon Enoch,1893,B,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Gerszon,1893,B,171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Chaim Mejer,1895,B,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Malka,1896,D,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Jakow,1896,B,175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Gerszon,1898,D,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Jankel,1898,D,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Jankel Wulf,1898,M,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ADELMAN,Basia,1898,M,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,SZECHTMAN,Jankel,1898,M,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Bejla,1898,M,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Mejta,1900,D,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Abram Mordko,1901,B,122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,GERSZBERG,Szamszon,1902,B,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+View Image,GERSZBERG,Zelko,1903,D,4,,,,,M,67,,,01-Oct-03,,,,,,,,,,,,,,Don or Dania,,Estera,,,,,,,,,,,,
+View Image,GOCHTBERG,Motel,1903,M,44,,,,,M,18,,27/11/1903,,,,,,,,,,,,,,,Nosel Lejb,,Sura Rywka,ZALCBERG,,,,,,,,,,Spouse : Estera Spouse Surname : BLUSZTEJN,
+View Image,BLUSZTEJN,Estera,1903,M,44,,,,,F,21,,27/11/1903,,,,,,,,,,,,,,,Jankiel,,Mejta,GERSZBERG,,,,,,,,,,Spouse : Motel Spouse Surname : GOCHTBERG,
+View Image,GERSZBERG,Necha,1904,B,113,,,,,F,,15-Oct-1894,,,,,,,,,,,,,,,,Srul Lejb,,Chaja Bejla,EJBLUM,34,34,Slawatycz,,,,,,,,
+View Image,GERSZBERG,Chawa Gudesa,1904,B,114,,,,,F,,14-Sep-1904,,,,,,,,,,,,,,,,Srul Lejb,,Chaja Bejla,EJBLUM,34,34,Slawatycz,,,,,,,,
+View Image,GERSZBERG,Estera,1904,B,116,,,,,F,,1-Jun-1899,,,,,,,,,,,,,,,,Jankiel Wulf,,Basia,ADELMAN,31,24,,,,,,,,,
+View Image,GERSZBERG,Berko,1904,B,117,,,,,M,,15-Feb-1901,,,,,,,,,,,,,,,,Jankiel Wulf,,Basia,ADELMAN,31,24,,,,,,,,,
+View Image,GERSZBERG,Mejta,1904,B,118,,,,,F,,10-Sep-1902,,,,,,,,,,,,,,,,Jankiel Wulf,,Basia,ADELMAN,31,24,,,,,,,,,
+View Image,GERSZBERG,Josel,1904,M,40,,,,,M,26,,22/07/1904,,,,,,,,,,,,,,,Lejzor,,Mejta,EDELMAN,,,,,,,,,,Spouse : Riwka / Rywka Spouse Surname : FRIDMAN,
+View Image,FRIDMAN,Riwka / Rywka,1904,M,40,,,,,F,28,,22/07/1904,,,,,,,,,,,,,,,Abram,,Chaja Dwojra,ASZBERG,,,,,,,,,,Permanent Resident of: Konstantinow Spouse : Josel Spouse Surname : GERSZBERG,
+View Image,LIBMAN,Zelik,1905,B,43,,,,,M,,20-Apr-1905,,,,,,,,,,,,,,,,Ajzyk Nutis,,Sura Brajna,GERSZBERG,41,40,Janow,,,,,,,,
+View Image,GERSZBERG,Minia,1905,B,86,,,,,F,,1-Jul-1905,,,,,,,,,,,,,,,,Jankiel Wulf,,Basia,ADELMAN,32,25,,,,,,,,,
+View Image,GERSZBERG,Estera Malka,1905,D,28,,,,,F,64,,,02-Sep-05,,,,,,died from anemia,,,CZERWONOGURA,,,,,Srul Dawid,,Sura,,,,,,,,,,widow,,
+View Image,GERSZBERG,Mordko,1906,D,25,,,,,M,21,,,03-Jan-06,,,,,,consumption,,,,,,,,Zelik,,Estera Malka,,,,,,,,,,,,
+View Image,BLIUSZTEJN,Rywka Genia,1906,D,71,,,,,F,10,,,08-Jul-06,,,,,,pneumonia,,,,,,,,Jankiel,,Mojta,GERSZBERG,,,,,,,,,,,
+View Image,EDELMAN,Estera,1907,B,35,,,,,F,,20-Jan-1899,,,,,,,,,,,,,,,,Nachman,,Rywka,GERSZBERG,26,31,,,,,,,,,
+View Image,EDELMAN,Mejta,1907,B,36,,,,,F,,10-Feb-1902,,,,,,,,,,,,,,,,Nachman,,Rywka,GERSZBERG,26,31,,,,,,,,,
+View Image,EDELMAN,Abram,1907,B,37,,,,,M,,15-Feb-1904,,,,,,,,,,,,,,,,Nachman,,Rywka,GERSZBERG,26,31,,,,,,,,,
+View Image,EDELMAN,Minia,1907,B,38,,,,,F,,20-Jul-1906,,,,,,,,,,,,,,,,Nachman,,Rywka,GERSZBERG,26,31,,,,,,,,,
+View Image,EDELMAN,Nachman,1907,M,8,,,,,M,26,,20/02/1907,,,,,,,,,,,,,,,Abram Gersz,,Tauba Zyslia,,,,,,,,,,,Children born before marriage: daughter Estera born 1899 daughter Mejta born 1902 daughter Minia born 1906 son Abram born 1904 Spouse : Rywka Spouse Surname : GERSZBERG,
+View Image,GERSZBERG,Rywka,1907,M,8,,,,,F,31,,20/02/1907,,,,,,,,,,,,,,,Lejzor,,Mejta,,,,,,,,,,,Children born before marriage: daughter Estera born 1899 daughter Mejta born 1902 daughter Minia born 1906 son Abram born 1904 Spouse : Nachman Spouse Surname : EDELMAN,
+View Image,LIBMAN,Jakow Josif,1908,B,51,,,,,M,,14-Jun-1908,,,,,,,,,,,,,,,,Ajzyk Nutys,,Sura Brajna,GERSZBERG,44,42,Janow,,,,,,,,
+View Image,GERSZBERG,Szprinca,1908,B,115,,,,,F,,10-Oct-1908,,,,,,,,,,,,,,,,Srul Lejb,,Chaja Bejlia,EJBLIUM,37,39,Slawatychi,,,,,,,,
+View Image,GERSZBERG,Jontel,1910,B,67,,,,,M,,15-Apr-1907,,,,,,,,,,,,,,,,,,Chana Brajna,GERSZBERG,,23,,,,Abram Abe,,,Mother not married,,
+View Image,GERSZBERG,Aron Szija,1910,B,101,,,,,M,,17-Jul-1910,,,,,,,,,,,,,,,,Jankiel Wulf,,Basia,ADELMAN,37,30,,,,,,,,,
+View Image,ROZENBAUM,Chil Gersz,1910,D,61,,,,,M,60,,,30/10/1910,,,,,,,,,,,,,,Mordko Boruch,,Frima,GERSZBERG,,,,,,,,,,,
+View Image,LERNER,Berko,1910,M,4,,,,,M,26,,02-Apr-10,,,,,,Lomazy,,,,,,,,,Iosel,,Ita,KLIGSBERG,,,,,,,,,temporarily lives in Biala,Spouse : Sura Spouse Surname : LIBMAN,
+View Image,LIBMAN,Sura,1910,M,4,,,,,F,26,,02-Apr-10,,,,,,,,,,,,,,,Ijermiasz,,Pesia,GERSZBERG,,,,,,,,,,Spouse : Berko Spouse Surname : LERNER,
+View Image,GRINBLIAT,Icko Mejer,1910,M,11,,,,,M,19,,31/03/1910,,,,,,Konstantinow,,,,,,,,,Chaim,,Mnicha,,,,,,,,,,,Spouse : Necha Spouse Surname : GERSZBERG,
+View Image,GERSZBERG,Necha,1910,M,11,,,,,F,18,,31/03/1910,,,,,,,,,,,,,,,Srul Lejb,,Chaja Bejlia,,,,,,,,,,,Permanent Resident of: Slawatyczi Spouse : Icko Mejer Spouse Surname : GRINBLIAT,
+CZYCIŃSKI,Abel,,malarz,Icko - Kielman i Pesia,GERSZBERG,2.V.1857,Biała Podlaska,353,Abel zmarł.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GITER,Berko,,cieśla,Awadja i Cypa,GERSZBERG,1905,,748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WARSZAWCZYK,Szejndla,LIS,,Josel i Chana,GERSZBERG,1906,Terespol,2554,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
