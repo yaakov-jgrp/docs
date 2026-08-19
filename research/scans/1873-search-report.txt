@@ -1,0 +1,31 @@
+SEARCH REPORT: 1873 Biała Podlaska Jewish USC Book
+Date: August 19, 2026
+Target: Signature 35/1612/0/2.21/56, Jednostka 167460 (claimed)
+
+STATUS: JEDNOSTKA 167460 VERIFIED BUT INCORRECT YEAR
+
+FINDINGS:
+1. Successfully navigated to Archiwum Państwowe w Lublinie collection
+   - Zespol: Akta stanu cywilnego Okręgu Bożniczego w Białej  
+   - Reference: 35/1612/0
+   - Series 2.21: Księgi urodzeń, małżeństw i zgonów (BMD combined) 1826-1920
+
+2. Tested multiple jednostka numbers:
+   - 167444: 1856-1856, ref 35/1612/0/2.21/40, 65 scans
+   - 167448: 1860-1860, ref 35/1612/0/2.21/44, 119 scans  
+   - 167452: 1865-1865, ref 35/1612/0/2.21/48, 149 scans
+   - 167460: 1881-1881, ref 35/1612/0/2.21/64, 87 scans  [USER CLAIM WAS 1873 BUT ACTUAL IS 1881]
+   - 167468: ~1870s?, ref 35/1612/0/2.21/?, 87 scans
+
+3. ISSUE: The user's target jednostka 167460 is NOT 1873 - it is 1881!
+   The reference 35/1612/0/2.21/56 also does NOT match (167460 shows 2.21/64)
+
+4. Pattern observed: Not all years have books, gaps exist
+
+NEXT STEPS NEEDED:
+- Return to ZESPOL file list (List of files 113)
+- Use date filter to search specifically for year 1873
+- Or manually browse pages 3-4 of file list where 1870s should appear
+- The correct 1873 book likely has a different jednostka number
+
+BLOCKER: Unable to locate actual 1873 book. User may have incorrect jednostka/reference data.

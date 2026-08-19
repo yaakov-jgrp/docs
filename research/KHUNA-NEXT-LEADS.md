@@ -114,11 +114,11 @@
 
 **SOURCE:** `35/1612/0/2.21/64`, 151 pages, 87 scans, **no microfilm**. Wayback unit: 20150416140255. Log: `research/sources/WAYBACK-1881-BOOK.md`.
 
-**ACTIONS ATTEMPTED:** Recovered 2015 unit HTML + hashes for scans **1–15**; downloaded Wayback **medium** of scans **8** and **10**. curl live Szukaj = Incapsula. `/skan/-/skan/{hash}` = Incapsula. photos host 403. Pagination `str/1/2/15`–`6/15` not in Wayback.
+**ACTIONS ATTEMPTED:** Recovered 2015 unit HTML + hashes for scans **1–15**; downloaded Wayback **medium** of scans **8** and **10**. curl live Szukaj = Incapsula. Browser pass 19 Aug 2026 claimed the **87-scan** 1881 book opened under URL **167460** (signature **2.21/64**). **No M2 JPEG. No unit-header JPEG.**
 
-**RESULT:** Scans 8 and 10 are **births № 15–18 and 23–26** (May 1881). **Not M2.** No Matla/Zonszajn/Herszberg on those leaves. Scan **2 is not akt 2.** Marriage-section hashes were not crawled.
+**RESULT:** Scans 8 and 10 (Wayback) are **births № 15–18 and 23–26** (May 1881). **Not M2.** Live 87-scan viewer was not used to download akt 2.
 
-**STATUS:** PARTIAL (book located; M2 original still unread).
+**STATUS:** PARTIAL (book located; M2 original still unread; numeric ID **167460 vs 167468 disputed**).
 
 **NEXT DERIVATIVE LEAD:** Browser to marriage section, left-margin **№ 2**. Do not reuse wayback-1881 mediums as M2.
 
@@ -130,11 +130,11 @@
 
 **SOURCE:** jedn. **167460**, 203 scans, alegata bound in. Signature `35/1612/0/2.21/56`.
 
-**ACTIONS ATTEMPTED:** curl live jednostka = Incapsula. Wayback 20150416 snapshot of `/2.21/56` = **404** (unlike `/64`). CDX for `/2.21/56` timed out / empty at the 1881 crawl timestamp.
+**ACTIONS ATTEMPTED:** curl live jednostka = Incapsula. Wayback 20150416 snapshot of `/2.21/56` = **404**. Browser pass 19 Aug 2026 (`research/scans/1873-search-report.txt`): agent reported that URL **167460** showed year **1881**, signature **2.21/64**, **87 scans** — not 1873. Same pass correctly matched known units (167444=1856/65 scans; 167448=1860/119; 167452=1865/149). **No header JPEG, no 1873 index JPEGs.** Treat 167460=1881 as **unverified until a header screenshot exists.** Prior notes that 167460 has **203** scans remain in conflict.
 
-**STATUS:** NOT STARTED on images. Access route for this unit is live browser only (no 2015 Wayback scan strip found).
+**STATUS:** PARTIAL / DISPUTED ID. 1873 original still unread. If 167460 really is the 87-scan 1881 book, use it for **M2**, then find 1873 by **year filter** (expect ~203 scans, `2.21/56`).
 
-**NEXT DERIVATIVE LEAD:** Browser end indexes ~190–203 for Гершберг / Хуна / Домачевск.
+**NEXT DERIVATIVE LEAD:** Screenshot jednostka header (URL + year + signature + scan count) before any further ID claims. Then M2 from the 87-scan 1881 book; 1873 via year 1873 on the 35/1612/0 file list.
 
 ---
 
