@@ -122,8 +122,6 @@
 
 **NEXT DERIVATIVE LEAD:** Add Matla to the Dan × Ester child list. Still need an act that names **Khuna** as their son. Do not treat this marriage as Khuna’s parentage.
 
-**NEXT DERIVATIVE LEAD:** Browser to marriage section, left-margin **№ 2**. Do not reuse wayback-1881 mediums as M2.
-
 ---
 
 ### LEAD — 1873 alegata / marriages in 167460
