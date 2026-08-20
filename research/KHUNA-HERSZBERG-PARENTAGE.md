@@ -778,6 +778,20 @@ Did **not** reopen M27 / D9 / B33 / D16 / M21 / D32 / D26 / B101.
 
 Parentage unchanged: father **UNKNOWN**, mother **UNKNOWN**.
 
+### B37. 1881 M2 READ — Matla is Dan × Estera, not Khuna’s sister-proof
+
+Jedn. working ID **167468**, scan **40**, folio **62**, left-margin **№ 2**. Log: `research/sources/1881-M2-READING.md`.
+
+| Field | Locked |
+|---|---|
+| Groom | **Chaim Dawid Zonszajn**, bachelor, son of **Abram × Chana Zonszajn** |
+| Bride | **Matla Gerszberg**, 18, of Biała |
+| Bride’s parents | **Dan × Estera Herszberg** |
+| Khuna named? | **No** |
+
+Adds Matla to the Dan × Ester child list. **Does not identify Khuna’s parents.**
+
+
 
 
 ---
@@ -836,6 +850,8 @@ Parentage unchanged: father **UNKNOWN**, mother **UNKNOWN**.
 44. JRI Biała HERSZBERG dump, deaths 1848–1864: no adult Zysza. `research/sources/jri-herszberg-biala.csv`.
 45. Teatr NN, Lublin 1892 M31 = CYNBERG Jankiel × NAJ Estera (not Herszberg). https://teatrnn.pl/zrodla/zrodlo/ksiega-malzenstw-1891-1894-m-31-1892-r/
 46. Cluster table `research/sources/herszberg-network.csv`.
+47. 1881 M2 palaeography (Matla d/o Dan × Estera; Khuna not named). `research/sources/1881-M2-READING.md`. Files: `research/scans/1881-m2-TRUE-full.jpg` (jedn. **167468**, scan **40**).
+
 
 
 ---
@@ -891,9 +907,10 @@ Dan × Ester Herszberg  (both living 22 July 1862 on M21; both named on 1862 M16
         ├── **Lejzor**, m. 22 July 1862 M21 × Mejle Ejdelman  (parents Dan × Ester on the act)
         ├── **Sura**, panna on **1862 M16** × Berek Adelman of Parczew (parents **Dan × Ester**)
         ├── Tjzla, b. 1847; Tyla m. 1865; Meita m. 1872 age 16
-        └── Chana, b. 1854 B12 (d. 6m)
+        ├── Chana, b. 1854 B12 (d. 6m)
+        └── **Matla**, 18 in **1881 M2** × Chaim Dawid Zonszajn — parents **Dan × Estera** on the act (b. ~1863)
         1852 B9 Jojna Szulim is a Herszberg birth on scan 6; **not proven** as their child.
-        Khuna (~1853) is **not** a registered child in 1852–54. Unproved sibling.
+        Khuna (~1853) is **not** a registered child in 1852–54 and is **not named** on 1881 M2. Unproved sibling.
         **1865 D32** may be this **Dan** (candidate only: given **Dan/Dana**, age **eighties**, **no** children named). Not proof Khuna is his son.
 
 Lejzor Herszberg  ×  Mejle / Mejta / Mojka Edelman (her father Judka Lejb d.; mother Dyna)
@@ -926,7 +943,7 @@ Abram Abe Herszberg  ×  Chaja Sura Wajsbrot
 | ID | Hypothesis | Status after this round |
 |---|---|---|
 | **H1** | Khuna is son of Abram Herszberg + Chana Tauba | **Rejected.** 1860 D16 survivors are wife Chana Tauba and daughters Fejga 32 and Cyrla 26. No Khuna (would have been ~7). A minor son of that age would be listed; he is not. |
-| **H2** | Khuna is brother of Lejzor Herszberg (1862 M21) / son of Dan × Ester | **Open, still unproved.** Documented sibship: Zelko, Basia Bejla, Lejzor, Sura, Tyla, Meita, Chana. **Pesza M27 is not this household** (she is Zysia × Jochwet). No act names Khuna as Dan’s child. 1865 D32 is a candidate death of elderly Dan (no survivors) — not proof. |
+| **H2** | Khuna is brother of Lejzor Herszberg (1862 M21) / son of Dan × Ester | **Open, still unproved.** Documented sibship now includes **Matla (1881 M2)**: Zelko, Basia Bejla, Lejzor, Sura, Tyla, Meita, Chana, Matla. **Pesza M27 is not this household.** No act names Khuna as Dan’s child. 1865 D32 is a candidate death of elderly Dan (no survivors) — not proof. |
 | **H3** | Liba Enta's maiden name is WAJNTAL (indexed WAJNTLOW; page **изъ Вайнталовъ**) | **Strong.** 1872 D26 parents Jankiel Hersz × Dwejra + **1856 D9**: Jankiel Wajntal × Dwora left **Liba (Jenta) age 4**. Grandparents **Josel × Fraindla**. This identifies **Liba’s** father, **not** Khuna’s. |
 | **H4** | Liba Enta belongs to a Wajntraub/Wajntrob family | **Weaker.** Local Wajntraubs exist; they do not match Jankel Hersz × Dwejra. |
 | **H9** | Khuna is Szmul Herszberg × Szejndla Kligsberg (Sura b. 1865) | **Unproved.** Do not equate Szmul with Khuna. |
@@ -987,12 +1004,12 @@ JRI-Poland Biała Herszberg/Gerszberg, nationwide Khuna+Herszberg, JRI census/Ho
 3. **1865 D32** — **locked subset done** (Dan/Dana, eighties, no Khuna, no survivors clause). Parents still unpublished. Re-open only from a **sharper plate**, not from the contaminated tiles. Log: `research/sources/1865-D32-READING.md`.
 4. **1865 M27** — **DONE.** Pesza = Zysia × Jochwet. Do not reopen `VERIFIED-*` / `PESZA-*` / scan 96.
 4a. **1856 D9 / B33** — **DONE** (167444). Do not reuse Freydla or Gampel leaves.
-4b. **1881 M2** Matla — still unread. `/2.21/64`, likely **167468**, margin **2**.
+4b. **1881 M2** — **DONE.** Matla = Dan × Estera. Do not reopen as unread. Log: `1881-M2-READING.md`.
 5. **1873 yearly book** `/2.21/56` jednostka **167460** (203 scans) — marriages **and bound-in alegata**. Possible Khuna × Fejga packet.
 6. **1831 B30** from scan **10** of 167487 only. Do **not** use scan 13.
 7. Genealogy Indexer retry when the engine is up (1929 KAP Biała page); JOWBR Woodbridge plot if a login is available — low chance of a patronymic. Arolsen name search needs a browser, not curl.
 7a. **1856 B33 Josel HIRSZBERG** and **1860 B48 Chaja Ruchla HIRSZBERG** originals — sibling test only.
 7b. **Sławatycze 1854 B13** Feyga Hinda DOMACZEWSKA (page **165**; film **753441** / fonds **`35/1772/0/1/1`**) — **Fejga’s** parents, not Khuna’s. Numeric jednostka ID still unknown.
-8. **Do not** re-open 1860 D16, 1862 M21, **1862 M16**, 1872 D26, 1852 B1/B9, 1890 B101, **1865 M27**, or **1856 D9/B33** as unread. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom. Do not treat Chuna Warszawski as Herszberg. Do not publish 1865 D32 parents. Do not treat D32 as proof that Khuna is Dan’s son. Do not treat Zysia × Jochwet or Jankiel Wajntal × Dwora as Khuna’s parents. Do not promise 1874+ fond 175 Bialski name lists. Do not use `1865-claimed-d32-*` / `1865-d32-REAL-full.jpg` as D32. Do not use `1865-m27-VERIFIED-*` or `1865-m27-PESZA-*` as Pesza × Litman.
+8. **Do not** re-open 1860 D16, 1862 M21, **1862 M16**, 1872 D26, 1852 B1/B9, 1890 B101, **1865 M27**, **1856 D9/B33**, or **1881 M2** as unread. Do not merge Dan × Ester with Dawid Leyzor × Ita. Do not treat 1847 Leyzor as the 1862 groom. Do not treat Chuna Warszawski as Herszberg. Do not publish 1865 D32 parents. Do not treat D32 as proof that Khuna is Dan’s son. Do not treat Zysia × Jochwet, Jankiel Wajntal × Dwora, or **Dan × Estera of 1881 M2** as Khuna’s parents without an act naming him. Do not promise 1874+ fond 175 Bialski name lists. Do not use `1865-claimed-d32-*` / `1865-d32-REAL-full.jpg` as D32. Do not use `1865-m27-VERIFIED-*` or `1865-m27-PESZA-*` as Pesza × Litman.
 
-The parentage question is unsolved because **every Khuna-as-adult source found so far omits his father** (1872 D26; 1890 B101; children’s cards; son Simon’s German file; conscription indexes). A registered Biała Herszberg birth in **1852–54 is ruled out**. He is **not** in JRI Biała Herszberg/Gerszberg **deaths 1878–1915**. **1862 M16** puts Sura in the Dan × Ester sibship; Khuna is still not on that list. **1865 D32** names an elderly **Dan/Dana Herszberg** and **does not name Khuna**. **1865 M27** puts Pesza with **Zysia × Jochwet**. **1856 D9** identifies **Liba Enta’s** father as **Jankiel Wajntal**. Remaining tests: **residents/notary/hipoteka** (Radzyń — `RADZYN-ARCHIVE-REQUEST.md`), **1873 alegata in 167460**, **1881 M2**, Fejga’s **1854 B13**. Do not expect a 1874–80 Bialski name list inside `35/175/0`.
+The parentage question is unsolved because **every Khuna-as-adult source found so far omits his father** (1872 D26; 1890 B101; children’s cards; son Simon’s German file; conscription indexes). A registered Biała Herszberg birth in **1852–54 is ruled out**. He is **not** in JRI Biała Herszberg/Gerszberg **deaths 1878–1915**. **1862 M16** and **1881 M2** put Sura and Matla in the Dan × Ester sibship; Khuna is still not on that list. **1865 D32** names an elderly **Dan/Dana Herszberg** and **does not name Khuna**. **1865 M27** puts Pesza with **Zysia × Jochwet**. **1856 D9** identifies **Liba Enta’s** father as **Jankiel Wajntal**. Remaining tests: **residents/notary/hipoteka** (Radzyń — `RADZYN-ARCHIVE-REQUEST.md`), **1873 alegata**, Fejga’s **1854 B13**. Do not expect a 1874–80 Bialski name list inside `35/175/0`.

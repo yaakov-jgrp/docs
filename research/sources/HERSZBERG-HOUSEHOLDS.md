@@ -16,7 +16,7 @@ Only rows backed by an original or a previously read act. Khuna is **not** in an
 | Khuna Herszberg | father on B101 | 1890 | ~36 | ~1854 | **unknown** | **unknown** | Fejga Domaczewska | illiterate | 167478 scan 29 |
 | Lejzor Herszberg | M21 | 1862 | — | — | **Dan / Dana** | **Ester** (living) | Mejle Ejdelman | — | 167450 scan 84 |
 | Sura Herszberg | M16 | 1862 | — | — | **Dan / Dana** | **Estera** (living) | Berek Adelman | — | 167450 scan 79 |
-| Tyla Herszberg | M8 | 1865 | 17 | ~1848 | Dane | Ester | Wolf Korman | — | JRI (not re-opened) |
+| Matla Herszberg | M2 | 1881 | 18 | ~1863 | **Dan** | **Estera** | Chaim Dawid Zonszajn | — | 167468 scan 40; 1881-M2-READING |
 | Chana Herszberg | B12 | 1854 | — | 1854 | Dan | Ester | — | — | JRI |
 | Dan/Dana Herszberg | D32 | 1865 | 80s | ~1780s | unpublished | unpublished | no survivors clause | z handlu | 167452 scan 118 |
 | Abram Herszberg | D16 | 1860 | — | — | — | — | Chana Tauba (surv.) | — | 167448 scan 95; **no Khuna** |
@@ -25,4 +25,4 @@ Only rows backed by an original or a previously read act. Khuna is **not** in an
 | Josel Hirszberg | B33 | 1856 | inf. | 1856 | Hirszberg **22** (given unpublished) | Chana-class Jakubowicz **22** | — | — | 167444 scan 20 |
 | Jankiel s. Dawid Leyzor | B1 | 1852 | inf. | 1852 | Dawid Leyzor | unpublished | — | father tanner | 167439 scan 4 |
 
-**Clusters:** (1) Zysza × Jochwet — Pesza, Leyzor, no Khuna. (2) Dan × Ester — Lejzor/Sura/Tyla/Chana/Meita/Zelko, no Khuna. (3) Abram × Chana Tauba — Fejga, Cyrla, **Khuna absent on D16**. (4) Dawid Leyzor × Ita — Jankiel 1852 etc. (5) Wajntal Josel × Fraindla → Jankiel × Dwora → Liba Jenta/Enta **wife of Khuna**. (6) 1856 B33 young Hirszberg couple — collateral, not Khuna’s parents.
+**Clusters:** (1) Zysza × Jochwet — Pesza, Leyzor, no Khuna. (2) Dan × Ester — Lejzor, Sura, Tyla, Chana, Meita, Zelko, **Matla (1881 M2)**, no Khuna. (3) Abram × Chana Tauba — Fejga, Cyrla, **Khuna absent on D16**. (4) Dawid Leyzor × Ita — Jankiel 1852 etc. (5) Wajntal Josel × Fraindla → Jankiel × Dwora → Liba Jenta/Enta **wife of Khuna**. (6) 1856 B33 young Hirszberg couple — collateral, not Khuna’s parents.

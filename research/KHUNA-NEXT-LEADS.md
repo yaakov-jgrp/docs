@@ -114,11 +114,13 @@
 
 **SOURCE:** `35/1612/0/2.21/64`, 151 pages, 87 scans, **no microfilm**. Wayback unit: 20150416140255. Log: `research/sources/WAYBACK-1881-BOOK.md`.
 
-**ACTIONS ATTEMPTED:** Recovered 2015 unit HTML + hashes for scans **1–15**; downloaded Wayback **medium** of scans **8** and **10**. curl live Szukaj = Incapsula. Browser pass 19 Aug 2026 claimed the **87-scan** 1881 book opened under URL **167460** (signature **2.21/64**). **No M2 JPEG. No unit-header JPEG.**
+**ACTIONS ATTEMPTED:** Wayback scans 8/10 = births not M2. Browser 19–20 Aug 2026 downloaded jedn. working ID **167468**, scan **40**, folio **62**, left-margin **№ 2**. Palaeography: `research/sources/1881-M2-READING.md`. Files: `1881-m2-TRUE-full.jpg` (and margin/parents crops).
 
-**RESULT:** Scans 8 and 10 (Wayback) are **births № 15–18 and 23–26** (May 1881). **Not M2.** Live 87-scan viewer was not used to download akt 2.
+**RESULT:** **Chaim Dawid Zonszajn** (bachelor, son of **Abram × Chana Zonszajn**) × **Matla Gerszberg, 18**, daughter of **Dan × Estera Herszberg**. **Khuna not named.**
 
-**STATUS:** PARTIAL (book located; M2 original still unread; numeric ID **167460 vs 167468 disputed**).
+**STATUS:** SOLVED as a sibling test (Matla = Dan × Ester household). NEGATIVE for Khuna’s parents.
+
+**NEXT DERIVATIVE LEAD:** Add Matla to the Dan × Ester child list. Still need an act that names **Khuna** as their son. Do not treat this marriage as Khuna’s parentage.
 
 **NEXT DERIVATIVE LEAD:** Browser to marriage section, left-margin **№ 2**. Do not reuse wayback-1881 mediums as M2.
 
@@ -250,11 +252,11 @@
 
 | Newly solved / advanced | Still unread original |
 |---|---|
-| 1865 **M27** Pesza = **Zysia × Jochwet** | 1881 **M2** Matla (book located; marriage leaf not archived) |
-| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | 1873 **167460** indexes/alegata (no Wayback strip) |
-| 1856 **B33** Josel Hirszberg, parents ages 22 | Sławatycze **1854 B13** (FS+Szukaj Incapsula) |
-| 167444 **is** 1856 (`/2.21/40`) | 1860 B48 **parents** (surname not locked) |
-| 1881 book hashes 1–15; scans 8/10 = births not M2 | `38/20/0` 1895 residents; hipoteka; 27 notaries |
-| Zysza death **not** in JRI 1848–64 given names | 1849 D36 Szmul (optional) |
-| “57 years old” snippet = Estera Perel ~1885 | Jankiel × Zak marriage (not in 1885–93 tables) |
+| 1865 **M27** Pesza = **Zysia × Jochwet** | 1873 indexes/alegata (167460 ID disputed) |
+| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **1854 B13** (FS+Szukaj Incapsula) |
+| 1856 **B33** Josel Hirszberg, parents ages 22 | 1860 B48 **parents** (surname not locked) |
+| 167444 **is** 1856 (`/2.21/40`) | `38/20/0` 1895 residents; hipoteka; 27 notaries |
+| **1881 M2** Matla = **Dan × Estera** | 1849 D36 Szmul (optional) |
+| Zysza death **not** in JRI 1848–64 given names | Jankiel × Zak marriage (not in 1885–93 tables) |
+| “57 years old” snippet = Estera Perel ~1885 | |
 | Network table: `research/sources/herszberg-network.csv` | |
