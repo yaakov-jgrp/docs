@@ -29,14 +29,19 @@ Births occupy scans ~4–87 (scan 20 = B31–34; scan 50 = B91–94). Marriages 
 | Scan | Akt | Margin | File |
 |---|---|---|---|
 | 88 | M1 | Icek Zalcki | `1873-scan088.jpg` |
+| 90 | M3 | Gersh Pejsakh **Gandberg** (not Herszberg) | `1873-scan090.jpg` |
 | 92 | M5 | Moshko Mordko Goldreich | `1873-scan092.jpg` |
+| 94 | M7 | Yudko Leib Vainshtein | `1873-scan094.jpg` |
 | 96 | M9 | Berek Morgensztern × Taba-Marya Mazes | `1873-scan096.jpg` |
+| 98 | M11 | Vulf Wacerman | `1873-scan098.jpg` |
 | 100 | M13 | Gerszko Auerbach × Sura Blima Jakubowicz, 20 Jul 1873 | `1873-struct-scan100.jpg` |
+| 102 | M15 | Froim Privak | `1873-scan102.jpg` |
 | 104 | M17 | Shlema Adesman | `1873-scan104.jpg` |
+| 106 | M19 | Abram (Gersh/Ber) Polyakevich- or Golkevich-class — **not Herszberg** | `1873-scan106.jpg` |
 | 107 | M20 | Moshko Czarny | `1873-scan107.jpg` |
 | 108 | M21 | Pinkes | `1873-scan108.jpg` |
 | 112 | D3+ | deaths | `1873-scan112.jpg` |
 
-**No Herszberg / Khuna / Domaczew** on those margins. Missing M2–4, 6–8, 10–12, 14–16, 18–19.
+**No Herszberg / Khuna / Domaczew** on those margins. A signature-crop pass that proposed “Icek Herszberg” / Hebrew “Khuna” is **rejected** (overlay; not locked on a second crop). Still unread: even-numbered marriages **M2, 4, 6, 8, 10, 12, 14, 16, 18** (odd-numbered scans 89–105).
 
 Khuna’s parents: **still unnamed**.

@@ -135,15 +135,20 @@
 | Scan | Akt | Margin name | Herszberg/Khuna/Domaczew? |
 |---|---|---|---|
 | 88 | **M1** | Icek Zalcki | no |
+| 90 | **M3** | Gersh Pejsakh Gandberg | no |
 | 92 | **M5** | Moshko Mordko Goldreich | no |
+| 94 | **M7** | Yudko Leib Vainshtein | no |
 | 96 | **M9** | Berek Morgensztern | no |
+| 98 | **M11** | Vulf Wacerman | no |
 | 100 | **M13** | Gerszko Auerbach × Sura Blima Jakubowicz, 20 Jul 1873 | no |
+| 102 | **M15** | Froim Privak | no |
 | 104 | **M17** | Shlema Adesman | no |
+| 106 | **M19** | Abram (Gersh/Ber) Polyakevich/Golkevich-class | no |
 | 107 | **M20** | Moshko Czarny | no |
 | 108 | **M21** | Pinkes | no |
 | 112 | deaths **D3+** | Rosenblum / Weinberg-class; not marriages | — |
 
-**Still unread:** M2–4, 6–8, 10–12, 14–16, 18–19 (even scans 90, 94, 98, 102, 106, 110 not yet downloaded). JRI already has **no** Khuna × Fejga in Biała 1873–1885.
+**Still unread:** even-numbered marriages **M2, 4, 6, 8, 10, 12, 14, 16, 18** (odd scans 89–105). JRI already has **no** Khuna × Fejga in Biała 1873–1885.
 
 **RESULT:** Book identity **settled**. Sampled 1873 marriages are **not** Khuna × Fejga. **Khuna not named as anyone’s son.**
 
