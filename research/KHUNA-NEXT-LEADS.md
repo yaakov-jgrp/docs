@@ -112,7 +112,11 @@
 
 **STATUS:** NEGATIVE for Khuna × Liba in **1868, 1869, 1870, and 1871** Biała marriage indexes.
 
-**NEXT DERIVATIVE LEAD:** marriage **outside** Biała in that window, or 1872 Biała marriages (too late for Jankiel’s conception unless delayed). Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral). Do not resend the APL letter.
+**RESULT (1872 marriage index — PARTIAL):** Browser walk [Find 1872 marriage alphabet](bc-b8d685ca-2022-5042-81bc-06997a41e5cb) on jedn. **167459**: birth alphabet ~**073–076**, marriage acts ~**062–112**, deaths from ~**113** (D26 locked), death alphabet **137–139**. **No dedicated marriage alphabet** seen before deaths — **headers not re-verified by parent agent**. Log: `research/sources/1872-MARRIAGE-INDEX.md`.
+
+**STATUS:** **OPEN** for 1872 marriage alphabet (may be absent or mis-labelled). Not yet a negative for Khuna × Liba in 1872.
+
+**NEXT DERIVATIVE LEAD:** Header-read scans **060–112** on **167459**; then marriage **outside** Biała 1868–1872. Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral) — **BLOCKED** (viewer kept loading 167459). Reports: `research/scans/MISSION-A-REPORT-2026-09-03.txt`, `MISSION-C-REPORT-2026-09-03.txt`. Do not resend the APL letter.
 
 **1871 D11 (scan 149):** female **Хиша Хершбергъ**, February 1871. **Not** our Khuna. Parents of Khuna still unnamed. Log: `research/sources/1871-D11-READING.md`.
 
@@ -186,7 +190,7 @@ Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **n
 
 **ACTIONS ATTEMPTED:** 2015 fonds list confirms signature. Unit page `/1/1` **not** in the 20150416 or 20151119 snapshots (404). FamilySearch catalog **272307** = Incapsula 403 / sign-in wall. Live Szukaj Incapsula. Browser pass 19 Aug 2026: search hit for `35/1772/0/1/1` (100 scans) **exists**; a “119 scans” viewer is the **wrong book**. JRI 3 Sep 2026: exact HERSZBERG/GERSZBERG marriages with town phonetic Sławatycze are **not** Khuna × Fejga (Chaim Szepsel 1869 M12 of Sławatycze registered in **Biała**, parents Jankel × Malka; Sławatycze PSA **1892 M1** Jankel GERSZBERG × Chana Feldman, parents blank; **1899 M7** Chaia Bejla × Szyia Waserman; 1910 Necha d/o Srul Lejb, Biała book). Exact DOMACZEWSKA Siedlce marriages: 1856/1860 Sławatycze and 1890 Włodawa — **none Herszberg**. Sławatycze PSA marriage coverage **gaps 1873–1879 and 1883–1890** — exactly the Khuna × Fejga window; those years may still sit in original `1/3` (through 1876) and later yearly books.
 
-**STATUS:** BLOCKED for B13 original (Szukaj 100-scan `/1/1` still not opened; FS **sign-in wall**). Index-level **negative** for an indexed Khuna × Fejga in Sławatycze.
+**STATUS:** BLOCKED for B13 original (Szukaj 100-scan `/1/1` still not opened; FS **sign-in wall**). Subagent [Open Sławatycze 1854 B13](bc-fd8ef87e-6326-582d-8193-950ab3980399) **3 Sep 2026:** numeric jednostka ID for `35/1772/0/1/1` still **unknown**; Szukaj signature search returned no unit page. Report: `research/scans/MISSION-A-REPORT-2026-09-03.txt`. Index-level **negative** for an indexed Khuna × Fejga in Sławatycze.
 
 **NEXT DERIVATIVE LEAD:** Re-open **only** a 100-scan unit whose address bar contains `/jednostka/-/jednostka/NNNNNN` for `35/1772/0/1/1`. Then 1854 section, left-margin **№ 13**. Separately walk `35/1772/0/1/3` (86 scans) for 1873–1876 left-margin Гершберг / Хуна / Домачев.
 
