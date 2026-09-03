@@ -102,9 +102,9 @@
 
 **RESULT:** 1871 **marriage** index is scans **141–143** (headers *Бракосочетавшихся*), not the end of the book. Log: `research/sources/1871-MARRIAGE-INDEX.md`. **В:** no Wajntal. **Г:** Gold* names, plus row 15 **Гершбергъ/Герцбергъ Яковъ** akt **36** (bride unpublished; **not Khuna**). **Х:** no block (Ф jumps to Ш). 1870–71 **end** pages remain the death alphabet (`1870-1871-END-INDEXES.md`).
 
-**STATUS:** NEGATIVE for Khuna × Liba in the **1871 Biała marriage index**. 1870 marriage index still unread.
+**STATUS:** NEGATIVE for Khuna × Liba in the **1871 Biała marriage index**. 1870 **birth** index now read on scans **40–42** (*Уродившихся*) — **no** Гершбергъ infant. 1870 **marriage** index still unread (marriages start scan **43**; 40–42 were mislabelled as that alphabet). Log: `research/sources/1870-BIRTH-INDEX-AND-M1.md`.
 
-**NEXT DERIVATIVE LEAD:** 1870 marriage index (before that year’s D1). Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral only). 1871 death **akt 11** is **not** on scans 152–153 (those are ~D17–19). Deaths: scan **144** = D1 Tenenbaum / D2 Eichelbaum; **145** = D3 Morgenshtern / **D4 Хуне Лейзорович Кацман** (age ~50 — **not** our Khuna). D11 should sit ~scans **148–149** (still unread).
+**NEXT DERIVATIVE LEAD:** 1870 marriage alphabet **after** the last 1870 marriage and **before** D1 (deaths already at 114–115). Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral only). 1871 death **akt 11** is **not** on scans 152–153 (those are ~D17–19). Deaths: scan **144** = D1 Tenenbaum / D2 Eichelbaum; **145** = D3 Morgenshtern / **D4 Хуне Лейзорович Кацман** (age ~50 — **not** our Khuna). D11 should sit ~scans **148–149** (still unread).
 
 ---
 
@@ -302,7 +302,8 @@ Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **n
 | 167444 **is** 1856 (`/2.21/40`) | 1871 death **akt 11** (~scans 148–149; 152–153 are not D11) |
 | **1881 M2** Matla = **Dan × Estera** | 1871 marriage **akt 36** (Yakov Herszberg, collateral) |
 | **167460 IS 1873**; **all 22** marriage margins **no** Herszberg | 1875 (`167462`) marriage walk |
-| **1871 marriage index 141–143**: no Khuna × Liba | Jankiel × Zak marriage (not in 1885–93 tables) |
+| **1871 marriage index 141–143**: no Khuna × Liba | 1870 **marriage** index (after last marriage, before D1) |
+| **1870 birth index 40–42**: no Гершбергъ infant | 1871 death **akt 11** (~scans 148–149) |
 | **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | `38/20/0` / hipoteka — **letter SENT** 3 Sep 2026 |
 | 1870–71 end pages = **death** indexes; Г **no** Гершбергъ | |
 | Zysza death **not** in JRI 1848–64 given names | |

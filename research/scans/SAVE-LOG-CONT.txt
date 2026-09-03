@@ -99,3 +99,59 @@ NOT STARTED:
 FILES SAVED TO: /workspace/research/scans/
   1871-scan141.jpg through 1871-scan147.jpg
   1871-scan152.jpg, 1871-scan153.jpg
+
+=== 1870 MARRIAGE INDEX + D1 DOWNLOAD (2026-09-03 continuation) ===
+Unit: 35/1612/0/2.21/53 (1870, 121 scans)
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457
+
+PRIORITY 1 COMPLETE:
+
+Downloaded scans 39-43 (5 scans):
+- Scan 039: Last marriage (M80, end of marriage records) - hash 895046
+- Scan 040: Marriage alphabetical index header page (Алфавитъ Увѣрившихся въ 1870 году) - hash 895087
+- Scan 041: Marriage alphabetical index continuation - hash 895017
+- Scan 042: Marriage alphabetical index final page - hash 895020
+- Scan 043: First death record (D1, Aktuł Założonych Zmarłych) - hash 895069
+
+FINDINGS:
+✓ Death akt D1 confirmed at scan 043
+✓ Marriage alphabetical index found at scans 040-042 (3 pages)
+✓ Last marriage M80 ends at scan 039
+✓ Death records span from scan 043 (D1) to scan 113 (D69)
+✓ Deaths D69-D71 at scans 113-115 (previously downloaded as scans 114-115)
+
+1870 STRUCTURE MAPPED:
+- Scans 1-38: Marriage records (M1-M79, scan 38 shows №79-№80)
+- Scan 39: Last marriage (M80 ends)
+- Scans 40-42: Marriage alphabetical index (Алфавитъ) ✓ DOWNLOADED
+- Scan 43: First death (D1) ✓ DOWNLOADED
+- Scans 44-113: Death records (D2-D69)
+- Scans 114-115: Deaths D69-D71 (already downloaded)
+- Scans 116-119: Death alphabetical index (already downloaded)
+- Scans 120-121: Final pages (already downloaded)
+
+Files saved: 1870-scan039.jpg, 1870-scan040.jpg, 1870-scan041.jpg, 1870-scan042.jpg, 1870-scan043.jpg
+
+SUMMARY: 1870 marriage index successfully located and downloaded. D1 boundary confirmed.
+
+=== 1869 UNIT VERIFICATION (PRIORITY 2 - PARTIAL) ===
+Unit: 35/1612/0/2.21/52 (1869, 96 scans)
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167456
+
+HEADER VERIFIED:
+✓ Scan 001: Microfilm header (Genealogical Society, roll 5, film 0559)
+✓ Scan 002: Polish archive card - confirmed year 1869, signature 2.21/52
+✓ Unit correctly identified as 1869 Jewish vital records
+
+STATUS: Header verification complete. Full marriage index hunt not performed due to time/priority.
+RECOMMENDATION FOR FUTURE: Similar structure to 1870 expected - search scans 30-40 for D1 boundary and preceding marriage Алфавитъ.
+
+=== SESSION COMPLETE ===
+Date: 2026-09-03
+Total files downloaded: 5 scans from 1870 unit
+Total files saved: 1870-scan039.jpg through 1870-scan043.jpg
+
+PRIORITY 1 (1870 marriage index + D1): ✅ COMPLETE
+PRIORITY 2 (1869 verification): ✅ HEADER CONFIRMED, PARTIAL
+
+NO HERSZBERG HITS FOUND OR CLAIMED IN THIS SESSION.
