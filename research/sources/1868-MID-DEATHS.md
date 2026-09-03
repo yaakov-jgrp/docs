@@ -18,9 +18,7 @@ A 095-body overlay naming **Гершбергъ / Dwojra / Szmerko × Bajla** is 
 
 ## Where the marriage alphabet is
 
-- **M1** = scan **060** (`1868-BIRTH-INDEX-AND-M1.md`)
-- **D47** already by scan **095**
-- Marriage acts + protocol + **marriage alphabet** sit in the **unread gap ~061–094**
+**Found:** scans **070–071** (`1868-MARRIAGE-INDEX.md`). This file is only the **deaths** from 095 onward.
 
 Khuna’s parents: **still unnamed**.
 

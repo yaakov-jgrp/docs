@@ -108,7 +108,11 @@
 
 **STATUS:** NEGATIVE for Khuna × Liba in **1869**, **1870**, and **1871** Biała marriage indexes.
 
-**NEXT DERIVATIVE LEAD:** **1868** marriage alphabet is in the **gap scans 061–094** (M1 = 060; **D47 already at scan 095**). Log: `research/sources/1868-MID-DEATHS.md`. Do not treat 095–110 as marriages. Optional: 1871 marriage **akt 36**.
+**RESULT (1868):** marriage protocol **070** + alphabet **071** (*Алфавитъ Бракосочетавшихся въ 1868 г.*). **Nine** acts. Г: **Гельтманъ Вольфъ** only — **no Гершбергъ**, no Хуна. Log: `research/sources/1868-MARRIAGE-INDEX.md`.
+
+**STATUS:** NEGATIVE for Khuna × Liba in **1868, 1869, 1870, and 1871** Biała marriage indexes.
+
+**NEXT DERIVATIVE LEAD:** marriage **outside** Biała in that window, or 1872 Biała marriages (too late for Jankiel’s conception unless delayed). Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral). Do not resend the APL letter.
 
 **1871 D11 (scan 149):** female **Хиша Хершбергъ**, February 1871. **Not** our Khuna. Parents of Khuna still unnamed. Log: `research/sources/1871-D11-READING.md`.
 
