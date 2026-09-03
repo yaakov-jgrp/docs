@@ -100,11 +100,11 @@
 
 **SOURCE:** JRI Biała marriages 1858–1875 none; 1869–1871 birth-index Г negative; 1872 Г incomplete.
 
-**RESULT:** Unchanged. Do not rerun those indexes.
+**RESULT:** 1870 jedn. **167457** scans 114–121 and 1871 jedn. **167458** scans 165–174 are now saved. They are the **death** section + **death** alphabet (1870 scan 116 header: *Алфавитъ Актовъ Смерти*). **No Гершбергъ** in 1870 Г or 1871 Г. A 1871 Х-row is **Хершбергъ/Херцбергъ** akt **11**, sheet **81**; given name **Хима/Хиша**, not locked as Хуна — **not** our living Khuna (1872 D26). Log: `research/sources/1870-1871-END-INDEXES.md`.
 
-**STATUS:** NEGATIVE at index level (Biała). BLOCKED-OFFLINE for neighboring-town originals not yet opened year-by-year.
+**STATUS:** NEGATIVE for Khuna × Liba at the **end-of-book** pages. Marriage-index G/H still unread (not bound at the end, same as 1872).
 
-**NEXT DERIVATIVE LEAD:** 1872 marriage index is **not** at scans 137–141 (those are the **death** index + end-matter; Г already has Liba Enta D26). Find the marriage index **before** the death section. Visual G/H of 1868–1871 still unread (1871 header verified: **167458**, 174 scans).
+**NEXT DERIVATIVE LEAD:** Find the **marriage** index *before* the death section (1871 ~after marriages; 1870 same). Optional: 1871 death **akt 11** (sheet ~81) to identify the Хершбергъ/Херцбергъ row. Do not treat that akt as Khuna’s death without the original.
 
 ---
 
@@ -154,7 +154,7 @@
 
 **STATUS:** PARTIAL — ID done; G/H index missing; marriage-act walk **sampled, not complete**.
 
-**NEXT DERIVATIVE LEAD:** Download remaining even scans 90–110 and read only left-margin surnames. Then 1875 (`167462`).
+**NEXT DERIVATIVE LEAD:** Download remaining **odd** scans **89, 91, 93, 95, 97, 99, 101, 103, 105, 109** (even-numbered marriages M2–22). Then 1875 (`167462`).
 
 ---
 
@@ -289,11 +289,11 @@
 | 1865 **M27** Pesza = **Zysia × Jochwet** | 1873 marriage **M2–4, 6–8, 10–12, 14–16, 18–19** |
 | 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **1854 B13** (100-scan `/1/1`; FS **sign-in wall**) |
 | 1856 **B33** Josel Hirszberg, parents ages 22 | Sławatycze **`1/3` marriages 1854–1876** (86 scans; JRI gap 1873–76) |
-| 167444 **is** 1856 (`/2.21/40`) | 1868–1871 marriage indexes (1871 header = **167458**) |
-| **1881 M2** Matla = **Dan × Estera** | 1849 D36 Szmul (optional) |
-| **167460 IS 1873** (`/2.21/56`, 203 scans) | Jankiel × Zak marriage (not in 1885–93 tables) |
-| 1873 sampled M1/5/9/13/17/20/21: **no** Herszberg | 1875 (`167462`) marriage walk |
-| **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | `38/20/0` / hipoteka / notaries — **letter SENT** 3 Sep 2026 |
+| 167444 **is** 1856 (`/2.21/40`) | 1873 even-numbered **M2, 4, 6, 8, 10, 12, 14, 16, 18, 22** (odd scans 89–109) |
+| **1881 M2** Matla = **Dan × Estera** | 1868–1871 **marriage** indexes (not at end of 1870/71) |
+| **167460 IS 1873** (`/2.21/56`, 203 scans); **22** marriages | Optional 1871 death **akt 11** (Х-row only) |
+| **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | Jankiel × Zak marriage (not in 1885–93 tables) |
+| 1870–71 end pages = **death** indexes; Г **no** Гершбергъ | `38/20/0` / hipoteka — **letter SENT** 3 Sep 2026 |
 | Zysza death **not** in JRI 1848–64 given names | |
 | “57 years old” snippet = Estera Perel ~1885 | |
 | Network table: `research/sources/herszberg-network.csv` | |

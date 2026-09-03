@@ -1,0 +1,29 @@
+1873 Book - Session Continuation Downloads:
+Scan 090 - 1873-scan090.jpg - hash 896942
+Scan 094 - 1873-scan094.jpg - hash 897112  
+Scan 098 - 1873-scan098.jpg - hash 897094
+Scan 102 - 1873-scan102.jpg - hash 897075
+Scan 106 - 1873-scan106.jpg - hash 896910
+Scan 110 - 1873-scan110.jpg - hash 896920
+
+All required even scans (90, 94, 98, 102, 106, 110) successfully downloaded from 1873 book.
+
+1871 Book - Still in progress (scans 165-174 identified, downloading next)
+165,1871-scan165.jpg,892301
+166,1871-scan166.jpg,892315
+168,1871-scan168.jpg,892349
+169,1871-scan169.jpg,892308
+170,1871-scan170.jpg,892305
+171,1871-scan171.jpg,892366
+172,1871-scan172.jpg,892347
+173,1871-scan173.jpg,892312
+174,1871-scan174.jpg,892351
+167,1871-scan167.jpg,892356
+114,1870-scan114.jpg,895074
+115,1870-scan115.jpg,895024
+116,1870-scan116.jpg,895018
+117,1870-scan117.jpg,895086
+118,1870-scan118.jpg,895081
+119,1870-scan119.jpg,895014
+120,1870-scan120.jpg,894995
+121,1870-scan121.jpg,895109
