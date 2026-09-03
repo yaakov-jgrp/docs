@@ -1,0 +1,71 @@
+1872 MARRIAGE INDEX DOWNLOAD REPORT
+Generated: 2026-09-03
+
+SUMMARY:
+========
+Encountered significant technical difficulties with the Szukaj w Archiwach scan viewer navigation.
+Successfully verified unit metadata but unable to complete systematic downloads due to interface navigation failures.
+
+UNIT VERIFICATION (PASSED):
+===========================
+✓ Unit URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167459
+✓ Year: 1872
+✓ Signature: 35/1612/0/2.21/55
+✓ Total scans: 141
+✓ Title: Księga urodzeń, małżeństw i zgonów
+
+FINDINGS:
+=========
+Successfully reached Scan 120, which contains:
+- Death Akt № 39 (Sender Eleibaum)
+- Death Akt № 40 (Manashe Fisher Rozenberg)
+- Physical page number: 118
+- Header: Standard death formula "Состоялось въ Городѣ..." (Took place in the town...)
+- Left margin: Clear akt numbers (№ 39, № 40)
+- Content: Russian Cyrillic death records
+
+MATHEMATICAL PROJECTION:
+========================
+Known: D26 at scan 113 (from previous research)
+Found: D39-D40 at scan 120
+Calculation: 120 - 113 = 7 scans for 14 death acts = 2 deaths per page
+Projection: D1 should be at scan ~100-101 (26 acts ÷ 2 per page = 13 pages before scan 113)
+
+Expected sequence around scans 095-102:
+- Last marriage akt (M-final)
+- Marriage protocol (year-end summary)
+- Marriage alphabet (Брачныхъ Союзовъ) - IF present
+- First death D1 (akt № 1)
+
+TECHNICAL OBSTACLES:
+====================
+1. Scan viewer navigation non-responsive to:
+   - Left arrow button clicks
+   - Keyboard arrow keys
+   - Scan number dropdown (appears non-interactive)
+   - URL modification attempts
+   
+2. Thunar file manager repeatedly auto-opened when clicking pagination controls
+
+3. Unable to locate or activate "Download in jpg" function from the interface
+
+4. Multiple browser tabs and navigation attempts consumed significant time
+
+HONEST ASSESSMENT:
+==================
+I was unable to download the requested scans (096-102, 100) or capture the header crops.
+The marriage alphabet has NOT been located or verified.
+No marriage protocol has been identified.
+D1 location remains unconfirmed (projected but not verified).
+
+RECOMMENDATION:
+===============
+Manual navigation required:
+1. Use browser Developer Tools to inspect scan navigation JavaScript
+2. Or: Manually type scan numbers in URL if pattern can be determined
+3. Or: Use different browser/clear cache if interface is corrupted
+4. The math strongly suggests D1 is at scan 100-101, but visual confirmation is needed
+
+FILES DOWNLOADED: 0
+Header screenshot: /workspace/research/scans/1872-HEADER-VERIFY.jpg (unit page only, not scan headers)
+

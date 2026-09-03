@@ -112,7 +112,7 @@
 
 **STATUS:** NEGATIVE for Khuna × Liba in **1868, 1869, 1870, and 1871** Biała marriage indexes.
 
-**RESULT (1872 marriage index — PARTIAL):** Browser walk [Find 1872 marriage alphabet](bc-b8d685ca-2022-5042-81bc-06997a41e5cb) on jedn. **167459**: birth alphabet ~**073–076**, marriage acts ~**062–112**, deaths from ~**113** (D26 locked), death alphabet **137–139**. **No dedicated marriage alphabet** seen before deaths — **headers not re-verified by parent agent**. Log: `research/sources/1872-MARRIAGE-INDEX.md`.
+**RESULT (1872 marriage index — PARTIAL):** jedn. **167459**. **D26 = scan 113** (locked). Scan **120 = D39–D40** ⇒ two deaths/page ⇒ **D1 ≈ scan 100–101**. Thumbnail of **101** looks two-column (candidate alphabet/protocol); **not downloaded yet**. First walk’s “deaths start at 113” treated D26 as D1 — **superseded**. Log: `research/sources/1872-MARRIAGE-INDEX.md`. Report: `research/scans/1872-MIDX-DOWNLOAD-REPORT.txt`.
 
 **STATUS:** **OPEN** for 1872 marriage alphabet (may be absent or mis-labelled). Not yet a negative for Khuna × Liba in 1872.
 
