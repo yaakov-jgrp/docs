@@ -181,3 +181,38 @@ Downloaded:
 
 Marriage index = scans 078-079 (2 pages)
 No Herszberg hits reported (per instructions: do not invent)
+
+=== 2026-09-03 Priority Downloads ===
+
+PRIORITY 1: 1871 Death Akt 11 (Unit 35/1612/0/2.21/54, 174 scans)
+Downloaded scans 148-151:
+- 1871-scan148.jpg (35_1612_0_2.21_54_892339.jpg) - Deaths 9-10
+- 1871-scan149.jpg (35_1612_0_2.21_54_892321.jpg) - Deaths 11-12 ← DEATH № 11 HERE
+- 1871-scan150.jpg (35_1612_0_2.21_54_892335.jpg) - Deaths 13-14
+- 1871-scan151.jpg (35_1612_0_2.21_54_892336.jpg) - Deaths 15-16
+
+PRIORITY 2: 1869 Marriage Alphabet (Unit 35/1612/0/2.21/52, 96 scans)
+Downloaded:
+- 1869-HEADER.jpg (35_1612_0_2.21_52_896743.jpg) - Scan 002: Archive header showing year 1869
+- 1869-scan089.jpg (35_1612_0_2.21_52_896716.jpg) - M13: Second-to-last marriage act
+- 1869-scan090.jpg (35_1612_0_2.21_52_896709.jpg) - M14 + year-end protocol: Last marriage act
+- 1869-scan091.jpg (35_1612_0_2.21_52_896772.jpg) - Marriage alphabet page 1 (Алфавитъ и Извадъ)
+- 1869-scan092.jpg (35_1612_0_2.21_52_896760.jpg) - Marriage alphabet page 2 (Изважденіе)
+- 1869-scan093.jpg (35_1612_0_2.21_52_896714.jpg) - Marriage alphabet summary (Женившихся и Вышедъ замужъ)
+- 1869-scan094.jpg (35_1612_0_2.21_52_896790.jpg) - D1: First death act
+
+Marriage alphabet scans: 091, 092, 093
+
+=== CORRECTION 2026-09-03 (headers read; downloader labels above are WRONG) ===
+1869 089-094 is NOT the marriage alphabet:
+- 091 header = Алфавитъ Актовъ / рожденныхъ = BIRTH index (Г: no Гершбергъ)
+- 092-093 = death index (Смерти въ 1869 / умершаго)
+- 094 = Polish duplicate protocol 19/31 Jan 1872, not D1
+- 089-090 = late numbered acts (№ 60 / № 102), November 1869; type unpublished
+Log: research/sources/1869-END-PAGES.md
+
+1871 D11 = scan 149 left-margin № 11 Хиша Хершбергъ (female, Feb 1871). NOT our Khuna.
+Log: research/sources/1871-D11-READING.md
+MD5 of new full pages (md5sum):
+See git commit for hashes of 1871-scan148-151 and 1869-scan089-094.
+

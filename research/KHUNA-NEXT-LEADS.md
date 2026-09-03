@@ -104,7 +104,9 @@
 
 **STATUS:** NEGATIVE for Khuna × Liba in the **1871** and **1870** Biała marriage indexes. 1870: **34** marriages; alphabet on scans **078–079** (*Алфавитъ заключенныхъ Брачныхъ Союзовъ*); **Г no Гершбергъ**; last akt M34 Shafirman. Log: `research/sources/1870-MARRIAGE-INDEX.md`. 1870 **birth** index (scans **40–42**) also **no** Гершбергъ infant.
 
-**NEXT DERIVATIVE LEAD:** 1868–1869 marriage alphabets. Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral). 1871 death **akt 11** ~scans **148–149**.
+**NEXT DERIVATIVE LEAD:** **1869** marriage alphabet (jedn. **167456**). Scans **089–094** are **not** it: 091 = birth alphabet (Г no Гершбергъ), 092–093 = death alphabet, 094 = Jan 1872 Polish protocol. Log: `research/sources/1869-END-PAGES.md`. Then **1868** marriage alphabet. Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral).
+
+**1871 D11 (scan 149):** female **Хиша Хершбергъ**, February 1871. **Not** our Khuna. Parents of Khuna still unnamed. Log: `research/sources/1871-D11-READING.md`.
 
 ---
 

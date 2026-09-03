@@ -83,7 +83,7 @@ Series page: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998 (`35/1612
 **1870 result:** Jankiel / Khuna **not** in the 1870 Biała birth index. This is a completed negative for 1870 births indexed under Г. It is **not** a negative for delayed registration or another okręg.
 
 **1871 (jednostka 167458, 174 scans):**
-- End scans **165–174** are the **death** register + **death** alphabet (*умершихъ*), not a birth index. Scan 170 Г: Gershengorn, Gliksberg, Goldfarb — **no Гершбергъ**. Х-row: **Хершбергъ/Херцбергъ** akt **11** sheet **81**, given name Хима/Хиша — **not** our living Khuna. Log: `research/sources/1870-1871-END-INDEXES.md`.
+- End scans **165–174** are the **death** register + **death** alphabet (*умершихъ*), not a birth index. Scan 170 Г: Gershengorn, Gliksberg, Goldfarb — **no Гершбергъ**. Х-row: **Хершбергъ/Херцбергъ** akt **11** sheet **81**. Original **D11 = scan 149**: female **Хиша Хершбергъ**, February 1871 — **not** our living Khuna. Log: `research/sources/1871-D11-READING.md`.
 - Prior “scan 170 = Алфавитъ Младенца” is **superseded**. The 1869–1871 **birth**-index Г negative from the 17 Aug 2026 pass is a separate (still valid) finding; do not conflate it with these death pages.
 
 FamilySearch film **1199952** from this host hits a **sign-in wall**. Do not treat FS as the working copy. The Polish archive scans are the working copy.

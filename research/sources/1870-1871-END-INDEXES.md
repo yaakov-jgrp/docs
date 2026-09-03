@@ -10,7 +10,8 @@ Same pattern as 1872: the **last scans are the death register and its alphabet**
 | Scans | What they are |
 |---|---|
 | **141–143** | **Marriage** alphabet (*Бракосочетавшихся*). Log: `1871-MARRIAGE-INDEX.md` |
-| 144–147 | Early **deaths**. **144** = D1 Moshko Yankel Tenenbaum / D2 Gersh Eichelbaum. **145** = D3 Morgenshtern / D4 Хуне Лейзорович Кацман (~50; **not** our Khuna). **146** = D5 Wasserstein / D6 Morgenshtern. **147** = D7 Dranichek / D8 Weintraub. **D11 not here** (expect ~148–149). Scans 152–153 = later deaths (~D17–19), **not** D11 |
+| 144–147 | Early **deaths**. **144** = D1 Moshko Yankel Tenenbaum / D2 Gersh Eichelbaum. **145** = D3 Morgenshtern / D4 Хуне Лейзорович Кацман (~50; **not** our Khuna). **146** = D5 Wasserstein / D6 Morgenshtern. **147** = D7 Dranichek / D8 Weintraub. Scans 152–153 = later deaths (~D17–19), **not** D11 |
+| **148–151** | Deaths around **D9–D16**. **D11 = scan 149**, left-margin **№ 11**. Log: `1871-D11-READING.md` |
 | 165–169 | Late **death acts** (Oct–Dec 1871). Scan 165 = D43–44 (Lebel / Prinsztejn). Scan 166 = D45 Henye Hofman. Scan 167 = D47 Rukhlya Kirschen-class. Scan 168 = **D49 Mikhel Sandlarski** (margin **Сандлярскій** — **not** Herszberg). Scan 169 = D57 Zlata Vyjger/Weinger |
 | **170–171** | **Death index** (heading *умершихъ*; folio ~177–178) |
 | 172–173 | Bound-in Polish Magistrat matter / near-blank end leaves |
@@ -18,7 +19,7 @@ Same pattern as 1872: the **last scans are the death register and its alphabet**
 
 **Death-index Г (scan 170):** Gershengorn, Glingberg/Gliksberg, Goldfarb, Graussinger, Grinshteyn. **No Гершбергъ / Герсбергъ.**
 
-**Death-index Х (scan 171):** after Финкельштейнъ Вульфъ (akt 42 / sheet 89), before Хофманъ Хенис (akt 45 / sheet 90). Independent crops of that band (`1871-scan171-XZONE.jpg`, `1871-171-row0.jpg`, `1871-scan171-XH.jpg`) agree on surname **Хершбергъ / Херцбергъ**, akt **11**, sheet **81**. Given name **not locked**: readings **Хима / Хиша** (not stably **Хуна**). **Do not identify as our Khuna** — he is named living on 1872 D26. **D11 is not on scans 152–153.** Early deaths: D1–D8 on scans 144–147; D11 should be ~**148–149** (unread). Scan 145 D4 is **Хуне Лейзорович Кацман**, ~50 — a different Khuna.
+**Death-index Х (scan 171):** after Финкельштейнъ Вульфъ (akt 42 / sheet 89), before Хофманъ Хенис (akt 45 / sheet 90). Independent crops of that band (`1871-scan171-XZONE.jpg`, `1871-171-row0.jpg`, `1871-scan171-XH.jpg`) agree on surname **Хершбергъ / Херцбергъ**, akt **11**, sheet **81**. Original **D11 = scan 149**: female **Хиша Хершбергъ**, February 1871. Given name on the act is **Хиша**, not Хуна. **Do not identify as our Khuna** — he is named living on 1872 D26. Log: `1871-D11-READING.md`. Scan 145 D4 is **Хуне Лейзорович Кацман**, ~50 — a different Khuna.
 
 Witness “Шулимъ Гершбергъ” on scan 168 is **rejected** (standard pair is Szulim **Piwo**; left margin is Sandlarski).
 
