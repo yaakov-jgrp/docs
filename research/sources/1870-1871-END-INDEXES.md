@@ -9,6 +9,8 @@ Same pattern as 1872: the **last scans are the death register and its alphabet**
 
 | Scans | What they are |
 |---|---|
+| **141–143** | **Marriage** alphabet (*Бракосочетавшихся*). Log: `1871-MARRIAGE-INDEX.md` |
+| 144–147 | Early **deaths**. **144** = D1 Moshko Yankel Tenenbaum / D2 Gersh Eichelbaum. **145** = D3 Morgenshtern / D4 Хуне Лейзорович Кацман (~50; **not** our Khuna). **146** = D5 Wasserstein / D6 Morgenshtern. **147** = D7 Dranichek / D8 Weintraub. **D11 not here** (expect ~148–149). Scans 152–153 = later deaths (~D17–19), **not** D11 |
 | 165–169 | Late **death acts** (Oct–Dec 1871). Scan 165 = D43–44 (Lebel / Prinsztejn). Scan 166 = D45 Henye Hofman. Scan 167 = D47 Rukhlya Kirschen-class. Scan 168 = **D49 Mikhel Sandlarski** (margin **Сандлярскій** — **not** Herszberg). Scan 169 = D57 Zlata Vyjger/Weinger |
 | **170–171** | **Death index** (heading *умершихъ*; folio ~177–178) |
 | 172–173 | Bound-in Polish Magistrat matter / near-blank end leaves |

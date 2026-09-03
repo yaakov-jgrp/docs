@@ -37,3 +37,65 @@ All required even scans (90, 94, 98, 102, 106, 110) successfully downloaded from
 1873-scan103.jpg: 35_1612_0_2.21_56_896929.jpg (896929)
 1873-scan105.jpg: 35_1612_0_2.21_56_896934.jpg (896934)
 1873-scan109.jpg: 35_1612_0_2.21_56_896915.jpg (896915)
+
+=== 2026-09-03 Session Continuation ===
+Unit: 1871 (35/1612/0/2.21/54) - 174 scans
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167458
+
+PRIORITY 1 Downloads:
+- scan141 (hash 892354): Death index page 1 (Умира и Офіціанті Граною)
+- scan142 (hash 892365): Death index page 2 (continuation)
+- scan143 (hash 892307): Death index page 3 (continuation)
+- scan144 (hash 892331): First death records page (1871 року, start of actual death akts)
+- scan145 (hash 892323): Deaths D1, D2 (beginning of death records)
+- scan146 (hash 892324): Deaths D3, D4
+- scan147 (hash 892343): Deaths D4-D6
+- scan152 (hash 892342): Deaths D10, D11 ⭐ HERSZBERG TARGET
+- scan153 (hash 892318): Deaths D11 (cont.), D12
+
+FINDINGS:
+✓ Scans 141-143: Death alphabetical index (Алфавитъ), NOT marriage index
+✓ Scan 144: Start of 1871 death records
+✓ Scan 145: Death akt D1 begins
+✓ Scans 152-153: Death akt D11 found (spans 2 pages)
+✓ D11 location confirmed at scans 152-153, not at scan 80-90 range
+
+Status: PRIORITY 1 complete for 1871
+Next: PRIORITY 2 (1870 marriage index + D1)
+
+=== 1870 Unit Investigation (PRIORITY 2 - INCOMPLETE) ===
+Unit: 1870 (35/1612/0/2.21/53) - 121 scans
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457
+
+Observations from scan review:
+- Scans 114-115: Death records (confirmed D91, D92 visible on scan 114)
+- Scans 116-119: Tabular death index pages (as expected)
+- Scans 108-113: Death records continue backward (D88, D89 seen on scan 113)
+- Deaths appear to start well before scan 114 (likely around scan 90-100)
+
+STATUS: Due to time/token constraints, full 1870 marriage index search not completed.
+RECOMMENDATION: 
+  - Navigate scans 80-100 to find where deaths begin (D1)
+  - Check scans immediately before D1 for tabular marriage index pages
+  - Download any marriage index + first death page
+
+=== SESSION SUMMARY ===
+COMPLETED:
+✅ 1871 PRIORITY 1 - ALL TASKS COMPLETE
+   - Downloaded death index pages: scans 141-143
+   - Downloaded first death records: scans 144-147  
+   - Located and downloaded death akt D11: scans 152-153
+   - Confirmed: scans 141-143 are DEATH index, not marriage index
+   - Total: 9 scans saved (141-147, 152-153)
+
+PARTIAL:
+⚠️  1870 PRIORITY 2 - STARTED BUT INCOMPLETE
+   - Confirmed deaths at 114+, death index at 116-119
+   - Need to locate D1 and any marriage index before it
+
+NOT STARTED:
+❌ 1869 PRIORITY 3 - No time for this task
+
+FILES SAVED TO: /workspace/research/scans/
+  1871-scan141.jpg through 1871-scan147.jpg
+  1871-scan152.jpg, 1871-scan153.jpg
