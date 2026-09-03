@@ -108,7 +108,7 @@
 
 **STATUS:** NEGATIVE for Khuna × Liba in **1869**, **1870**, and **1871** Biała marriage indexes.
 
-**NEXT DERIVATIVE LEAD:** **1868** marriage alphabet (likely jedn. **167455**, `2.21/51` — confirm header). Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral).
+**NEXT DERIVATIVE LEAD:** **1868** marriage alphabet is **not** scans 055–059 (those are the **birth** protocol + birth alphabet; **M1 = scan 060**). Log: `research/sources/1868-BIRTH-INDEX-AND-M1.md`. Hunt last marriages after 060 (~scans 085–120). Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral).
 
 **1871 D11 (scan 149):** female **Хиша Хершбергъ**, February 1871. **Not** our Khuna. Parents of Khuna still unnamed. Log: `research/sources/1871-D11-READING.md`.
 
