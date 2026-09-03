@@ -148,7 +148,7 @@
 | 108 | **M21** | Pinkes | no |
 | 112 | deaths **D3+** | Rosenblum / Weinberg-class; not marriages | — |
 
-**Still unread:** even-numbered marriages **M2, 4, 6, 8, 10, 12, 14, 16, 18** (odd scans 89–105). JRI already has **no** Khuna × Fejga in Biała 1873–1885.
+**Still unread:** even-numbered marriages **M2, 4, 6, 8, 10, 12, 14, 16, 18, 22** (odd scans 89–109). Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **no** Khuna × Fejga in Biała 1873–1885.
 
 **RESULT:** Book identity **settled**. Sampled 1873 marriages are **not** Khuna × Fejga. **Khuna not named as anyone’s son.**
 

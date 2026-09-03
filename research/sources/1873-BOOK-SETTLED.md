@@ -42,6 +42,8 @@ Births occupy scans ~4–87 (scan 20 = B31–34; scan 50 = B91–94). Marriages 
 | 108 | M21 | Pinkes | `1873-scan108.jpg` |
 | 112 | D3+ | deaths | `1873-scan112.jpg` |
 
-**No Herszberg / Khuna / Domaczew** on those margins. A signature-crop pass that proposed “Icek Herszberg” / Hebrew “Khuna” is **rejected** (overlay; not locked on a second crop). Still unread: even-numbered marriages **M2, 4, 6, 8, 10, 12, 14, 16, 18** (odd-numbered scans 89–105).
+Scan **110** is the **marriage-section protocol** for 1873: *окончанія актовъ заключенія браковъ*, dated **31 Dec 1873**. It states **twenty-two** marriage acts were recorded that year (**M1–M22**). File: `1873-scan110.jpg`. Deaths follow.
+
+**No Herszberg / Khuna / Domaczew** on the sampled odd-numbered marriage margins. A signature-crop pass that proposed “Icek Herszberg” / Hebrew “Khuna” is **rejected** (overlay; not locked on a second crop). Still unread: even-numbered marriages **M2, 4, 6, 8, 10, 12, 14, 16, 18, 22** (odd scans 89–109).
 
 Khuna’s parents: **still unnamed**.
