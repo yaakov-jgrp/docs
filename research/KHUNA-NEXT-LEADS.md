@@ -34,7 +34,7 @@
 
 **STATUS:** SOLVED for **Liba Enta’s natal father** (H3 strong). NEGATIVE for Khuna’s parents.
 
-**NEXT DERIVATIVE LEAD:** Dwora/Dwejra death (candidate 1889 D8 — do not merge with Dvorkin’s “father Jojna” without the original). Golda WAJNTAL marriage after 1856.
+**NEXT DERIVATIVE LEAD:** 1889 D8 original is now read (widow Dwojra Wajntal, d/o Jojna × Liba) — **do not merge** with this Dwora. Golda WAJNTAL marriage after 1856.
 
 ---
 
@@ -130,13 +130,26 @@
 
 **SOURCE:** jedn. **167460**, signature `35/1612/0/2.21/56`, **203** scans. Header JPEG: `research/scans/1873-HEADER.jpg`. Log: `research/sources/1873-BOOK-SETTLED.md`.
 
-**ACTIONS ATTEMPTED:** Header opened 3 Sep 2026 — year **1873**, **/56**, **203** scans. The 19 Aug 2026 “167460 = 1881 / 87 scans / 2.21/64” report is **superseded** (no header JPEG that day). Scan **201** = marriage index **S/T/W/Z** only (`1873-scan201-late-alpha-STWZ.jpg`): **no Wajntal** among W names. **No G/H/Г/Х marriage-index page** on scans 194–201. Scan 196 = Magistrat alegata 7 Sep 1873 (names unpublished). 1873 marriage **acts** not walked.
+**ACTIONS ATTEMPTED:** Header opened 3 Sep 2026 — year **1873**, **/56**, **203** scans. Scan **201** = **birth** index late alphabet S/T/W/Z (`1873-scan201-late-alpha-STWZ.jpg`): **no Wajntal**. **No G/H marriage-index page** on scans 194–201. Births occupy the front of the book (scan 20 = B31–34; scan 50 = B91–94). Marriages begin ~scan **88**; deaths begin ~scan **112** (numbering resets). Sampled marriage left margins (not a complete walk):
 
-**RESULT:** Book identity **settled**. Khuna × Fejga **not** findable from the surviving late-alphabet index. **Khuna not named as anyone’s son.**
+| Scan | Akt | Margin name | Herszberg/Khuna/Domaczew? |
+|---|---|---|---|
+| 88 | **M1** | Icek Zalcki | no |
+| 92 | **M5** | Moshko Mordko Goldreich | no |
+| 96 | **M9** | Berek Morgensztern | no |
+| 100 | **M13** | Gerszko Auerbach × Sura Blima Jakubowicz, 20 Jul 1873 | no |
+| 104 | **M17** | Shlema Adesman | no |
+| 107 | **M20** | Moshko Czarny | no |
+| 108 | **M21** | Pinkes | no |
+| 112 | deaths **D3+** | Rosenblum / Weinberg-class; not marriages | — |
 
-**STATUS:** PARTIAL — ID done; G/H index missing; marriage-act left-margin walk still unread.
+**Still unread:** M2–4, 6–8, 10–12, 14–16, 18–19 (even scans 90, 94, 98, 102, 106, 110 not yet downloaded). JRI already has **no** Khuna × Fejga in Biała 1873–1885.
 
-**NEXT DERIVATIVE LEAD:** Walk 1873 marriage-section left margins (roughly scans 81–150) for Гершберг / Хуна / Домачевск. Then 1875 (`167462`) and 1878 the same way.
+**RESULT:** Book identity **settled**. Sampled 1873 marriages are **not** Khuna × Fejga. **Khuna not named as anyone’s son.**
+
+**STATUS:** PARTIAL — ID done; G/H index missing; marriage-act walk **sampled, not complete**.
+
+**NEXT DERIVATIVE LEAD:** Download remaining even scans 90–110 and read only left-margin surnames. Then 1875 (`167462`).
 
 ---
 
@@ -144,13 +157,13 @@
 
 **WHY:** H5 wife’s parents, not Khuna’s.
 
-**SOURCE:** `35/1772/0/1/1` births **1847–1855**, 100 scans (2015 fonds list). FS film **753441** / cat **272307** / digital **007954618**, JRI p. **165**. Numeric ID unknown.
+**SOURCE:** `35/1772/0/1/1` births **1847–1855**, 100 scans (2015 fonds list). FS film **753441** / cat **272307** / digital **007954618**, JRI p. **165**. Numeric ID unknown. Related: `35/1772/0/1/3` *Księga małżeństw* **1854–1876**, **86** scans (Wayback 20151119 fonds table).
 
-**ACTIONS ATTEMPTED:** 2015 fonds list confirms signature. Unit page `/1/1` **not** in the 20150416 or 20151119 snapshots. FamilySearch catalog **272307** = Incapsula 403 from this host. Live Szukaj Incapsula. Browser pass 19 Aug 2026: search hit for `35/1772/0/1/1` (1847–1855, 100 scans) **exists**; click did **not** yield a numeric jednostka. A viewer opened at “scan 5 of **119**” — **wrong book** (target is 100 scans). No JPEG of akt 13. FS not reached from that session.
+**ACTIONS ATTEMPTED:** 2015 fonds list confirms signature. Unit page `/1/1` **not** in the 20150416 or 20151119 snapshots (404). FamilySearch catalog **272307** = Incapsula 403 / sign-in wall. Live Szukaj Incapsula. Browser pass 19 Aug 2026: search hit for `35/1772/0/1/1` (100 scans) **exists**; a “119 scans” viewer is the **wrong book**. JRI 3 Sep 2026: exact HERSZBERG/GERSZBERG marriages with town phonetic Sławatycze are **not** Khuna × Fejga (Chaim Szepsel 1869 M12 of Sławatycze registered in **Biała**, parents Jankel × Malka; Sławatycze PSA **1892 M1** Jankel GERSZBERG × Chana Feldman, parents blank; **1899 M7** Chaia Bejla × Szyia Waserman; 1910 Necha d/o Srul Lejb, Biała book). Exact DOMACZEWSKA Siedlce marriages: 1856/1860 Sławatycze and 1890 Włodawa — **none Herszberg**. Sławatycze PSA marriage coverage **gaps 1873–1879 and 1883–1890** — exactly the Khuna × Fejga window; those years may still sit in original `1/3` (through 1876) and later yearly books.
 
-**STATUS:** BLOCKED (Szukaj 100-scan `/1/1` unit still not opened this host; FamilySearch film 007954618 = **sign-in wall** 3 Sep 2026). Not a “does not exist” conclusion.
+**STATUS:** BLOCKED for B13 original (Szukaj 100-scan `/1/1` still not opened; FS **sign-in wall**). Index-level **negative** for an indexed Khuna × Fejga in Sławatycze.
 
-**NEXT DERIVATIVE LEAD:** Re-open **only** a 100-scan unit whose address bar contains `/jednostka/-/jednostka/NNNNNN` for `35/1772/0/1/1`. Discard any 119-scan viewer. Then 1854 section, left-margin **№ 13**. FS image ~165 if a session passes Incapsula.
+**NEXT DERIVATIVE LEAD:** Re-open **only** a 100-scan unit whose address bar contains `/jednostka/-/jednostka/NNNNNN` for `35/1772/0/1/1`. Then 1854 section, left-margin **№ 13**. Separately walk `35/1772/0/1/3` (86 scans) for 1873–1876 left-margin Гершберг / Хуна / Домачев.
 
 ---
 
@@ -238,13 +251,15 @@
 
 **WHY:** Possible death of Liba Enta’s mother Dwora (widow of Jankiel, 31 in 1856 ⇒ ~64 in 1889).
 
-**SOURCE:** Cemetery Scribes deaths 1885–1893 (Boris Dvorkin): **19 Jan 1889**, WAJNTAL **Dwojra**, female, father **Jojna?**, mother **Liba**, town Biała, **widow**, recorded 1889. Original not opened this run. FamilySearch film for Sławatycze (and this book) hits a **sign-in wall** (`familysearch-signin-wall.jpg`).
+**SOURCE:** jedn. **167476**, `35/1612/0/2.21/72`, **97** scans. Original: **scan 076 right page**, left-margin **№ 8**. Palaeography: `research/sources/1889-D8-READING.md`. Working JPEGs: `1889-scan076.jpg`, `1889-D8-MARGIN-NAME.jpg`, `1889-D8-PARENTAGE.jpg`.
 
-**RESULT:** Level B only. Father **Jojna?** would **not** automatically equal Jankiel’s widow (her father is unpublished on 1856 D9). Do **not** merge without the Russian page. **Khuna not named.**
+**ACTIONS ATTEMPTED:** Header JPEG. Deaths in this book start on scan **076** (D4 Mendel Mayer / D5 Leib Grinberg / D6 Mordko Goldshtein on the left page). Scan **5** is births B3–B6. Scan **84** is July deaths — **not** D8 (file renamed `1889-scan084.jpg`). Cross-crop of scan 076 right page.
 
-**STATUS:** PARTIAL (transcription exists; original unread).
+**RESULT:** **Двойра Вайнталь**, **widow**, died at night, registered **19 Jan 1889** in Biała. Daughter of **Jojna (Йойна / Іойна) and Liba**. Husband **not named**. Age **not locked**. **Khuna not named.** Dvorkin’s “Jojna?” is now the original. **Do not merge** with 1856 D9’s Dwora (widow of Jankiel, parents unpublished on that act) without a husband name or age.
 
-**NEXT DERIVATIVE LEAD:** 1889 Biała death book (likely `2.21/72`), left-margin **№ 8**.
+**STATUS:** SOLVED as identity of the 1889 D8 akt. NEGATIVE for Khuna’s parents.
+
+**NEXT DERIVATIVE LEAD:** None for Khuna’s father. Optional: hunt a Jojna Wajntal death/marriage if pursuing Liba Enta’s maternal grandparents only.
 
 ---
 
@@ -266,13 +281,14 @@
 
 | Newly solved / advanced | Still unread original |
 |---|---|
-| 1865 **M27** Pesza = **Zysia × Jochwet** | 1873 marriage **acts** (G/H index missing; A–R not on 194–201) |
-| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **1854 B13** (Szukaj unit not opened; FS **sign-in wall**) |
-| 1856 **B33** Josel Hirszberg, parents ages 22 | 1860 B48 **parents** (surname not locked) |
+| 1865 **M27** Pesza = **Zysia × Jochwet** | 1873 marriage **M2–4, 6–8, 10–12, 14–16, 18–19** |
+| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **1854 B13** (100-scan `/1/1`; FS **sign-in wall**) |
+| 1856 **B33** Josel Hirszberg, parents ages 22 | Sławatycze **`1/3` marriages 1854–1876** (86 scans; JRI gap 1873–76) |
 | 167444 **is** 1856 (`/2.21/40`) | 1868–1871 marriage indexes (1871 header = **167458**) |
 | **1881 M2** Matla = **Dan × Estera** | 1849 D36 Szmul (optional) |
 | **167460 IS 1873** (`/2.21/56`, 203 scans) | Jankiel × Zak marriage (not in 1885–93 tables) |
-| 1873 midx **W**: no Wajntal | 1889 D8 original (Dvorkin: widow, father Jojna?) |
-| Zysza death **not** in JRI 1848–64 given names | `38/20/0` / hipoteka / notaries — **letter SENT** 3 Sep 2026 |
+| 1873 sampled M1/5/9/13/17/20/21: **no** Herszberg | 1875 (`167462`) marriage walk |
+| **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | `38/20/0` / hipoteka / notaries — **letter SENT** 3 Sep 2026 |
+| Zysza death **not** in JRI 1848–64 given names | |
 | “57 years old” snippet = Estera Perel ~1885 | |
 | Network table: `research/sources/herszberg-network.csv` | |

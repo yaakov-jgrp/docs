@@ -16,6 +16,8 @@
 
 No examined record names Khuna's parents. **1872 death akt 26 is now read from the original JPEG** (jednostka 167459, **scan 113**). It confirms the JRI identification of the deceased and of Khuna as her husband, gives both ages as **19**, and names the surviving son as **1.5 years old**. The husband clause does **not** give Khuna a patronymic. A browser pass proposed “Khuna son of Goldenshtand”; that reading is **rejected** (no GOLDENSHTAND in Biała JRI; the act and the 1872 death index name Khuna without a father; adjacent index entries are **Гольдбардъ / Goldbard**, a likely source of the misread). Khuna's father and mother remain **unknown**.
 
+**1889 D8 original (scan 076 right page, akt № 8) — now read:** widow **Dwojra Wajntal**, daughter of **Jojna × Liba**. Husband unnamed. **Khuna not named.** Do not merge with 1856 D9’s Dwora. Log: `research/sources/1889-D8-READING.md`.
+
 **1872 D26 original (scan 113, akt № 26) — now read from the full JPEG:**
 
 | Field | Reading on the page | Notes |

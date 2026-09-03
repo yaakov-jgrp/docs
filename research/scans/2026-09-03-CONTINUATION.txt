@@ -1,0 +1,29 @@
+# Continuation log — 3 Sep 2026 (supersedes earlier CONTINUATION.txt claims)
+
+**Parentage:** father **UNKNOWN**, mother **UNKNOWN**. Do not publish parents.
+
+## Locked this continuation
+
+**1889 D8 is scan 076 right page, not scan 5 and not scan 84.**
+
+- Unit **167476**, `2.21/72`, 97 scans (`1889-HEADER.jpg`).
+- Left page of scan 076 = deaths **D4 Mendel Mayer, D5 Leib Grinberg, D6 Mordko Goldshtein**.
+- Right page = **D7 Leibko Fishman, D8 Dwojra Wajntal, D9 Kive Meer Rubinshtein**.
+- D8: widow **Двойра Вайнталь**, daughter of **Jojna × Liba**, registered 19 Jan 1889. Husband unnamed. Age unpublished. Khuna not named.
+- Log: `research/sources/1889-D8-READING.md`.
+- Files formerly named `1889-d8-TRUE-*` are **scan 84** (July deaths) → `1889-scan084.jpg`.
+
+**1873 marriages sampled (not complete):** M1 Zalcki, M5 Goldreich, M9 Morgensztern, M13 Auerbach, M17 Adesman, M20 Czarny, M21 Pinkes. No Herszberg/Khuna/Domaczew. Births are the front of the book; marriages ~88–111; deaths from ~112.
+
+## JRI (3 Sep 2026) — Sławatycze marriage index
+
+No Khuna × Fejga. Sławatycze PSA marriage coverage **gaps 1873–79 and 1883–90**. Original `35/1772/0/1/3` (86 scans, 1854–1876) still unread.
+
+## Still unread
+
+- 1873 remaining even scans 90, 94, 98, 102, 106, 110.
+- 1871 scans 165–174 and 1870 scans 114–121 (marriage indexes).
+- Sławatycze 1854 B13 on a **100-scan** `/1/1` unit only.
+- Radzyń letter already sent 3 Sep 2026 — do not resend.
+
+Do **not** treat 1889 D8 as Khuna’s grandmother without a merge that this page does not support.

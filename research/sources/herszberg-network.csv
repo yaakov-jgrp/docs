@@ -29,7 +29,10 @@ P051,Chaja Ruchla Hirszberg?,Chaja Ruchla,1860,birth,inf,surname not locked,unpu
 P060,Josel Wajntal,Josel,1856,named_as_father,, ,Fraindla,Fraindla,,, ,Biała Podlaska,1856 D9,jedn.167444 scans45-46,high,wajntal,"Liba's paternal grandfather."
 P061,Fraindla Wajntal,Fraindla/Fradla,1856,named_as_mother,, , ,Josel,,, ,Biała Podlaska,1856 D9,jedn.167444,high,wajntal,
 P062,Jankiel Wajntal,Jankiel,1856-03-08,death,32,Josel,Fraindla,Dwora 31,, ,przy ojcu,Biała Podlaska,1856 D9,jedn.167444 scans45-46,high,wajntal,"Liba Enta's father. Khuna not named."
-P063,Dwora Wajntal,Dwora/Dwejra,1856,listed_widow,31, , ,Jankiel Wajntal,,, ,Biała Podlaska,1856 D9,jedn.167444,high,wajntal,"Do not merge 1889 D8 Dwojra (Dvorkin: father Jojna?) without original."
+P063,Dwora Wajntal,Dwora/Dwejra,1856,listed_widow,31, , ,Jankiel Wajntal,,, ,Biała Podlaska,1856 D9,jedn.167444,high,wajntal,"Do not merge with 1889 D8 Dwojra (d/o Jojna x Liba; husband unnamed; age unpublished)."
+P067,Dwojra Wajntal (1889 D8),Двойра Вайнталь,1889-01-19,death,,Jojna,Liba,(unnamed; widow),Szulim Piwo ~80,, ,Biała Podlaska,1889 D8,jedn.167476 scan076 RIGHT №8,high,wajntal,"Widow. Khuna not named. Not proved identical to 1856 Dwora."
+P068,Jojna Wajntal,Йойна / Іойна,1889,named_as_father,, , ,Liba,,, ,Biała Podlaska,1889 D8,jedn.167476 scan076,high,wajntal,"Father of the 1889 D8 deceased. No JRI given-Jojna + WAJNTAL hit."
+P069,Liba (mother of 1889 Dwojra),Либа,1889,named_as_mother,, , ,Jojna,,, ,Biała Podlaska,1889 D8,jedn.167476 scan076,high,wajntal,"Do not equate with Liba Enta (~1852-1872)."
 P064,Golda Wajntal,Golda,1856,listed_survivor,12,Jankiel,Dwora,,,, ,Biała Podlaska,1856 D9,jedn.167444,high,wajntal,"b.~1844. Distinct from Golda 1848 M13 d/o Josel (aunt)."
 P065,Golda Wajntal (aunt),Golda,1848,marriage,20,Josel,Fradla,Hersz Lejb Mandelsberg,,, ,Biała Podlaska,1848 M13,JRI 1199950,high,wajntal,"Liba's aunt, not sister."
 P066,Beniamin Wulf Wajntal,Beniamin Wulf,1849,birth,inf,Jankiel,Dwora,,,, ,Biała Podlaska,1849 B68,JRI,medium,wajntal,"Not locked on 1856 D9 survivors. Died/omitted/unresolved."

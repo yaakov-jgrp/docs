@@ -91,3 +91,17 @@ https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167460
 - https://bloodandfrogs.com/compendium/poland/lublin/slawatycze/f-753441  
 
 **Bottom line:** public index gives **akt / film / page**; **parents remain blank** until `35/1772/0/1/1` (or FS 753441 ~p.165) is read.
+
+---
+
+## 6) Sławatycze marriage originals for Khuna × Fejga (3 Sep 2026)
+
+Wayback 20151119 fonds table also lists **`35/1772/0/1/3`** *Księga małżeństw* **1854–1876**, **86** scans. Numeric ID still unknown; unit page 404 in that snapshot.
+
+JRI Legacy (Siedlce) exact surname + town phonetic Sławatycze, marriages:
+
+- **HERSZBERG:** 2 matching = **Chaim Szepsel 1869 M12** (residence Sławatycze, **Biała** book, parents Jankel × Malka) — already known, not Khuna.
+- **GERSZBERG:** 6 matching (3 couples): **1892 M1** Jankel × Chana Feldman (Sławatycze PSA, parents **blank**); **1899 M7** Chaia Bejla × Szyia Waserman (blank); **1910 M11** Necha d/o Srul Lejb × Chaja Bejlia (Biała book, resident Sławatycze). **No Khuna / Chuma × Fejga.**
+- **DOMACZEWSKA** Siedlce marriages: 1856 M2 Sura Etel; 1860 M1 Motel × Dwojra; 1890 M13 Bejla (Włodawa) — **none Herszberg**.
+
+Sławatycze PSA marriage years on JRI: **1866–72, 80–82, 91–93, 96, 99**. **Gap 1873–1879 and 1883–1890** = the Khuna × Fejga window. Originals for **1873–1876** may still be in `1/3`.

@@ -16,10 +16,27 @@ The 19 Aug 2026 claim that 167460 is the 87-scan 1881 book (`2.21/64`) is **wron
 
 ## What was read on 3 Sep 2026
 
-- Scan **201** is the **late-alphabet marriage index** (S / T / W / Z), folio ~129. File: `1873-scan201-late-alpha-STWZ.jpg` (earlier misnamed `…-midx-GH.jpg`). **W** names are present (Wajsberg, Warszawska, Wajnertin, …). **No Wajntal.** This is **not** the G/H page.
-- **No G / H / Г / Х marriage-index page** was found on scans 194–201. A–R of the marriage index appears **missing or bound elsewhere**. 1873 Khuna × Fejga cannot be ruled out from the index; the marriage **acts** (roughly scans 81–150) still need a left-margin surname walk.
+- Scan **201** is the **late-alphabet** index (S / T / W / Z), folio ~129. File: `1873-scan201-late-alpha-STWZ.jpg`. Akt numbers run to ~197 — this is the **birth** index, not marriages. **W** names are present. **No Wajntal.** This is **not** the G/H page.
+- **No G / H / Г / Х marriage-index page** was found on scans 194–201. A–R of the marriage index appears **missing or bound elsewhere**. Sampled marriage **acts** (M1, 5, 9, 13, 17, 20, 21) have **no** Herszberg/Khuna/Domaczew; M2–4, 6–8, 10–12, 14–16, 18–19 still unread.
 - Scan **200** is a **death index** starting around L (not G/H).
 - Scan **196** is bound-in **alegata** (Magistrat miasta Biały, 7 Sep 1873). Names **unpublished** (low-zoom only).
 - 1875 book also verified: **167462**, `2.21/58`, **134** scans (`1875-HEADER.jpg`). Marriage index not isolated this pass.
+
+## 1873 marriage acts sampled 3 Sep 2026
+
+Births occupy scans ~4–87 (scan 20 = B31–34; scan 50 = B91–94). Marriages begin ~scan **88**. Deaths begin ~scan **112** (numbering resets). Scan 201 is a **birth** index S/T/W/Z (not the G/H marriage index).
+
+| Scan | Akt | Margin | File |
+|---|---|---|---|
+| 88 | M1 | Icek Zalcki | `1873-scan088.jpg` |
+| 92 | M5 | Moshko Mordko Goldreich | `1873-scan092.jpg` |
+| 96 | M9 | Berek Morgensztern × Taba-Marya Mazes | `1873-scan096.jpg` |
+| 100 | M13 | Gerszko Auerbach × Sura Blima Jakubowicz, 20 Jul 1873 | `1873-struct-scan100.jpg` |
+| 104 | M17 | Shlema Adesman | `1873-scan104.jpg` |
+| 107 | M20 | Moshko Czarny | `1873-scan107.jpg` |
+| 108 | M21 | Pinkes | `1873-scan108.jpg` |
+| 112 | D3+ | deaths | `1873-scan112.jpg` |
+
+**No Herszberg / Khuna / Domaczew** on those margins. Missing M2–4, 6–8, 10–12, 14–16, 18–19.
 
 Khuna’s parents: **still unnamed**.
