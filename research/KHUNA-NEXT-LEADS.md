@@ -130,31 +130,41 @@
 
 **SOURCE:** jedn. **167460**, signature `35/1612/0/2.21/56`, **203** scans. Header JPEG: `research/scans/1873-HEADER.jpg`. Log: `research/sources/1873-BOOK-SETTLED.md`.
 
-**ACTIONS ATTEMPTED:** Header opened 3 Sep 2026 — year **1873**, **/56**, **203** scans. Scan **201** = **birth** index late alphabet S/T/W/Z (`1873-scan201-late-alpha-STWZ.jpg`): **no Wajntal**. **No G/H marriage-index page** on scans 194–201. Births occupy the front of the book (scan 20 = B31–34; scan 50 = B91–94). Marriages begin ~scan **88**; deaths begin ~scan **112** (numbering resets). Sampled marriage left margins (not a complete walk):
+**ACTIONS ATTEMPTED:** Header opened 3 Sep 2026 — year **1873**, **/56**, **203** scans. Scan **201** = **birth** index late alphabet S/T/W/Z (`1873-scan201-late-alpha-STWZ.jpg`): **no Wajntal**. **No G/H marriage-index page** on scans 194–201. Births occupy the front of the book (scan 20 = B31–34; scan 50 = B91–94). Marriages begin ~scan **88**; deaths begin ~scan **112** (numbering resets). **All 22** marriage left margins now read (odd scans 89–109 downloaded 3 Sep 2026):
 
 | Scan | Akt | Margin name | Herszberg/Khuna/Domaczew? |
 |---|---|---|---|
 | 88 | **M1** | Icek Zalcki | no |
+| 89 | **M2** | Aleksandr Zyskind / Perelman | no |
 | 90 | **M3** | Gersh Pejsakh Gandberg | no |
+| 91 | **M4** | Abram Itsko (surname unpublished) | no |
 | 92 | **M5** | Moshko Mordko Goldreich | no |
+| 93 | **M6** | Nusen David Tyshler | no |
 | 94 | **M7** | Yudko Leib Vainshtein | no |
+| 95 | **M8** | Beniamin Leib Weinberg | no |
 | 96 | **M9** | Berek Morgensztern | no |
+| 97 | **M10** | Srul/Ful Velik Nainshteyn-class | no |
 | 98 | **M11** | Vulf Wacerman | no |
+| 99 | **M12** | Getsel Klikhsovich | no |
 | 100 | **M13** | Gerszko Auerbach × Sura Blima Jakubowicz, 20 Jul 1873 | no |
+| 101 | **M14** | Berko Wajnberg | no |
 | 102 | **M15** | Froim Privak | no |
+| 103 | **M16** | Shulim Gantberger | no |
 | 104 | **M17** | Shlema Adesman | no |
+| 105 | **M18** | Aron Dorfman | no |
 | 106 | **M19** | Abram (Gersh/Ber) Polyakevich/Golkevich-class | no |
 | 107 | **M20** | Moshko Czarny | no |
 | 108 | **M21** | Pinkes | no |
+| 109 | **M22** | Mordko Yablonskiy | no |
 | 112 | deaths **D3+** | Rosenblum / Weinberg-class; not marriages | — |
 
-**Still unread:** even-numbered marriages **M2, 4, 6, 8, 10, 12, 14, 16, 18, 22** (odd scans 89–109). Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **no** Khuna × Fejga in Biała 1873–1885.
+Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **no** Khuna × Fejga in Biała 1873–1885.
 
-**RESULT:** Book identity **settled**. Sampled 1873 marriages are **not** Khuna × Fejga. **Khuna not named as anyone’s son.**
+**RESULT:** Book identity **settled**. **All 22** 1873 Biała marriage left margins are **not** Khuna × Fejga. **Khuna not named as anyone’s son.**
 
-**STATUS:** PARTIAL — ID done; G/H index missing; marriage-act walk **sampled, not complete**.
+**STATUS:** SOLVED as a Biała 1873 marriage negative. G/H **marriage index** still missing (not at scans 194–201).
 
-**NEXT DERIVATIVE LEAD:** Download remaining **odd** scans **89, 91, 93, 95, 97, 99, 101, 103, 105, 109** (even-numbered marriages M2–22). Then 1875 (`167462`).
+**NEXT DERIVATIVE LEAD:** 1875 (`167462`) marriage walk; Sławatycze `1/3` for the Fejga window. Do not reopen 1873 M1–M22 margins.
 
 ---
 
@@ -286,14 +296,14 @@
 
 | Newly solved / advanced | Still unread original |
 |---|---|
-| 1865 **M27** Pesza = **Zysia × Jochwet** | 1873 marriage **M2–4, 6–8, 10–12, 14–16, 18–19** |
-| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **1854 B13** (100-scan `/1/1`; FS **sign-in wall**) |
-| 1856 **B33** Josel Hirszberg, parents ages 22 | Sławatycze **`1/3` marriages 1854–1876** (86 scans; JRI gap 1873–76) |
-| 167444 **is** 1856 (`/2.21/40`) | 1873 even-numbered **M2, 4, 6, 8, 10, 12, 14, 16, 18, 22** (odd scans 89–109) |
-| **1881 M2** Matla = **Dan × Estera** | 1868–1871 **marriage** indexes (not at end of 1870/71) |
-| **167460 IS 1873** (`/2.21/56`, 203 scans); **22** marriages | Optional 1871 death **akt 11** (Х-row only) |
-| **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | Jankiel × Zak marriage (not in 1885–93 tables) |
-| 1870–71 end pages = **death** indexes; Г **no** Гершбергъ | `38/20/0` / hipoteka — **letter SENT** 3 Sep 2026 |
+| 1865 **M27** Pesza = **Zysia × Jochwet** | Sławatycze **1854 B13** (100-scan `/1/1`; FS **sign-in wall**) |
+| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **`1/3` marriages 1854–1876** (86 scans; JRI gap 1873–76) |
+| 1856 **B33** Josel Hirszberg, parents ages 22 | 1868–1871 **marriage** indexes (not at end of 1870/71) |
+| 167444 **is** 1856 (`/2.21/40`) | Optional 1871 death **akt 11** (Х-row only) |
+| **1881 M2** Matla = **Dan × Estera** | 1875 (`167462`) marriage walk |
+| **167460 IS 1873**; **all 22** marriage margins **no** Herszberg | Jankiel × Zak marriage (not in 1885–93 tables) |
+| **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | `38/20/0` / hipoteka — **letter SENT** 3 Sep 2026 |
+| 1870–71 end pages = **death** indexes; Г **no** Гершбергъ | |
 | Zysza death **not** in JRI 1848–64 given names | |
 | “57 years old” snippet = Estera Perel ~1885 | |
 | Network table: `research/sources/herszberg-network.csv` | |
