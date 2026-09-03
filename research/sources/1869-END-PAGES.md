@@ -34,9 +34,9 @@ Visible 092 names start around row **28** (Kershenbaum/Gershenbaum lookalikes, t
 - Does **not** index Khuna × Liba Enta in 1869 Biała. The **marriage** alphabet is **not** scans 091–093.
 - Does **not** name Khuna’s father or mother.
 
-## Where the marriage alphabet should be
+## Where the marriage alphabet is
 
-Same hunt as 1870 (`1870-MARRIAGE-INDEX.md`): walk **backward from D1** (or forward from the birth alphabet in the **middle** of the book) for last marriages → year-end protocol → header **Алфавитъ … Брачныхъ Союзовъ** → **Акта Смерти № 1**. Expected zone **~scans 50–85**, not 089–094.
+**Found:** scans **056–057** (`1869-MARRIAGE-INDEX.md`). This file is only the **end** of the book.
 
 Khuna’s parents: **still unnamed**.
 

@@ -50,13 +50,11 @@ The **1871** birth-index Г section is a **completed negative**. Combined with 1
 
 ## B. What was completed this round (do not redo)
 
-### B1. 1869 birth index — already negative (prior session)
+### B1. 1869 birth index — scan **091**, not scan 57
 
-Confirmed by the previous agent and not repeated here:
-
-- Unit `35/1612/0/2.21/52`, scan 57 = 1869 birth index.
-- Full Cyrillic **Г** section reviewed.
-- No Гершберг / Герцберг or plausible Herszberg/Gerszberg variant.
+- Unit `35/1612/0/2.21/52`, jedn. **167456**.
+- Prior “scan **57** = 1869 birth index” is **wrong**. Scan **057** is the **marriage** alphabet (`1869-MARRIAGE-INDEX.md`).
+- Birth alphabet = scan **091** (*Фамилія и Имя рожденныхъ*). Г: **Герштейнъ** Khaim, no Гершбергъ. Log: `1869-END-PAGES.md`.
 - Jankiel was **not** registered in Biała in 1869.
 
 ### B2. 1870 birth-index Г section — NEGATIVE; 1871 now also NEGATIVE
