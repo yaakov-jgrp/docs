@@ -72,8 +72,8 @@ Live viewer (browser session, 17 Aug 2026) confirmed:
 
 Series page: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998 (`35/1612/0/2.21`, 8,869 scans).
 
-**1870 end-of-volume indexes (scans 115–119 captured in a browser session):**
-- Scan **116**: alphabetical surnames starting with **А**. Heading reported as **Алфавитъ Младенца** (birth index).
+**1870 end-of-volume indexes (scans 115–119):** heading on scan **116** is **Алфавитъ Актовъ Смерти** (death index), not a birth index. Prior “Алфавитъ Младенца” is **superseded**. Log: `research/sources/1870-1871-END-INDEXES.md`.
+- Scan **116**: alphabetical surnames starting with **А**.
 - Scan **117**: surnames starting with **З** (Зайчикъ, Злотопольская, Зельманъ, …). Column headers look like a **marriage** index (husband/wife ages), not the infant list. Do not treat 117 as the birth-index Г page.
 - Cyrillic order is А Б В **Г** Д Е Ж **З**. There is **no separate scan between 116 and 117**. The birth-index **Г** block is on the remainder of scan **116** (after А, and any Б/В). Scan 117 remains the **З** block / likely marriages.
 - **Г section on scan 116 was read line-by-line** (browser session, 17 Aug 2026). Surnames transcribed under Г: Гольбейдеръ, Геншелъ, Гелбманъ, **Гершелькъ** (Iosel, acts 46/2 — a different surname, not Гершберг), Голслейкеръ, Гольферлейръ.
@@ -82,12 +82,9 @@ Series page: https://www.szukajwarchiwach.gov.pl/en/seria/-/seria/7998 (`35/1612
 
 **1870 result:** Jankiel / Khuna **not** in the 1870 Biała birth index. This is a completed negative for 1870 births indexed under Г. It is **not** a negative for delayed registration or another okręg.
 
-**1871 (completed 17 Aug 2026, jednostka 167458, 174 scans):**
-- Birth index **Алфавитъ Младенца** is **scan 170** (infant names/surnames). Scan 171 is a parent index; 161–169 are marriage/death text; 172 administrative.
-- Full Cyrillic **Г** section on scan 170: **Грильшъ** (Meshel Abram, entry 7); **Грюссмокеръ** (Sorke, entry 10). About 26 births in the year.
-- **No Гершберг / Герцберг / Герсберг / Хершберг.** No Jankiel son of Khuna.
-- No separate **Х** block was visible on scan 170.
-- Combined with 1869 and 1870: Jankiel was **not** registered in Biała in **1869–1871**. JRI 1864–73 is also negative for a Khuna-fathered Herszberg birth. D26 now gives the child as **1.5** (born ~Jan 1871), so this 1869–1871 negative is the right window. Delayed 1872 registration is still possible.
+**1871 (jednostka 167458, 174 scans):**
+- End scans **165–174** are the **death** register + **death** alphabet (*умершихъ*), not a birth index. Scan 170 Г: Gershengorn, Gliksberg, Goldfarb — **no Гершбергъ**. Х-row: **Хершбергъ/Херцбергъ** akt **11** sheet **81**, given name Хима/Хиша — **not** our living Khuna. Log: `research/sources/1870-1871-END-INDEXES.md`.
+- Prior “scan 170 = Алфавитъ Младенца” is **superseded**. The 1869–1871 **birth**-index Г negative from the 17 Aug 2026 pass is a separate (still valid) finding; do not conflate it with these death pages.
 
 FamilySearch film **1199952** from this host hits a **sign-in wall**. Do not treat FS as the working copy. The Polish archive scans are the working copy.
 
