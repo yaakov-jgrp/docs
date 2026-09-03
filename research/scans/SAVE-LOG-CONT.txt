@@ -155,3 +155,29 @@ PRIORITY 1 (1870 marriage index + D1): ✅ COMPLETE
 PRIORITY 2 (1869 verification): ✅ HEADER CONFIRMED, PARTIAL
 
 NO HERSZBERG HITS FOUND OR CLAIMED IN THIS SESSION.
+
+=== 2026-09-03 Marriage Hunt (CORRECTED) ===
+Unit: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457 (121 scans)
+
+Previous error corrected:
+- Scan 043 = M1 (START of marriages, not D1)
+- Scans 039-042 = BIRTHS (B75-76) + birth alphabet
+
+Marriage section walk from scan 070 forward:
+- Scans 043-076 = Marriage acts (M1 through last marriage)
+- Scan 076 = Last marriage act (М№45 visible in left margin)
+- Scan 077 = Tabular summary page (transition from marriages)
+- Scans 078-079 = MARRIAGE ALPHABET (Алфавитъ заключенныхъ брачныхъ Союзовъ въ 1870д.)
+  * Scan 078 = Main header page with groom/bride columns
+  * Scan 079 = Continuation of marriage index
+- Scan 080 = D1 FIRST DEATH (Акта Смерти, № 1 in left margin)
+
+Downloaded:
+- 1870-scan076.jpg = Last marriage act (or scan 075-076, both marriage acts)
+- 1870-scan077.jpg = Tabular transition/summary page
+- 1870-scan078.jpg = Marriage alphabet page 1 (with header)
+- 1870-scan079.jpg = Marriage alphabet page 2
+- 1870-scan080.jpg = D1, first death act
+
+Marriage index = scans 078-079 (2 pages)
+No Herszberg hits reported (per instructions: do not invent)
