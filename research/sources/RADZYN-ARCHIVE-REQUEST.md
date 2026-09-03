@@ -36,7 +36,19 @@ Proszę o przegląd **skorowidzów** (gdzie zachowane) pod tymi nazwiskami, lata
 
 Po śmierci Jankiela Herszberga (17 I 1892) pozostał małoletni **Szlema / Szloma Chaim**. Proszę o akta opieki / kurateli 1892–ok. 1905 wymieniające stryja / dziadka Herszberga.
 
-Z góry dziękuję za informację o koszcie kwerendy i terminie.
+Z góry dziękuję za informację o koszcie kwerendy i terminie. Gotów uiścić zaliczkę za 1 godzinę wg cennika APL (rachunek `53 1010 1339 0004 7522 3100 0000`) po wskazaniu kwoty.
 
 Z poważaniem  
-[imię, adres, e-mail]
+**YY Hershberg**  
+e-mail: **012yyh@gmail.com**  
+adres pocztowy: podam na wezwanie (zamieszkanie poza RP; korespondencja elektroniczna)
+
+---
+
+## Send log
+
+| When (UTC) | Channel | Result |
+|---|---|---|
+| **2026-09-03 ~00:10** | APL Lublin contact form → `kancelaria@lublin.archiwa.gov.pl` (CF7 id 21157) | **SENT** — API `"status": "mail_sent"`, *Twoja wiadomość została wysłana. Dziękujemy!*, hash `340fa06e8467087559a95865578adc33`. Body (form 2000-char cap) + this file URL. Detail: `research/letters/APL-KWERENDA-SENT-2026-09-03.md`. |
+
+Gmail from this cloud agent is not available (MCP auth is desktop-only). Direct SMTP to `radzyn@lublin.archiwa.gov.pl` was therefore not used; kancelaria is the official electronic intake and routes Oddział Radzyń.

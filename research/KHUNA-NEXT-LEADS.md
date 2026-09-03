@@ -104,7 +104,7 @@
 
 **STATUS:** NEGATIVE at index level (Biała). BLOCKED-OFFLINE for neighboring-town originals not yet opened year-by-year.
 
-**NEXT DERIVATIVE LEAD:** Visual marriage indexes 1868–1872 in 167455–167459 if not already walked; 1873 alegata in **167460**.
+**NEXT DERIVATIVE LEAD:** 1872 marriage index is **not** at scans 137–141 (those are the **death** index + end-matter; Г already has Liba Enta D26). Find the marriage index **before** the death section. Visual G/H of 1868–1871 still unread (1871 header verified: **167458**, 174 scans).
 
 ---
 
@@ -128,13 +128,15 @@
 
 **WHY:** Khuna × Fejga window; alegata can hold birth extracts with a father.
 
-**SOURCE:** jedn. **167460**, 203 scans, alegata bound in. Signature `35/1612/0/2.21/56`.
+**SOURCE:** jedn. **167460**, signature `35/1612/0/2.21/56`, **203** scans. Header JPEG: `research/scans/1873-HEADER.jpg`. Log: `research/sources/1873-BOOK-SETTLED.md`.
 
-**ACTIONS ATTEMPTED:** curl live jednostka = Incapsula. Wayback 20150416 snapshot of `/2.21/56` = **404**. Browser pass 19 Aug 2026 (`research/scans/1873-search-report.txt`): agent reported that URL **167460** showed year **1881**, signature **2.21/64**, **87 scans** — not 1873. Same pass correctly matched known units (167444=1856/65 scans; 167448=1860/119; 167452=1865/149). **No header JPEG, no 1873 index JPEGs.** Treat 167460=1881 as **unverified until a header screenshot exists.** Prior notes that 167460 has **203** scans remain in conflict.
+**ACTIONS ATTEMPTED:** Header opened 3 Sep 2026 — year **1873**, **/56**, **203** scans. The 19 Aug 2026 “167460 = 1881 / 87 scans / 2.21/64” report is **superseded** (no header JPEG that day). Scan **201** = marriage index **S/T/W/Z** only (`1873-scan201-late-alpha-STWZ.jpg`): **no Wajntal** among W names. **No G/H/Г/Х marriage-index page** on scans 194–201. Scan 196 = Magistrat alegata 7 Sep 1873 (names unpublished). 1873 marriage **acts** not walked.
 
-**STATUS:** PARTIAL / DISPUTED ID. 1873 original still unread. If 167460 really is the 87-scan 1881 book, use it for **M2**, then find 1873 by **year filter** (expect ~203 scans, `2.21/56`).
+**RESULT:** Book identity **settled**. Khuna × Fejga **not** findable from the surviving late-alphabet index. **Khuna not named as anyone’s son.**
 
-**NEXT DERIVATIVE LEAD:** Screenshot jednostka header (URL + year + signature + scan count) before any further ID claims. Then M2 from the 87-scan 1881 book; 1873 via year 1873 on the 35/1612/0 file list.
+**STATUS:** PARTIAL — ID done; G/H index missing; marriage-act left-margin walk still unread.
+
+**NEXT DERIVATIVE LEAD:** Walk 1873 marriage-section left margins (roughly scans 81–150) for Гершберг / Хуна / Домачевск. Then 1875 (`167462`) and 1878 the same way.
 
 ---
 
@@ -146,7 +148,7 @@
 
 **ACTIONS ATTEMPTED:** 2015 fonds list confirms signature. Unit page `/1/1` **not** in the 20150416 or 20151119 snapshots. FamilySearch catalog **272307** = Incapsula 403 from this host. Live Szukaj Incapsula. Browser pass 19 Aug 2026: search hit for `35/1772/0/1/1` (1847–1855, 100 scans) **exists**; click did **not** yield a numeric jednostka. A viewer opened at “scan 5 of **119**” — **wrong book** (target is 100 scans). No JPEG of akt 13. FS not reached from that session.
 
-**STATUS:** BLOCKED (online exists; this host cannot open the correct 100-scan unit). Not a “does not exist” conclusion.
+**STATUS:** BLOCKED (Szukaj 100-scan `/1/1` unit still not opened this host; FamilySearch film 007954618 = **sign-in wall** 3 Sep 2026). Not a “does not exist” conclusion.
 
 **NEXT DERIVATIVE LEAD:** Re-open **only** a 100-scan unit whose address bar contains `/jednostka/-/jednostka/NNNNNN` for `35/1772/0/1/1`. Discard any 119-scan viewer. Then 1854 section, left-margin **№ 13**. FS image ~165 if a session passes Incapsula.
 
@@ -158,9 +160,9 @@
 
 **SOURCE:** APL O/Radzyń, fonds **38/20/0**. Partial Kultura+ 2014 digitization; 1895 księga described on-site by Allegata.pl. Jednostka table still not listed.
 
-**STATUS:** BLOCKED-OFFLINE (no jednostka IDs). Ready request: `research/sources/RADZYN-ARCHIVE-REQUEST.md`.
+**STATUS:** BLOCKED-OFFLINE (no jednostka IDs). **Kwerenda SENT 3 Sep 2026** via APL Lublin contact form to `kancelaria@lublin.archiwa.gov.pl` (CF7 `mail_sent`). Sender YY Hershberg / `012yyh@gmail.com`. Log: `research/letters/APL-KWERENDA-SENT-2026-09-03.md`. Postal address still missing — archive will likely ask for it before registering the case. Do **not** resend the same letter.
 
-**NEXT DERIVATIVE LEAD:** When Szukaj lista zespołów is up, filter *ludności* / *meldunk*.
+**NEXT DERIVATIVE LEAD:** Watch `012yyh@gmail.com` for APL’s reply; send street address + pay the quoted zaliczka. When Szukaj lista zespołów is up, filter *ludności* / *meldunk*.
 
 ---
 
@@ -170,7 +172,7 @@
 
 **SOURCE:** Hipoteka 1812–1972, 2801 j.a., on-site. Kowalik’s 27 kancelarie, **none** on Radzyń published scan list.
 
-**STATUS:** BLOCKED-OFFLINE. Request letter in `RADZYN-ARCHIVE-REQUEST.md`.
+**STATUS:** BLOCKED-OFFLINE. **Same 3 Sep 2026 letter** covers this. Do not send a second copy.
 
 **NEXT DERIVATIVE LEAD:** On-site skorowidze Herszberg/Gerszberg/Хуна.
 
@@ -182,7 +184,7 @@
 
 **SOURCE:** Likely `38/20/0` tutelle units (sygn. 16–24 class, unmapped).
 
-**STATUS:** NOT STARTED / BLOCKED-OFFLINE.
+**STATUS:** NOT STARTED / BLOCKED-OFFLINE. Covered by the **3 Sep 2026** Radzyń letter. Do not send a second copy.
 
 **NEXT DERIVATIVE LEAD:** Same Radzyń request, years **1892–1900**, names Szlema Chaim Gerszberg, Sura Zak.
 
@@ -232,6 +234,20 @@
 
 ---
 
+### LEAD — 1889 D8 Dwojra WAJNTAL (Dvorkin)
+
+**WHY:** Possible death of Liba Enta’s mother Dwora (widow of Jankiel, 31 in 1856 ⇒ ~64 in 1889).
+
+**SOURCE:** Cemetery Scribes deaths 1885–1893 (Boris Dvorkin): **19 Jan 1889**, WAJNTAL **Dwojra**, female, father **Jojna?**, mother **Liba**, town Biała, **widow**, recorded 1889. Original not opened this run. FamilySearch film for Sławatycze (and this book) hits a **sign-in wall** (`familysearch-signin-wall.jpg`).
+
+**RESULT:** Level B only. Father **Jojna?** would **not** automatically equal Jankiel’s widow (her father is unpublished on 1856 D9). Do **not** merge without the Russian page. **Khuna not named.**
+
+**STATUS:** PARTIAL (transcription exists; original unread).
+
+**NEXT DERIVATIVE LEAD:** 1889 Biała death book (likely `2.21/72`), left-margin **№ 8**.
+
+---
+
 ### LEAD — Geneteka Mazowieckie Herszberg marriages 1845–1872
 
 **WHY:** Alternate index to JRI for the missing Khuna × Liba marriage.
@@ -250,11 +266,13 @@
 
 | Newly solved / advanced | Still unread original |
 |---|---|
-| 1865 **M27** Pesza = **Zysia × Jochwet** | 1873 indexes/alegata (167460 ID disputed) |
-| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **1854 B13** (FS+Szukaj Incapsula) |
+| 1865 **M27** Pesza = **Zysia × Jochwet** | 1873 marriage **acts** (G/H index missing; A–R not on 194–201) |
+| 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **1854 B13** (Szukaj unit not opened; FS **sign-in wall**) |
 | 1856 **B33** Josel Hirszberg, parents ages 22 | 1860 B48 **parents** (surname not locked) |
-| 167444 **is** 1856 (`/2.21/40`) | `38/20/0` 1895 residents; hipoteka; 27 notaries |
+| 167444 **is** 1856 (`/2.21/40`) | 1868–1871 marriage indexes (1871 header = **167458**) |
 | **1881 M2** Matla = **Dan × Estera** | 1849 D36 Szmul (optional) |
-| Zysza death **not** in JRI 1848–64 given names | Jankiel × Zak marriage (not in 1885–93 tables) |
+| **167460 IS 1873** (`/2.21/56`, 203 scans) | Jankiel × Zak marriage (not in 1885–93 tables) |
+| 1873 midx **W**: no Wajntal | 1889 D8 original (Dvorkin: widow, father Jojna?) |
+| Zysza death **not** in JRI 1848–64 given names | `38/20/0` / hipoteka / notaries — **letter SENT** 3 Sep 2026 |
 | “57 years old” snippet = Estera Perel ~1885 | |
 | Network table: `research/sources/herszberg-network.csv` | |
