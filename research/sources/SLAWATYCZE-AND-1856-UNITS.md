@@ -29,11 +29,11 @@ Fonds Biała: https://www.szukajwarchiwach.gov.pl/en/zespol/-/zespol/4113 — **
 
 | Field | Result |
 |---|---|
-| Live SWA | **blocked** (Imperva) |
-| Signature (Wayback 2015 unit table) | **`35/1772/0/1/1`** — *Księga urodzeń* **1847–1855** |
+| Live SWA | **opened 6 Sep 2026** |
+| Signature | **`35/1772/0/1/1`** — *Księga urodzeń* **1847–1855** |
 | Scan count | **100** |
-| Numeric jednostka ID | **blocked / not found** in caches |
-| ZoSIA zespol `90004201` (Blood-and-Frogs 2021) | **stale** — now a different fonds (Gródek Orthodox, `88/668/0`) |
+| Numeric jednostka ID | **2200523** |
+| Szukaj zespol | **4201** (Blood-and-Frogs `90004201` is **stale**) |
 
 **Evidence URLs**
 
