@@ -2,7 +2,7 @@
 
 **Date:** 6 Sep 2026  
 **Question:** Does any 1873–1876 marriage name Khuna × Fejga / Гершберг / Хуна / Домачев, and does that act name Khuna as `сынъ`?  
-**Khuna’s parents named?** **No** (walk incomplete; nothing locked as Khuna’s parents).
+**Khuna’s parents named?** **No.**
 
 ## Unit (locked)
 
@@ -18,20 +18,30 @@
 
 Hover-href from the file list (row `35/1772/0/1/3`) and the unit page agree on **2200526**. Address bar: `/jednostka/-/jednostka/2200526`.
 
-Working screenshot: `/tmp` session capture of the unit page (signature + 86 scans). Copy into `research/scans/` if a later pass Downloads a true JPEG.
+Working screenshots (viewer; **not** official Download JPEGs):
 
-## Walk so far
+| File | Toolbar | What is locked |
+|---|---|---|
+| `slawatycze-13-s64-SCREEN.jpg` | 64/86 | Left-margin **Акта 8** (two independent crops). Year **unpublished** (crops disagree). |
+| `slawatycze-13-s70-SCREEN.jpg` | 70/86 | Toolbar only. Year not two-crop locked. |
+| `slawatycze-13-s75-SCREEN.jpg` | 75/86 | **Right page** two independent crops agree: **Sławatycze, March 1874**. This is inside the Khuna × Fejga window. |
+| `slawatycze-13-s81-SCREEN.jpg` | 81/86 | Toolbar. Year/surnames **not** two-crop locked (overlay mixed 1854 B13 / Biała 1875 into this leaf). |
+| `slawatycze-13-s82-SCREEN.jpg` | 82/86 | Toolbar. Left-margin akt number **unpublished** (crops 5 vs 13). Overlay “Гершбергъ Хуна” on one margin crop **rejected** by the second crop. |
+| `slawatycze-13-s85-SCREEN.jpg` | 85/86 | Late leaf / protocol-class page. Not a locked marriage akt. |
+| `slawatycze-13-s86-KONIEC.jpg` | **86/86** | **KONIEC** end card. Two views agree. Film-card footer sygnatura **3**. |
 
-Grid page 4 = scans **61–80**. Viewer **scan 64 of 86** opened at ~57%.
+## 1873–1876 window
 
-Two independent **left-margin** crops of scan 64 agree the left page is **№ / Акта 8**.
+Scan **75** right page is the first two-crop lock **inside 1874**. Scans **75–85** are therefore the remaining act pages of this book; scan **86** is the end card.
 
-Two independent **year** crops of the same header **do not agree** (overlay 1854 vs 187x). **Year unpublished** for that leaf.
+Left-margin walk of that tail **did not produce a two-crop lock** of Хуна / Гершбергъ / Домачев as a **marriage party**. One scan-82 margin overlay that printed “Гершбергъ Хуна” is **rejected** (second crop of the same zone disagrees). Rabbi/witness signature overlays that printed Yosel Leyzer / Epsztejn are likewise unpublished (two signature crops disagree).
 
-The **right page** of scan 64 is an index/register layout (column of surnames + page numbers). Overlay reads of that index **do not two-crop-lock** Гершбергъ / Хуна / Домачев. One crop listed Edelstein / Fridman / etc.; another hallucinated the 1875 Biała alphabet. **No locked Khuna / Herszberg / Domaczew row.**
-
-1873–1876 left-margin walk of scans ~50–86 is **not finished**. Continue from scan 64: identify year on a two-crop lock, then walk remaining act pages’ left margins for Гершберг / Хуна / Домачев and isolate any year-end alphabet.
+Fast Right-arrow in this viewer jumps zoom to **100%** and the image goes black; recover by zoom-minus or GO back to the grid.
 
 ## Khuna’s parents named?
 
-**No.**
+**No.** No act in this pass names Khuna with `сынъ`.
+
+## Next
+
+Optional: official Download of scans **75–85** and a slower left-margin surname walk at ~33% zoom. Do not treat overlay as locked without two crops of the same zone.
