@@ -1,275 +1,277 @@
-# Beat Plan: $40K Recycled Bank-Bonus Stack (Sep 6, 2026)
+# MAX Returns: $40K Recycled Bank-Bonus Stack (Sep 6, 2026)
 
-Combined machine: **You + Wife + JGRP**, same dollars through non-overlapping windows. No credit cards. No stocks/crypto/options. No plain CDs.
+Combined machine: **You + Wife + JGRP**. Same dollars through non-overlapping windows. No credit cards. No stocks/crypto/options. No plain CDs.
 
-## Verdict vs prior plan
+Broader sweep than the prior beat plan: Doctor of Credit best lists, Fat Stacks (271 live), BankBonus NY, Forbes/NerdWallet/Yahoo Sep 2026 roundups, M&T/Chase/USB/Wells official pages, Northeast CU/regional trackers.
 
-| Target | Prior plan | This beat plan |
+## New scoreboard
+
+| Path | Gross if approved & qualified | What limits it |
 | --- | --- | --- |
-| Claimed base | ~$8,320 | **~$9,000–$9,650** |
-| After fixing dead offers | ~$7,600 | **~$9,000–$9,650** |
-| With Key Business letter | ~$8,820 | **~$9,500–$10,150** |
-| Aggressive DD overlays | $10.5K–$12K+ | **$11K–$13K+** (same DD limits) |
+| Prior plan (as claimed) | ~$8.3K | Included ~$720 likely-dead |
+| Prior plan (corrected) | ~$7.6K | BMO Biz + Webull dead |
+| Prior beat plan | ~$9.0K–$10.2K | Missed M&T month-3 + NY DD ladder |
+| **MAX capital core (this doc)** | **~$6.3K–$6.9K** | $40K peak + approvals |
+| **MAX + strong DD overlays** | **~$12K–$14K** | Legitimate DD + Chex/EWS |
+| **Absolute ceiling (everything hits)** | **~$15K–$17K+** | Rare; DD + portal rates + letters |
 
-The prior plan is directionally right, but as of **Sunday Sep 6, 2026** it overcounts two dead legs and underweights the best live $15K park.
+Honest working targets after this search:
 
----
-
-## Critical corrections to the prior research
-
-### 1. BMO Business $400 — treat as dead
-
-Public trackers list the tiered BMO business offer (**$400 / $4K**, up to $1,500) with an **Aug 31, 2026** cutoff. Do **not** count the $400 unless a banker confirms a still-live code on Tuesday.
-
-**Replace with:** Chase Business Complete Checking **$400 on only $2,000** (expires **Oct 15, 2026**). Same bonus, half the capital, 5 qualifying transactions, 60-day maintain.
-
-### 2. Finder/Webull $160 × 2 — treat as dead
-
-U.S. Finder Rewards Webull **$160 / $1,000** trackers show an **Aug 21, 2026** end. The live Finder/Webull Visa promo in September is AU-only. Drop **$320** from the plan.
-
-**Do not** replace with ordinary brokerage cash bonuses that require a **12-month** hold (E*TRADE OFFER26) inside a ~90-day objective. Keep brokerage market risk at **$0**.
-
-### 3. First Horizon — still strong, but two landmines
-
-- Official combined offer still ~**$450 DD + $250 savings = $700**.
-- Doctor of Credit **8/4/26** update says savings balance is back to **$3,000** (was $5,000). **Confirm the disclosure at opening** — stale PDFs still show $5,000.
-- Anti-churn language is now **24 months**.
-- **NYC ZIP risk:** multiple trackers report Manhattan/NYC ZIPs failing online eligibility even with a Manhattan banking center. Have a **non-NYC NY address within 50 miles of a branch**, or be ready to open **in branch on Tuesday**, or swap that seat to Webster/Chase.
-- Offer window tracked through **~Sep 25, 2026**.
-
-### 4. Real prior baseline after corrections
-
-Prior “$4,970 core” minus BMO ($400) minus Webull ($320) = **~$4,250 core**, plus personal overlays **~$3,350** → **~$7,600**, not $8,320.
+- **Floor (must-do capital + easy DD):** ~**$10K–$11K**
+- **Push (add M&T + Citizens/Santander/Chime/SoFi):** ~**$12K–$14K**
+- **Moonshot (Key letter + Teachers + portals + BoA tiers):** ~**$15K+**
 
 ---
 
-## The upgrade that beats the old base: Chase $900 (one spouse)
+## Biggest new finds (what changes the math)
 
-**Chase Total Checking + Chase Savings = $900** through **Oct 14, 2026**:
+### 1. M&T Business — month-3-only balance (best capital trick on the board)
 
-| Piece | Requirement | Bonus |
-| --- | --- | --- |
-| Checking | Qualifying payroll/government DD within 90 days | $300 |
-| Savings | $15,000 new money within 30 days, maintain 90 days | $200 |
-| Both completed | Opened together | +$400 |
-| **Total** | | **$900** |
+Official M&T page (live through **Sep 30, 2026**, code **BW**):
 
-Why this beats a CD / E*TRADE fallback / second mediocre business seat:
+| 3rd full calendar month avg ledger | Bonus |
+| --- | --- |
+| $5,000–$14,999 | **$300** |
+| $15,000–$29,999 | **$500** |
+| $30,000–$99,999 | **$750** |
+| $100,000+ | $1,500 (too big for $40K) |
 
-- $900 on $15K for ~90 days ≈ **6% for the quarter** on that slice, **guaranteed** if terms are met.
-- Same $15K later can fund spouse #2’s Chase $900 **after** your bonus posts (P2 sequential) — but that is a **second** 90-day cycle, not inside the Dec 5 window.
-- For **this** ~90-day run: **one** $900. Spouse #2 takes the **Chase checking-only $400** (DD only, no $15K lock).
+**Only the third full calendar month matters.** Months 1–2 can sit near $0.
 
-**Webster Bank $900** (NY-eligible, through **Sep 30**) is the regional twin: $500 DD + $15K savings × 90 days. Use Webster if Chase is already owned / card-relationship risk is a concern; otherwise Chase has denser NYC branches and a clearer dual $400 fallback.
+Open **~Sep 9** → full months Oct / Nov / **Dec** → need the balance in **December**.  
+Open **~Oct 1** → Nov / Dec / **Jan** → park Chase’s freed $15K in **January** for the **$500** tier without fighting Chase’s 90-day hold.
 
-**Do not** attempt Chase $900 × 2 simultaneously on a $40K pool — that locks **$30K** and starves the high-ROI business stack.
+**Do this.** Prior plans missed it.
 
----
+### 2. Chase $900 still wins the long $15K park
 
-## Beat capital stack (same $40K, recycled)
+Chase Total + Savings **$900** through **Oct 14** ($15K × 90 days + DD) still beats:
 
-### Locked for ~90 days (high absolute dollars)
+- Webster twin $900 (also good; use if Chase relationship risk)
+- M&T $500 alone on $15K for one month
+- E*TRADE $400 / $20K fallback
+- Any CD
 
-| Account | Whose name | Cash | Critical window | Bonus | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Chase checking+savings | You | **$15,000** | days 1–90 | **$900** | Open by ~Sep 9 so 90 days clears ~Dec 8 |
-| First Horizon checking+savings | You | $3,000 | ~90 days | $700 | Separate primary; confirm $3K vs $5K |
-| First Horizon checking (+savings if capital allows) | Wife | $0–$3,000 | ~90 days | $450–$700 | Drop savings first if peak > $40K |
-| Citadel Ultimate Growth #1 | You | $5,000 | **only days 61–90** | $500 | After $2K qualifying DD |
-| Citadel Ultimate Growth #2 | Wife | $5,000 | **only days 61–90** | $500 | Expires **Sep 30** — open soon |
+**Best combo:** Chase $900 (spouse A, days 1–90) **+** M&T $500 (open ~Oct 1, fund January with the same $15K).
 
-### JGRP business seats (capital-efficient)
+### 3. Chase Business $400 / $2K replaces dead BMO Business
 
-| Account | Cash | Critical window | Bonus | Why it stays / changes |
+BMO Business expired **Aug 31**. Chase Business Complete **$400 on $2,000** (through **Oct 15**) is strictly better capital efficiency.
+
+### 4. NY / Northeast DD seats the prior plan underweighted
+
+| Offer | Each | HH | DD / notes | Deadline |
 | --- | --- | --- | --- | --- |
-| Mercury (valid referral) | $10,000 | **1 full business day** | $250 | Still best ROI on the whole board |
-| U.S. Bank Basic Business Savings `Q3SAV26` | $10,000 | through day 60 | $300 | Through **Sep 27**; external new money; existing USB biz relationship helps |
-| PNC Business | $2,000 avg | first 3 statement cycles + 10 debit txns | $400 | Through **Sep 30** |
-| Wells Fargo Business | $2,500 | ~days 30–60 + 5 qualifying txns | $400 | **Apply by Sep 8** from the exact offer page |
-| Capital One Business `SBOFFER500` | $5,000 | 60 days within first 90 + 10 e-txns | $500 | Keep |
-| **Chase Business Complete** | **$2,000** | 60 days + 5 qualifying txns | **$400** | **BMO replacement** — better capital efficiency |
-| Key Business (if letter) | $5,000 | 90 consecutive days | $500 | Confirm **in writing** Tuesday; targeted |
+| Citizens personal $400 | $400 | $800 | **One** $1,000 DD within 60d | ~Sep 30 |
+| Santander $400 | $400 | $800 | ~$5,000 DD / 90d (heavy) | ~Sep 30 |
+| MCU (NYC) up to $350 | $350 | $700 | Tiered DD; $3K+/mo for top | Dec 31 |
+| Teachers FCU up to $600 | $600 | $1,200 | ~$1K DD × months (long) | verify live |
+| Suffolk CU $300–$500 | $300–$500 | one | Some versions **no DD** | **Sep 7** if $500 |
+| Trustco personal ~$300 | $300 | $600 | Branch; recurring DD | verify |
+| Northwest Bank $400 | $400 | $800 | NY-eligible trackers | verify |
+| Key Select $500 | $500 | $1,000 | $5K DD / 90d | Dec 11 |
+| Chime portal ~$400–$425 | ~$400 | ~$800 | **$200** DD — insane DD ROI | portal rate |
+| SoFi $300 + portal | $300–$675 | $600–$1,350 | $1K–$5K DD; portal stacks | portal rate |
+| Percapita ~$300 | $300 | $600 | **Spend $300/mo**, not DD | cap risk |
+| BMO personal $400 | $400 | $400 | $4K DD / 90d | **Sep 8** |
 
-**Do not add Rho $350** inside this 90-day pass unless you free a dedicated $10K for a **full 90-day average** — it collides with USB→Citadel recycling and pays later. Same for Bluevine $500 (merchant/payroll/card-spend activity every 30 days — wrong shape for a no-CC cash park).
+### 5. Still dead / skip
 
-**Amex Business 30,000 MR** ($5K / ~90 days) is optional only if Membership Rewards are already valuable to you (≥1.5¢ ≈ $450+). Cash stack prefers Capital One’s $500.
-
----
-
-## How the same $40K still fits
-
-Chase parks **$15K**. Working capital for everything else: **~$25K**.
-
-### Days 1–29 (open Tue Sep 8 after Labor Day)
-
-| Use | Amount |
-| --- | --- |
-| Chase savings (you) | $15,000 |
-| First Horizon ×2 savings | $6,000 (or $3,000 if trimming wife’s savings) |
-| PNC Business | $2,000 |
-| Chase Business | $2,000 |
-| U.S. Bank Business Savings | $10,000 |
-| Mercury pass-through | same $10K for **one business day before** USB lock |
-
-**Normal committed:** ~$35K with both FH savings, or **~$32K** if wife FH is checking-only.  
-**Mercury:** route JGRP $10K through referral account for one full business day, then into USB savings.
-
-Peak math with both FH savings + Chase Biz + USB ≈ $35K → leaves ~$5K free before day-30 adds. Prefer:
-
-- **Both FH full** only if you accept briefly bumping toward $40.5K with CapOne, **or**
-- **Wife FH checking-only ($450)** to keep a clean ≤$40K peak.
-
-### Days 30–60
-
-Add:
-
-- Capital One Business: **$5,000**
-- Wells Business: **$2,500**
-
-**Peak committed (recommended trim):**  
-Chase $15K + FH you $3K + PNC $2K + Chase Biz $2K + USB $10K + CapOne $5K + Wells $2.5K ≈ **$39.5K**.
-
-Wells remains the best capital-efficiency business seat on the board (~$400 / $2,500). **Deadline Sep 8.**
-
-### Days 61–90
-
-USB $10K frees → Citadel you $5K + Citadel wife $5K.  
-Wells $2.5K frees → cushion / OnPath HY parking / Key if delayed.
-
-Chase $15K and FH savings stay put through day 90.
+- BMO **Business** $400 (Aug 31)
+- Finder/Webull U.S. $160 (Aug 21)
+- Raisin/Ameriprise big savings bonuses (need $25K–$200K or existing Ameriprise client)
+- Associated $600 (footprint not NY)
+- Huntington / Simmons / Eastern $750 (wrong footprint)
+- HSBC / Chase Private Client ($50K–$500K)
+- Bluevine $500 unless you can hit merchant, payroll, or **$2K debit spend every 30 days × 3** (activity-shaped; optional only)
 
 ---
 
-## Personal / CU overlays (DD capacity is the real limiter)
+## MAX capital core (JGRP + Chase park)
 
-Keep the prior Tier-1 DD stack — it barely uses the $40K:
+### Locked / timed balances
 
-| Offer | Each | Household | DD shape | Deadline / note |
-| --- | --- | --- | --- | --- |
-| Wells Everyday **$500** special page | $500 | **$1,000** | $1,000 qualifying electronic deposits / 90d | **Oct 6** — confirm app says $500 |
-| FourLeaf | $350 | **$700** | $500+ qualifying DD / 90d | Through Dec 31; ignore year-2 $200s for this plan |
-| TD Complete | $200 | **$400** | $500 DD / 60d | Not Beyond’s $2,500/$300 |
-| Citi Regular Checking | $325 | **$650** | 2+ Enhanced DD totaling $3K | Enhanced DD can include qualifying Zelle / ACH Venmo-PayPal per Citi’s definition |
-| Flagstar Ready | $300 | **$300** | 3 months × $500 DD | **One per household** |
-| Chase checking-only (spouse #2) | $400 | **$400** | $1,000 DD / 90d | Only if not on the $900 combo |
-| **BMO Smart Advantage personal** | $400 | **$400** | **$4,000 DD / 90d** | **Expires Sep 8** — one person if DD budget allows |
-| **Suffolk Momentum** (if LI/eligible) | $250 first tranche | **$250** | $2,500 DD / first 90d | **Expires Sep 7** — open **today** if eligible |
+| # | Account | Who | Cash | Window | Bonus | Priority |
+| --- | --- | --- | --- | ---: | ---: | --- |
+| 1 | Chase checking+savings | You | **$15,000** | days 1–90 | **$900** | MUST |
+| 2 | First Horizon C+S | You | $3,000 | ~90d | $700 | MUST (confirm $3K) |
+| 3 | First Horizon C+S | Wife | $3,000 | ~90d | $700 | MUST if ZIP/branch works |
+| 4 | Mercury referral | JGRP | $10,000 | **1 business day** | $250 | MUST |
+| 5 | U.S. Bank Biz Savings `Q3SAV26` | JGRP | $10,000 | days 1–60 | $300 | MUST (by Sep 27) |
+| 6 | PNC Business | JGRP | $2,000 avg | 3 statement cycles + 10 debit | $400 | MUST (by Sep 30) |
+| 7 | Chase Business | JGRP | $2,000 | 60d + 5 txns | $400 | MUST (BMO replacement) |
+| 8 | Wells Business | JGRP | $2,500 | ~d30–60 + 5 txns | $400 | MUST (**by Sep 8**) |
+| 9 | Capital One Business | JGRP | $5,000 | 60d inside first 90 + 10 e-txns | $500 | MUST |
+| 10 | Citadel Ultimate Growth | You | $5,000 | **only d61–90** | $500 | MUST (open by Sep 30) |
+| 11 | Citadel Ultimate Growth | Wife | $5,000 | **only d61–90** | $500 | MUST |
+| 12 | **M&T Business** code BW | JGRP | **$15,000 avg in month 3 only** | open ~Oct 1 → Jan avg | **$500** | **NEW MUST** |
+| 13 | Key Business (letter) | JGRP | $5,000 | 90d | $500 | IF letter Tue |
+| 14 | Trustco Business | JGRP | low / verify | verify live $350 | $350 | IF live NY |
+| 15 | Axos Business | JGRP | ~$2,500 avg 2 mo | easy | $100–$200 | optional filler |
 
-OnPath Rewards HY Checking: keep as **parking yield** (~6% APY on ≤$10K with 15 debit txns), not as a $300 “bonus” unless a live referral page is confirmed at signup.
+**Core without Key/Trustco/Axos:**  
+$900 + $700 + $700 + $250 + $300 + $400 + $400 + $400 + $500 + $500 + $500 + $500 = **$6,050**
 
-### Beat personal subtotal (base)
+**With Key letter:** **~$6,550**  
+**With Trustco + Axos:** **~$6,900+**
 
-Wells $1,000 + FourLeaf $700 + TD $400 + Citi $650 + Flagstar $300 + Chase $400 (P2) = **$3,450**
+### Peak capital — how $40K still fits
 
-Add if deadlines/DD allow: BMO personal $400 + Suffolk $250 = **+$650 → $4,100**
+Chase parks **$15K** all quarter. Working pool: **~$25K**.
 
----
+**Days 1–29**  
+FH×2 $6K + PNC $2K + Chase Biz $2K + USB $10K (+ Mercury 1-day on the $10K) = **$20K** of working → **~$5K free**.
 
-## Where the total lands
+**Days 30–60**  
+Add CapOne $5K + Wells $2.5K = need $7.5K.  
+Trim: wife FH **checking-only** ($450 not $700) frees $3K → peak fits at **~$39.5K** with Chase $15K, **or** float $500 from paycheck timing.
 
-### Core capital stack (beat)
+**Days 61–90**  
+USB $10K → Citadel×2 $10K. Wells frees. CapOne may still run.
 
-| Leg | Bonus |
-| --- | --- |
-| Chase combo (you) | $900 |
-| First Horizon you | $700 |
-| First Horizon wife | $450–$700 |
-| PNC Business | $400 |
-| U.S. Bank Business Savings | $300 |
-| Capital One Business | $500 |
-| Wells Business | $400 |
-| Chase Business | $400 |
-| Citadel ×2 | $1,000 |
-| Mercury | $250 |
-| **Core subtotal** | **~$5,300–$5,550** |
+**January (M&T month 3 if opened ~Oct 1)**  
+Chase $15K frees ~day 90 (early Dec). Hold or stage, then park **$15K average all January** in M&T for **$500**. Does not fight the Sep–Dec capital peak.
 
-### Plus personal overlays
-
-| Path | Total |
-| --- | --- |
-| Core + base personal ($3,450) | **~$8,750–$9,000** |
-| + BMO personal + Suffolk | **~$9,400–$9,650** |
-| + Key Business $500 (letter) | **~$9,900–$10,150** |
-
-### Same second-tier DD ladder as before (if income flow supports)
-
-Key Smart ×2, MCU ×2, Beacon ×2, SoFi ×2, PSECU ×2, verified Chime portal ×2 — still the path from ~$10K toward **$12K–$13K+**. Limiter remains **legitimate DD + Chex/EWS**, not the $40K.
-
-### Payout timing reminder
-
-“Qualified” ≠ “cash in hand by Dec 5.” Citi often 90–120d; CapOne 60–90d after requirements; Chase combo pays ~15d after day-90 savings maintain; Flagstar ~91–104d; BMO personal ~100d after open.
+If you open M&T on Sep 9 instead: December is month 3. Moving Chase money on ~Dec 8 yields ~$11K December average → **$300 tier**, not $500. Prefer the **Oct 1 open → January $500** timing.
 
 ---
 
-## What not to do (still)
+## MAX personal / CU overlay (DD is the real ceiling)
 
-| Idea | Why it loses |
-| --- | --- |
-| Stocks / crypto / options with the $40K | A 10% drawdown = $4,000 — erases a huge slice of guaranteed bonuses |
-| 90-day CD at ~3.9% | ~$385 on $40K; or ~$97 on $10K — vs Mercury→USB→Citadel chain on the same $10K |
-| E*TRADE Savings $400 / $20K | Only if business seats fail and $20K is idle; still worse than Chase $900 / $15K |
-| Chase $900 × 2 at once | Needs $30K locked; wrecks business recycling |
-| Wells Business $550 / $10K instead of $400 / $2.5K | Inferior vs keeping USB $300 + Wells $400 on overlapping capital |
-| Bluevine / Rho inside this 90-day pass | Activity or 90-day $10K average fights the USB→Citadel recycle |
-| Fake DD / payroll spoofing | Out of scope; use only legitimate payroll, benefits, or bank-defined Enhanced DD |
+### Tier A — do these (best bonus per DD dollar)
+
+| Offer | HH | DD burden | Add |
+| --- | ---: | --- | ---: |
+| Wells Everyday **$500** special page ×2 | $1,000 | $1K each / 90d | **+$1,000** |
+| FourLeaf $350 ×2 (ignore year 2/3) | $700 | $500 each | **+$700** |
+| Chase checking-only spouse B | $400 | $1K / 90d | **+$400** |
+| TD Complete $200 ×2 | $400 | $500 each / 60d | **+$400** |
+| Citi Regular $325 ×2 | $650 | Enhanced DD $3K (Zelle/ACH P2P may count) | **+$650** |
+| Flagstar Ready $300 | $300 | 3×$500 monthly (**1 per HH**) | **+$300** |
+| Chime via **verified portal** ×2 | ~$800 | **$200** each | **+$800** |
+| Citizens $400 ×2 | $800 | one $1K DD each | **+$800** |
+| BMO personal $400 (one) | $400 | $4K / 90d | **+$400** (by Sep 8) |
+| Percapita $300 ×2 | $600 | spend not DD | **+$600** |
+
+**Tier A subtotal ≈ $5,650–$6,050**
+
+### Tier B — if DD capacity remains
+
+| Offer | HH | Notes | Add |
+| --- | ---: | --- | ---: |
+| MCU up to $350 ×2 | $700 | NYC; push $3K+/mo for top tier | +$700 |
+| SoFi $300 ×2 (+ portal if ≥$200) | $600–$1,350 | $1K or $5K DD tiers | +$600+ |
+| Key Smart/Select ×2 | $600–$1,000 | $2K–$5K DD | +$600+ |
+| Santander $400 ×1–2 | $400–$800 | **$5K DD** — only if payroll is fat | +$400+ |
+| Teachers FCU $100/mo × months | $400–$1,200 | long; count only months inside window | +$400+ |
+| Suffolk CU | $300–$500 | **Sep 7** if $500 version live | +$300+ |
+| PSECU $300 ×2 | $600 | join via org ~$20 | +$600 |
+| Beacon / similar CU $300 ×2 | $600 | verify membership | +$600 |
+| Northwest $400 ×2 | $800 | verify NY | +$800 |
+| Trustco personal $300 ×2 | $600 | branch | +$600 |
+
+**Tier B can add another ~$2K–$5K** before Chex velocity and DD reality stop you.
+
+### DD allocation rule (don’t burn payroll stupidly)
+
+Spend scarce real payroll first on:
+
+1. Flagstar (needs 3 separate months)  
+2. Wells $500 pages  
+3. Chase / FourLeaf / TD (cheap)  
+4. Citi Enhanced (use qualifying Zelle/ACH where terms allow)  
+5. Chime ($200)  
+6. Citizens  
+7. Only then Santander / Key Select $5K / SoFi $5K / BoA $10K tiers  
+
+BoA $500 ×2 needs **$10K DD each** — usually a bad trade vs five cheaper seats.
 
 ---
 
-## Action calendar (starting now)
+## Where MAX total lands
 
-### Sunday Sep 6 (today) — online / remote
+| Build | Math | Gross |
+| --- | --- | ---: |
+| Capital core (no Key) | $6,050 | $6,050 |
+| + Tier A personal | +$5,650 | **~$11,700** |
+| + M&T already in core | included | |
+| + Key letter | +$500 | **~$12,200** |
+| + Tier B (MCU+SoFi+PSECU+Suffolk+partial Teachers) | +$2,000–$3,500 | **~$14K–$15.5K** |
+| + Trustco Biz + Axos + portal SoFi luck | +$500–$1,000 | **~$15K–$16.5K** |
 
-1. If Suffolk-eligible: open Momentum **today** (offer ends **Sep 7**).
-2. Open CU / regional personal apps first (FourLeaf, Citadel memberships, OnPath) — **stagger**, don’t blast 15 apps in one hour.
-3. Pull **Chase $900 coupon now** (and spouse’s Chase $400 coupon). Coupons can die early.
-4. Open **Wells Business** from the exact **$400 / $2,500** offer page (ends **Sep 8**).
-5. Open Mercury via a valid **$250** referral; prepare the $10K one-day pass-through for Tuesday.
-6. Wells personal **$500** landing pages for both spouses (confirm UI shows $500).
-7. Only test U.S. Bank **personal** $450 if you can truly spare **$8K DD** — otherwise that DD is better spent on Wells/FourLeaf/Citi/Chase.
+**Practical MAX recommendation:** plan for **~$12K–$14K** qualified gross. Treat anything above as upside.
+
+Payout lag still applies: many post days 90–120+. “Qualified by early Dec” ≠ “all cash in hand Dec 5.”
+
+---
+
+## Action calendar (harder version)
+
+### Sunday Sep 6 (today)
+
+1. **Suffolk CU** if the $500/no-DD or $300 version is still up (**ends Sep 7** for some variants).  
+2. Pull **Chase $900** coupon (you) + **Chase $400** coupon (wife).  
+3. **Wells Business $400/$2,500** offer page — submit (**ends Sep 8**).  
+4. Wells personal **$500** pages ×2 (confirm UI says $500).  
+5. FourLeaf ×2, Citadel memberships ×2, OnPath parking, Percapita ×2.  
+6. Citizens personal links ×2.  
+7. Chime **portal** links ×2 — screenshot the portal amount before apply.  
+8. Mercury $250 referral — prepare $10K pass-through for Tuesday.  
+9. Soft-prep EIN packet / DD map / contribution memos.
 
 ### Monday Sep 7 — Labor Day
 
-- Soft prep only: document checklist, EIN packet for JGRP apps, DD routing map, contribution/loan memos for personal→LLC funding.
-- Suffolk last chance if not done Sunday.
+Docs only. Last chance Suffolk if missed.
 
-### Tuesday Sep 8 — branch / deadline day
+### Tuesday Sep 8 — deadline day
 
-1. **Wells Business** if not already submitted online.
-2. **BMO personal $400** (if taking it) — expires today.
-3. **First Horizon** separately for each spouse (checking + corresponding savings **same business day**); escalate to branch if ZIP fails.
-4. **PNC Business**.
-5. **Key Business** — ask banker for the **$500 / $5K** letter in writing; if no, skip (do not open blind).
-6. Fund Mercury → one full business day → **U.S. Bank Business Savings `Q3SAV26`**.
-7. Fund Chase savings $15K (new-to-Chase money).
-8. Open **Chase Business $400 / $2K** when docs/signers available (online or branch; expires Oct 15).
+1. BMO **personal** $400 if taking it (expires today).  
+2. First Horizon ×2 (branch if ZIP fails).  
+3. PNC Business.  
+4. Key Business — **get $500/$5K in writing** or skip.  
+5. Mercury fund → 1 full business day → USB Business Savings.  
+6. Fund Chase savings $15K.  
+7. Chase Business $400/$2K when signers ready.  
+8. Trustco Business branch ask if nearby.
 
-### After account numbers exist
+### ~Oct 1
 
-Start consumer DD routing. Map every dollar of payroll/Zelle-Enhanced capacity so Flagstar’s three monthly $500s and Citi’s Enhanced DD definition are satisfied without burning $6K of real payroll twice.
+Open **M&T Business** with code **BW** (sole prop online or LLC in branch). Keep balance low until January, then park **$15K average** for the $500 tier.
 
-### Accounting
+### Days 30–60 / 61–90
 
-Treat the $40K as one economic pool, but **do not casually commingle**:
-
-- JGRP → JGRP: ordinary transfers.
-- Personal → JGRP: record owner contribution or loan.
-- JGRP → personal: distribution or loan repayment with a paper trail.
+CapOne + Wells maintain → USB frees → Citadel×2. Keep routing Tier A/B DD.
 
 ---
 
-## Scoreboard: how this beats the prior plan
+## What still loses to this stack
 
-1. **Removes ~$720 of phantom value** (dead BMO Business + dead Webull).
-2. **Adds Chase $900** — the best live guaranteed use of a $15K 90-day park in NY right now (Webster $900 as alt).
-3. **Replaces BMO’s $4K/90d seat with Chase Business $400 on $2K** — frees capital for CapOne + Wells peak.
-4. **Keeps** Mercury one-day, USB→Citadel recycle, Wells Business Sep 8 urgency, FH dual identity, and the DD overlay ladder.
-5. **Adds** time-boxed upsides: BMO personal (Sep 8), Suffolk (Sep 7), Key letter (Tue).
-6. **Raises the honest base** from ~$7.6K (corrected prior) / ~$8.3K (claimed prior) to **~$9.0K–$9.7K**, or **~$10K+** with Key — still without CCs or market risk.
-
-Easy-ish target moves to **~$9K**. Aggressive realistic stays **~$10K–$11K**. Maximum churn still **$12K–$13K+** if DD and approvals hold.
+| Idea | Why it loses |
+| --- | --- |
+| Stocks/crypto/options | 10% drawdown = $4,000 |
+| 90-day CD ~3.9% | ~$385 on $40K |
+| Chase $900 × 2 at once | Locks $30K; kills business recycle |
+| Wells Biz $550/$10K instead of $400/$2.5K + USB $300 | Worse combined ROI |
+| Rho $350 / $10K × 90d inside this pass | Collides with USB→Citadel; do later |
+| BoA $500×2 at $10K DD | Starves five better DD seats |
+| Fake DD / payroll spoofing | Out of scope |
 
 ---
 
-## Source snapshot (verified Sep 6, 2026)
+## Scoreboard vs every prior version
 
-Live/near-live offers cross-checked via bank pages and major trackers (Doctor of Credit, Frequent Miler, NerdWallet, BankBonus, Fat Stacks, Finder, official Wells/Chase/U.S. Bank/Mercury/Citadel/FourLeaf/Key pages). Bonuses change without notice — **re-read the application disclosure before submit**, especially First Horizon savings balance, Wells $500 vs $325 pages, and any BMO business resurrection.
+1. Removes phantom BMO Biz + Webull.  
+2. Adds Chase $900 long park.  
+3. Adds Chase Biz $400/$2K.  
+4. **Adds M&T $500 with month-3-only capital** (largest new structural edge).  
+5. Adds NY ladder: Citizens, MCU, Suffolk, Teachers, Santander (if DD), Trustco.  
+6. Adds DD-cheap Chime portals + Percapita spend bonuses.  
+7. Raises honest base from ~$7.6K / beat ~$9K to **working MAX ~$12K–$14K**, ceiling **~$15K–$17K** if everything clears.
+
+---
+
+## Source snapshot (Sep 6, 2026)
+
+Cross-checked: Doctor of Credit best bonuses list, Fat Stacks catalog (updated Sep 5), BankBonus NY, M&T official business checking page (code BW, Sep 30), Chase business/personal offer pages, U.S. Bank Q3 savings, Wells business Sep 8, Forbes/NerdWallet/Yahoo Sep 2026 roundups, Northeast CU trackers.
+
+**Re-read every application disclosure before submit** — especially First Horizon savings amount, Wells $500 vs $325 pages, Chime/SoFi portal amounts, M&T “third full calendar month,” and Citizens/Santander branch vs online eligibility.
