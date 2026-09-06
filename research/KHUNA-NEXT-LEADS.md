@@ -387,4 +387,4 @@ Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **n
 | **1871 D11** = female **Хиша** (not our Khuna) | |
 | **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | |
 | **1875** marriages walked; alphabet scan **102**; only Herszberg groom **Иосель M27** | |
-| Sławatycze IDs: births **2200523**, marriages **2200526**; `1/3` 1874-end sampled, no Khuna groom | Official JPEGs of `1/3` scans 75–85 |
+| Sławatycze IDs: births **2200523**, marriages **2200526**; `1/3` 1874-end sampled, no Khuna groom | |
