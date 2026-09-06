@@ -1,0 +1,14 @@
+SEARCH REPORT: 1873 Biała Podlaska Jewish USC Book
+Date: 3 September 2026 (supersedes 19 August 2026)
+
+STATUS: JEDNOSTKA 167460 IS THE 1873 BOOK
+
+Header JPEG `research/scans/1873-HEADER.jpg`:
+- URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167460
+- Year: 1873–1873
+- Signature: 35/1612/0/2.21/56
+- Scans: 203
+
+The 19 Aug 2026 note that 167460 was 1881 / 2.21/64 / 87 scans had **no header JPEG** and is discarded. 1881 working ID remains 167468.
+
+See `research/sources/1873-BOOK-SETTLED.md`.

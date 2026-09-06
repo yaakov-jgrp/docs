@@ -1,0 +1,26 @@
+MISSION C: 1871 Biała marriage akt 36 (Yakov Herszberg)
+Date: 2026-09-03
+Status: BLOCKED - Wrong unit loaded in browser
+
+TARGET:
+- Unit: jedn. 167458 (35/1612/0/2.21/54, 1871, 174 scans)
+- Index: groom ГершBERGъ/ГерцBERGъ Яковъ, akt 36, sheet 54 (1871 marriage alphabet scan 141, row 15)
+- Goal: Download marriage spread with left-margin № 36 (collateral Herszberg household; NOT Khuna)
+
+ATTEMPTS MADE:
+1. Browser navigation repeatedly opened jedn. 167459 (1872) instead of 167458 (1871)
+2. Archive viewer redirect 167458 ↔ 167459 — year on film card must be verified each session
+3. Some unit-54 JPEGs may exist in ~/Downloads but were NOT copied to /workspace/research/scans/ as akt 36
+
+BLOCKERS:
+- Could not reliably land on 167458 scan walk (suggested range 090–140; alphabet at 141–143)
+- Marriage akt 36 is NOT scan 36 — must hunt by left-margin № 36
+
+NEXT STEPS:
+1. Open https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167458
+2. Confirm header shows 1871 / sygn. 2.21/54 / 174 scans
+3. Walk marriage section; find spread with left-margin № 36 (index sheet 54)
+4. Save as 1871-m36-TRUE-full.jpg + margin crop
+
+HONEST ASSESSMENT:
+Collateral akt only — will not name Khuna's parents unless the act names Khuna as son of the groom. Index already shows groom is Yakov, not Khuna.

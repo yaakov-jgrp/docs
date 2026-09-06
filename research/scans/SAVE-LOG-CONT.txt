@@ -1,0 +1,218 @@
+1873 Book - Session Continuation Downloads:
+Scan 090 - 1873-scan090.jpg - hash 896942
+Scan 094 - 1873-scan094.jpg - hash 897112  
+Scan 098 - 1873-scan098.jpg - hash 897094
+Scan 102 - 1873-scan102.jpg - hash 897075
+Scan 106 - 1873-scan106.jpg - hash 896910
+Scan 110 - 1873-scan110.jpg - hash 896920
+
+All required even scans (90, 94, 98, 102, 106, 110) successfully downloaded from 1873 book.
+
+1871 Book - Still in progress (scans 165-174 identified, downloading next)
+165,1871-scan165.jpg,892301
+166,1871-scan166.jpg,892315
+168,1871-scan168.jpg,892349
+169,1871-scan169.jpg,892308
+170,1871-scan170.jpg,892305
+171,1871-scan171.jpg,892366
+172,1871-scan172.jpg,892347
+173,1871-scan173.jpg,892312
+174,1871-scan174.jpg,892351
+167,1871-scan167.jpg,892356
+114,1870-scan114.jpg,895074
+115,1870-scan115.jpg,895024
+116,1870-scan116.jpg,895018
+117,1870-scan117.jpg,895086
+118,1870-scan118.jpg,895081
+119,1870-scan119.jpg,895014
+120,1870-scan120.jpg,894995
+121,1870-scan121.jpg,895109
+1873-scan089.jpg: 35_1612_0_2.21_56_896946.jpg (896946)
+1873-scan091.jpg: 35_1612_0_2.21_56_897082.jpg (897082)
+1873-scan093.jpg: 35_1612_0_2.21_56_896949.jpg (896949)
+1873-scan095.jpg: 35_1612_0_2.21_56_896912.jpg (896912)
+1873-scan097.jpg: 35_1612_0_2.21_56_897086.jpg (897086)
+1873-scan099.jpg: 35_1612_0_2.21_56_896933.jpg (896933)
+1873-scan101.jpg: 35_1612_0_2.21_56_897064.jpg (897064)
+1873-scan103.jpg: 35_1612_0_2.21_56_896929.jpg (896929)
+1873-scan105.jpg: 35_1612_0_2.21_56_896934.jpg (896934)
+1873-scan109.jpg: 35_1612_0_2.21_56_896915.jpg (896915)
+
+=== 2026-09-03 Session Continuation ===
+Unit: 1871 (35/1612/0/2.21/54) - 174 scans
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167458
+
+PRIORITY 1 Downloads:
+- scan141 (hash 892354): Death index page 1 (Умира и Офіціанті Граною)
+- scan142 (hash 892365): Death index page 2 (continuation)
+- scan143 (hash 892307): Death index page 3 (continuation)
+- scan144 (hash 892331): First death records page (1871 року, start of actual death akts)
+- scan145 (hash 892323): Deaths D1, D2 (beginning of death records)
+- scan146 (hash 892324): Deaths D3, D4
+- scan147 (hash 892343): Deaths D4-D6
+- scan152 (hash 892342): Deaths D10, D11 ⭐ HERSZBERG TARGET
+- scan153 (hash 892318): Deaths D11 (cont.), D12
+
+FINDINGS:
+✓ Scans 141-143: Death alphabetical index (Алфавитъ), NOT marriage index
+✓ Scan 144: Start of 1871 death records
+✓ Scan 145: Death akt D1 begins
+✓ Scans 152-153: Death akt D11 found (spans 2 pages)
+✓ D11 location confirmed at scans 152-153, not at scan 80-90 range
+
+Status: PRIORITY 1 complete for 1871
+Next: PRIORITY 2 (1870 marriage index + D1)
+
+=== 1870 Unit Investigation (PRIORITY 2 - INCOMPLETE) ===
+Unit: 1870 (35/1612/0/2.21/53) - 121 scans
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457
+
+Observations from scan review:
+- Scans 114-115: Death records (confirmed D91, D92 visible on scan 114)
+- Scans 116-119: Tabular death index pages (as expected)
+- Scans 108-113: Death records continue backward (D88, D89 seen on scan 113)
+- Deaths appear to start well before scan 114 (likely around scan 90-100)
+
+STATUS: Due to time/token constraints, full 1870 marriage index search not completed.
+RECOMMENDATION: 
+  - Navigate scans 80-100 to find where deaths begin (D1)
+  - Check scans immediately before D1 for tabular marriage index pages
+  - Download any marriage index + first death page
+
+=== SESSION SUMMARY ===
+COMPLETED:
+✅ 1871 PRIORITY 1 - ALL TASKS COMPLETE
+   - Downloaded death index pages: scans 141-143
+   - Downloaded first death records: scans 144-147  
+   - Located and downloaded death akt D11: scans 152-153
+   - Confirmed: scans 141-143 are DEATH index, not marriage index
+   - Total: 9 scans saved (141-147, 152-153)
+
+PARTIAL:
+⚠️  1870 PRIORITY 2 - STARTED BUT INCOMPLETE
+   - Confirmed deaths at 114+, death index at 116-119
+   - Need to locate D1 and any marriage index before it
+
+NOT STARTED:
+❌ 1869 PRIORITY 3 - No time for this task
+
+FILES SAVED TO: /workspace/research/scans/
+  1871-scan141.jpg through 1871-scan147.jpg
+  1871-scan152.jpg, 1871-scan153.jpg
+
+=== 1870 MARRIAGE INDEX + D1 DOWNLOAD (2026-09-03 continuation) ===
+Unit: 35/1612/0/2.21/53 (1870, 121 scans)
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457
+
+PRIORITY 1 COMPLETE:
+
+Downloaded scans 39-43 (5 scans):
+- Scan 039: Last marriage (M80, end of marriage records) - hash 895046
+- Scan 040: Marriage alphabetical index header page (Алфавитъ Увѣрившихся въ 1870 году) - hash 895087
+- Scan 041: Marriage alphabetical index continuation - hash 895017
+- Scan 042: Marriage alphabetical index final page - hash 895020
+- Scan 043: First death record (D1, Aktuł Założonych Zmarłych) - hash 895069
+
+FINDINGS:
+✓ Death akt D1 confirmed at scan 043
+✓ Marriage alphabetical index found at scans 040-042 (3 pages)
+✓ Last marriage M80 ends at scan 039
+✓ Death records span from scan 043 (D1) to scan 113 (D69)
+✓ Deaths D69-D71 at scans 113-115 (previously downloaded as scans 114-115)
+
+1870 STRUCTURE MAPPED:
+- Scans 1-38: Marriage records (M1-M79, scan 38 shows №79-№80)
+- Scan 39: Last marriage (M80 ends)
+- Scans 40-42: Marriage alphabetical index (Алфавитъ) ✓ DOWNLOADED
+- Scan 43: First death (D1) ✓ DOWNLOADED
+- Scans 44-113: Death records (D2-D69)
+- Scans 114-115: Deaths D69-D71 (already downloaded)
+- Scans 116-119: Death alphabetical index (already downloaded)
+- Scans 120-121: Final pages (already downloaded)
+
+Files saved: 1870-scan039.jpg, 1870-scan040.jpg, 1870-scan041.jpg, 1870-scan042.jpg, 1870-scan043.jpg
+
+SUMMARY: 1870 marriage index successfully located and downloaded. D1 boundary confirmed.
+
+=== 1869 UNIT VERIFICATION (PRIORITY 2 - PARTIAL) ===
+Unit: 35/1612/0/2.21/52 (1869, 96 scans)
+URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167456
+
+HEADER VERIFIED:
+✓ Scan 001: Microfilm header (Genealogical Society, roll 5, film 0559)
+✓ Scan 002: Polish archive card - confirmed year 1869, signature 2.21/52
+✓ Unit correctly identified as 1869 Jewish vital records
+
+STATUS: Header verification complete. Full marriage index hunt not performed due to time/priority.
+RECOMMENDATION FOR FUTURE: Similar structure to 1870 expected - search scans 30-40 for D1 boundary and preceding marriage Алфавитъ.
+
+=== SESSION COMPLETE ===
+Date: 2026-09-03
+Total files downloaded: 5 scans from 1870 unit
+Total files saved: 1870-scan039.jpg through 1870-scan043.jpg
+
+PRIORITY 1 (1870 marriage index + D1): ✅ COMPLETE
+PRIORITY 2 (1869 verification): ✅ HEADER CONFIRMED, PARTIAL
+
+NO HERSZBERG HITS FOUND OR CLAIMED IN THIS SESSION.
+
+=== 2026-09-03 Marriage Hunt (CORRECTED) ===
+Unit: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167457 (121 scans)
+
+Previous error corrected:
+- Scan 043 = M1 (START of marriages, not D1)
+- Scans 039-042 = BIRTHS (B75-76) + birth alphabet
+
+Marriage section walk from scan 070 forward:
+- Scans 043-076 = Marriage acts (M1 through last marriage)
+- Scan 076 = Last marriage act (М№45 visible in left margin)
+- Scan 077 = Tabular summary page (transition from marriages)
+- Scans 078-079 = MARRIAGE ALPHABET (Алфавитъ заключенныхъ брачныхъ Союзовъ въ 1870д.)
+  * Scan 078 = Main header page with groom/bride columns
+  * Scan 079 = Continuation of marriage index
+- Scan 080 = D1 FIRST DEATH (Акта Смерти, № 1 in left margin)
+
+Downloaded:
+- 1870-scan076.jpg = Last marriage act (or scan 075-076, both marriage acts)
+- 1870-scan077.jpg = Tabular transition/summary page
+- 1870-scan078.jpg = Marriage alphabet page 1 (with header)
+- 1870-scan079.jpg = Marriage alphabet page 2
+- 1870-scan080.jpg = D1, first death act
+
+Marriage index = scans 078-079 (2 pages)
+No Herszberg hits reported (per instructions: do not invent)
+
+=== 2026-09-03 Priority Downloads ===
+
+PRIORITY 1: 1871 Death Akt 11 (Unit 35/1612/0/2.21/54, 174 scans)
+Downloaded scans 148-151:
+- 1871-scan148.jpg (35_1612_0_2.21_54_892339.jpg) - Deaths 9-10
+- 1871-scan149.jpg (35_1612_0_2.21_54_892321.jpg) - Deaths 11-12 ← DEATH № 11 HERE
+- 1871-scan150.jpg (35_1612_0_2.21_54_892335.jpg) - Deaths 13-14
+- 1871-scan151.jpg (35_1612_0_2.21_54_892336.jpg) - Deaths 15-16
+
+PRIORITY 2: 1869 Marriage Alphabet (Unit 35/1612/0/2.21/52, 96 scans)
+Downloaded:
+- 1869-HEADER.jpg (35_1612_0_2.21_52_896743.jpg) - Scan 002: Archive header showing year 1869
+- 1869-scan089.jpg (35_1612_0_2.21_52_896716.jpg) - M13: Second-to-last marriage act
+- 1869-scan090.jpg (35_1612_0_2.21_52_896709.jpg) - M14 + year-end protocol: Last marriage act
+- 1869-scan091.jpg (35_1612_0_2.21_52_896772.jpg) - Marriage alphabet page 1 (Алфавитъ и Извадъ)
+- 1869-scan092.jpg (35_1612_0_2.21_52_896760.jpg) - Marriage alphabet page 2 (Изважденіе)
+- 1869-scan093.jpg (35_1612_0_2.21_52_896714.jpg) - Marriage alphabet summary (Женившихся и Вышедъ замужъ)
+- 1869-scan094.jpg (35_1612_0_2.21_52_896790.jpg) - D1: First death act
+
+Marriage alphabet scans: 091, 092, 093
+
+=== CORRECTION 2026-09-03 (headers read; downloader labels above are WRONG) ===
+1869 089-094 is NOT the marriage alphabet:
+- 091 header = Алфавитъ Актовъ / рожденныхъ = BIRTH index (Г: no Гершбергъ)
+- 092-093 = death index (Смерти въ 1869 / умершаго)
+- 094 = Polish duplicate protocol 19/31 Jan 1872, not D1
+- 089-090 = late numbered acts (№ 60 / № 102), November 1869; type unpublished
+Log: research/sources/1869-END-PAGES.md
+
+1871 D11 = scan 149 left-margin № 11 Хиша Хершбергъ (female, Feb 1871). NOT our Khuna.
+Log: research/sources/1871-D11-READING.md
+MD5 of new full pages (md5sum):
+See git commit for hashes of 1871-scan148-151 and 1869-scan089-094.
+

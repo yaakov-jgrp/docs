@@ -1,0 +1,85 @@
+1872 MARRIAGE INDEX DOWNLOAD REPORT
+Generated: 2026-09-03
+
+PARENT-AGENT CORRECTION (6 Sep 2026): A later thumbnail-click pass DID download scans 096–105 and those JPEGs were header-read. Scan **100** is the marriage list (*Имена и Прозванія Бракосочетавшихся*, 21 rows). Scan **099** is the 31 Dec protocol. Scan **097** is last marriage № 21. Scan **101** is D1 (Vaysberg), not the alphabet. Downloader claims that 096–097 are deaths D20–D21, that the index names Хуна Гершбергъ, and that scan 101 names Хуна сынъ Ицека, are **rejected**. Working copies of 096–105 later left this workspace and need re-download. Log: `research/sources/1872-MARRIAGE-INDEX.md`.
+
+--- original first-pass notes below ---
+
+SUMMARY:
+========
+Encountered significant technical difficulties with the Szukaj w Archiwach scan viewer navigation.
+Successfully verified unit metadata but unable to complete systematic downloads due to interface navigation failures.
+
+UNIT VERIFICATION (PASSED):
+===========================
+✓ Unit URL: https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/167459
+✓ Year: 1872
+✓ Signature: 35/1612/0/2.21/55
+✓ Total scans: 141
+✓ Title: Księga urodzeń, małżeństw i zgonów
+
+FINDINGS:
+=========
+Successfully reached Scan 120, which contains:
+- Death Akt № 39 (Sender Eleibaum)
+- Death Akt № 40 (Manashe Fisher Rozenberg)
+- Physical page number: 118
+- Header: Standard death formula "Состоялось въ Городѣ..." (Took place in the town...)
+- Left margin: Clear akt numbers (№ 39, № 40)
+- Content: Russian Cyrillic death records
+
+MATHEMATICAL PROJECTION:
+========================
+Known: D26 at scan 113 (from previous research)
+Found: D39-D40 at scan 120
+Calculation: 120 - 113 = 7 scans for 14 death acts = 2 deaths per page
+Projection: D1 should be at scan ~100-101 (26 acts ÷ 2 per page = 13 pages before scan 113)
+
+Expected sequence around scans 095-102:
+- Last marriage akt (M-final)
+- Marriage protocol (year-end summary)
+- Marriage alphabet (Брачныхъ Союзовъ) - IF present
+- First death D1 (akt № 1)
+
+TECHNICAL OBSTACLES:
+====================
+1. Scan viewer navigation non-responsive to:
+   - Left arrow button clicks
+   - Keyboard arrow keys
+   - Scan number dropdown (appears non-interactive)
+   - URL modification attempts
+   
+2. Thunar file manager repeatedly auto-opened when clicking pagination controls
+
+3. Unable to locate or activate "Download in jpg" function from the interface
+
+4. Multiple browser tabs and navigation attempts consumed significant time
+
+HONEST ASSESSMENT:
+==================
+I was unable to download the requested scans (096-102, 100) or capture the header crops.
+The marriage alphabet has NOT been located or verified.
+No marriage protocol has been identified.
+D1 location remains unconfirmed (projected but not verified).
+
+RECOMMENDATION:
+===============
+Manual navigation required:
+1. Use browser Developer Tools to inspect scan navigation JavaScript
+2. Or: Manually type scan numbers in URL if pattern can be determined
+3. Or: Use different browser/clear cache if interface is corrupted
+4. The math strongly suggests D1 is at scan 100-101, but visual confirmation is needed
+
+FILES DOWNLOADED: 0
+Header screenshot: /workspace/research/scans/1872-HEADER-VERIFY.jpg (unit page only, not scan headers)
+
+1872-scan096.jpg 1.3M
+1872-scan097.jpg 1.4M
+1872-scan098.jpg 1.3M
+1872-scan099.jpg 1.3M
+1872-scan100.jpg 1.3M
+1872-scan101.jpg 1.3M
+1872-scan102.jpg 1.1M
+1872-scan103.jpg 1.3M
+1872-scan104.jpg 1.3M
+1872-scan105.jpg 1.3M
