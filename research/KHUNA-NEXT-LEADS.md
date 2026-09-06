@@ -116,9 +116,41 @@
 
 **STATUS:** NEGATIVE for Khuna × Liba in **1868, 1869, 1870, 1871, and 1872** Biała marriage indexes.
 
-**NEXT DERIVATIVE LEAD:** marriage **outside** Biała 1868–1872. Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral) — **BLOCKED** (viewer 167458↔167459). Do not resend the APL letter.
+**NEXT DERIVATIVE LEAD:** Neighbour-town JRI 1868–1872 is now run (log `JRI-NEIGHBOR-MARRIAGES-1868-1872.md`) — no Khuna groom. 1871 marriage **akt 36** is opened (collateral). Do not resend the APL letter.
 
 **1871 D11 (scan 149):** female **Хиша Хершбергъ**, February 1871. **Not** our Khuna. Parents of Khuna still unnamed. Log: `research/sources/1871-D11-READING.md`.
+
+---
+
+### LEAD — 1871 M36 Yakov Moshko Gertzberg (collateral)
+
+**WHY:** Index groom **Яковъ Гершбергъ/Герцбергъ** akt **36**, sheet **54**. Open only as a collateral household. Names Khuna’s parents **only** if the act names Khuna as the groom’s son.
+
+**SOURCE:** jedn. **167458** (`35/1612/0/2.21/54`, 1871, 174 scans). **Not** 167459. Scan **99**, page **106**, left-margin **№ 36**. Log: `research/sources/1871-M36-READING.md`. Working screenshot: `research/scans/1871-m36-SCREEN.jpg`.
+
+**ACTIONS ATTEMPTED:** Browser on `/jednostka/167458`; film-card year 1871; calibrated from M33 (scan 96) / M35 (scan 98). Discarded scan 59 (births **111–112**). Two independent parentage crops.
+
+**RESULT:** Groom **Яковъ Мошко Герцбергъ**, **18**, bachelor, married **May 1871** in Biała. Same generation as Khuna (~1853). Father deceased; mother’s given name Ides-Mariam-class — **father’s given name not locked** (two-crop disagreement). **Khuna not named.** Signatures include Jacob Herzberg and Dawid Herzberg.
+
+**STATUS:** SOLVED as identity of akt 36. NEGATIVE for Khuna’s parents.
+
+**NEXT DERIVATIVE LEAD:** Optional official Download JPEG as `1871-m36-TRUE-full.jpg`. Do not treat Yakov’s unpublished parents as Khuna’s.
+
+---
+
+### LEAD — Neighbour-town JRI marriages 1868–1872 / births 1868–1873
+
+**WHY:** Khuna × Liba is missing from Biała marriage alphabets 1868–1872. Next place is a neighbouring town, or Jankiel’s delayed birth with a patronymic.
+
+**SOURCE:** JRI-Poland Legacy. Log: `research/sources/JRI-NEIGHBOR-MARRIAGES-1868-1872.md`.
+
+**ACTIONS ATTEMPTED:** Browser-class POST to `jriplform.php` (HTTP 200). Given phonetic Khuna/Chuna/Chuma + surname starts HERSZ/GERSZ, type M, all regions then Siedlce. WAJNTAL/WAJNTLOW/WEINTAL type M. Exact HERSZBERG (and GERSZBERG) type M, town phonetic Międzyrzec, Terespol, Łuków, Łomazy, Kodeń, Piszczac, Konstantynów, Parczew, Sławatycze, Radzyń. Births 1868–1873: Jankiel/Yankel + Khuna/Chuna; HERSZBERG + mother Liba/Enta/Wajntal.
+
+**RESULT:** **No Khuna Herszberg groom.** Neighbour hits that are **not** him: Kodeń **1868 M3** Abram Aba HERSZBERG (Jankiel × Fejga Goldsztejn); Sławatycze phonetic = known **Chaim Szepsel 1869 M12** (Biała book). WAJNTAL marriage = Warszawa 1872 M38 Bajla, not Liba. Birth: Siedlce Jankel Wulf 1872 B32 is **Lejzor × Mejta**, not Khuna.
+
+**STATUS:** NEGATIVE for Khuna’s parents and for a Khuna × Liba marriage in the indexed neighbour towns.
+
+**NEXT DERIVATIVE LEAD:** Sławatycze originals `1/1` and `1/3`; 1875 Biała marriage walk.
 
 ---
 
@@ -312,15 +344,11 @@ Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **n
 |---|---|
 | 1865 **M27** Pesza = **Zysia × Jochwet** | Sławatycze **1854 B13** (100-scan `/1/1`; numeric ID unknown) |
 | 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **`1/3` marriages 1854–1876** (86 scans; JRI gap 1873–76) |
-| 1856 **B33** Josel Hirszberg, parents ages 22 | Neighbour-town JRI marriages 1868–1872 (host POST to JRI returns HTTP 500) |
-| 167444 **is** 1856 (`/2.21/40`) | 1871 marriage **akt 36** (Yakov, collateral; 167458) |
-| **1881 M2** Matla = **Dan × Estera** | 1875 (`167462`) marriage walk |
-| **167460 IS 1873**; **all 22** marriage margins **no** Herszberg | Neighbour-town JRI marriages 1868–1872 (host POST to JRI returns HTTP 500) |
-| **1868–1872 marriage indexes**: no Khuna × Liba | |
+| 1856 **B33** Josel Hirszberg, parents ages 22 | 1875 (`167462`) marriage walk |
+| **1871 M36** Yakov Moshko Gertzberg, 18 — **Khuna not named** | Official `1871-m36-TRUE-full.jpg` still to Download |
+| **Neighbour-town JRI M 1868–72**: no Khuna groom | `38/20/0` / hipoteka — **letter SENT** 3 Sep 2026 |
+| **1868–1872 Biała marriage indexes**: no Khuna × Liba | |
+| **1881 M2** Matla = **Dan × Estera** | |
+| **167460 IS 1873**; **all 22** marriage margins **no** Herszberg | |
 | **1871 D11** = female **Хиша** (not our Khuna) | |
-| **1870 marriage index 078–079**: 34 akts, no Гершбергъ | |
-| **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | `38/20/0` / hipoteka — **letter SENT** 3 Sep 2026 |
-| 1870–71 end pages = **death** indexes; Г **no** Гершбергъ | |
-| Zysza death **not** in JRI 1848–64 given names | |
-| “57 years old” snippet = Estera Perel ~1885 | |
-| Network table: `research/sources/herszberg-network.csv` | |
+| **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | |
