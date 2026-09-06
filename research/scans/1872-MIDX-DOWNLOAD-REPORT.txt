@@ -73,3 +73,13 @@ Manual navigation required:
 FILES DOWNLOADED: 0
 Header screenshot: /workspace/research/scans/1872-HEADER-VERIFY.jpg (unit page only, not scan headers)
 
+1872-scan096.jpg 1.3M
+1872-scan097.jpg 1.4M
+1872-scan098.jpg 1.3M
+1872-scan099.jpg 1.3M
+1872-scan100.jpg 1.3M
+1872-scan101.jpg 1.3M
+1872-scan102.jpg 1.1M
+1872-scan103.jpg 1.3M
+1872-scan104.jpg 1.3M
+1872-scan105.jpg 1.3M
