@@ -1,6 +1,6 @@
 # 1872 Biała marriage index (scan 100)
 
-**Date:** 3 Sep 2026 (JPEG re-read); log restored 6 Sep 2026 after working copies of scans 096–105 left the workspace.  
+**Working copies restored 6 Sep 2026:** `research/scans/1872-scan096.jpg`–`105.jpg`.  
 **Unit:** jedn. **167459**, `35/1612/0/2.21/55`, **141** scans
 
 Downloader labelled 096–097 as deaths D20–D21 and claimed **Хуна Гершбергъ** on the index. **Wrong on both.** Headers were read on the full JPEGs. Vision overlays that name Khuna as groom, or as *сынъ Ицека* on scan 101, **disagreed with independent crops of the same zone and are rejected.**
@@ -14,7 +14,7 @@ Downloader labelled 096–097 as deaths D20–D21 and claimed **Хуна Гер�
 | **098** | **96** | Continuation of the last marriage (property / *имѣніе* clause) |
 | **099** | **97** / sheet **50.** | Year-end **Протоколъ** of *Актовъ заключенія Браковъ*, 31 Dec 1872, Biała, burgomaster |
 | **100** | **98** | **Marriage list.** Header **Имена и Прозванія Бракосочетавшихся**. Columns: sequence № / couple / **№ Акта** / **Листа** |
-| **101** | **99** / sheet **52.** | Deaths begin. **D1** *Этля/Отля Вайсбергъ она же Висбергъ*, January 1872. Second margin name **unpublished**. **Not** our Khuna |
+| **101** | **99** / sheet **52.** | Deaths begin. **D1** *Этля Вайсбергъ она же Вайсбергъ* (daughter of Itzka × Sura, age ~51). **D2** *Нута Шнейторъ* (~48). **Neither is our Khuna.** |
 | **102–105** | **100+** | Later deaths. **Not** the marriage index |
 
 Scan **113** remains **D26** (Liba Enta). Two deaths per page from D1 at **101** through D26 at **113** still holds. Scan **120 = D39–D40** (paper 118) matches that cadence.
