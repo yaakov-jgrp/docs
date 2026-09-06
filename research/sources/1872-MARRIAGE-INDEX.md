@@ -1,51 +1,42 @@
-# 1872 Biała marriage index — walk status (jedn. 167459)
+# 1872 Biała marriage index (scan 100)
 
-**Date:** 3 Sep 2026  
-**Unit:** jedn. **167459**, `35/1612/0/2.21/55`, **141** scans  
-**Agent:** [Find 1872 marriage alphabet](bc-b8d685ca-2022-5042-81bc-06997a41e5cb) — browser walk; **headers not independently re-read by parent agent.**
+**Date:** 3 Sep 2026 (JPEG re-read); log restored 6 Sep 2026 after working copies of scans 096–105 left the workspace.  
+**Unit:** jedn. **167459**, `35/1612/0/2.21/55`, **141** scans
 
-## Why this matters
+Downloader labelled 096–097 as deaths D20–D21 and claimed **Хуна Гершбергъ** on the index. **Wrong on both.** Headers were read on the full JPEGs. Vision overlays that name Khuna as groom, or as *сынъ Ицека* on scan 101, **disagreed with independent crops of the same zone and are rejected.**
 
-Khuna × Liba Enta is **not** in Biała marriage alphabets **1868–1871**. Jankiel on **1872 D26** is **полтора года** (~Jan 1871). A **1872** marriage registration remains possible if the couple married late. The marriage alphabet (or protocol) is the next in-book test before neighbour-town JRI.
+## Book order (locked from JPEG headers)
 
-**Do not reopen D26 (scan 113).**
-
-## Book landmarks already locked
-
-| Scans | What |
-|---|---|
-| ~18 | Birth **B32** Jankiel Wolf (Lejzor × Mejta) |
-| ~73–76 | **Birth** alphabet (*Имена и Фамиліи урожденныхъ*) — subagent; **not header-verified here** |
-| ~62–112 | Marriage **acts** (full-text certificates) — subagent range |
-| **113** | Death **D26** Liba Enta × Khuna — **locked** |
-| ~137–139 | **Death** alphabet (Г includes Liba Enta D26) — user-confirmed |
-
-## Calibration (3 Sep 2026, second walk)
-
-Scan **120** = death akts **№ 39–40** (Sender Eleibaum / Manashe Fisher Rozenberg), paper **118**. With **D26 = scan 113**, this locks **two deaths per page**. **D1 ≈ scan 100–101**, not 113.
-
-Thumbnail grid of scans **101–108** is on `1872-HEADER-VERIFY.jpg`. Scan **101** looks **two-column / tabular** (candidate protocol or alphabet). Scans **102–104** look like full act pages. **Not yet downloaded** — viewer arrows failed; retry is thumbnail-click + sidebar **Download in jpg**.
-
-First walk’s “deaths start at 113 / no alphabet before 113” is **superseded** as a book-structure claim (it treated D26’s scan as D1).
-
-## Expected pattern (1870–1871)
-
-| Year | Marriage alphabet scans | Deaths begin |
+| Scan | Paper | What it is |
 |---|---|---|
-| 1870 | **078–079** (*Алфавитъ заключенныхъ Брачныхъ Союзовъ*) | **080** |
-| 1871 | **141–143** (*Бракосочетавшихся*) | **144** |
-| 1872 | **unknown** — subagent: **not seen** before scan 113 | **~113** |
+| **096** | **94** | Marriage **№ 20**. Opening *Состоялось въ Уѣздномъ Городѣ Бѣлѣ*. Couple surname **unpublished** (Гехтманъ vs Гершбергъ vs Хуна disagreed). **Not** a death |
+| **097** | **95** | Marriage **№ 21**, **31 Dec 1872**, Biała. Last marriage of the year |
+| **098** | **96** | Continuation of the last marriage (property / *имѣніе* clause) |
+| **099** | **97** / sheet **50.** | Year-end **Протоколъ** of *Актовъ заключенія Браковъ*, 31 Dec 1872, Biała, burgomaster |
+| **100** | **98** | **Marriage list.** Header **Имена и Прозванія Бракосочетавшихся**. Columns: sequence № / couple / **№ Акта** / **Листа** |
+| **101** | **99** / sheet **52.** | Deaths begin. **D1** *Этля/Отля Вайсбергъ она же Висбергъ*, January 1872. Second margin name **unpublished**. **Not** our Khuna |
+| **102–105** | **100+** | Later deaths. **Not** the marriage index |
 
-## Next actions (priority)
+Scan **113** remains **D26** (Liba Enta). Two deaths per page from D1 at **101** through D26 at **113** still holds. Scan **120 = D39–D40** (paper 118) matches that cadence.
 
-1. Download **one header crop per scan** in **095–112** and **060–075**; read Cyrillic for *Брачныхъ* / *Бракосочетавшихся* / *заключенныхъ* vs *урожденныхъ* vs *умершихъ*.
-2. Locate **last marriage akt** left margin and **year-end protocol** (count of marriages).
-3. If alphabet confirmed absent, log **NEGATIVE for Khuna × Liba in 1872 Biała marriage index** and pivot to **outside-Biała JRI** + **1875** (`167462`).
+## Index (scan 100)
 
-## What this does **not** do (yet)
+The page is a **numbered list of couples** (sequence **1–21**), not a Cyrillic Г/Х block like 1870–71. Akt numbers are **not** in sequence (row 1 = akt **9**, row 3 = akt **12**).
 
+**Row 3 / akt 12:** groom **Янкель Блюштейнъ**, bride **Мента / Меита Гершбергъ**, sheet **44**. Matches JRI **1872 M12** Meita (Dan × Ester) × Jankel Blusztejn. **Not Khuna.** A wider crop that read the bride as *Бернбергъ* is **rejected**.
+
+**No two independent crops agree on a groom Хуна / Хершбергъ.** Tight overlays of the right-hand name column turned every *-бергъ* into Гершбергъ or invented **Хуна Гершбергъ акт 18**. Those readings are **not** evidence.
+
+Bride **Вайнталь / Wajntal** was **not** agreed on any row (row 2 is Weintraub / Vaintsvaig-class).
+
+Twenty-one sequence rows plus last marriage **№ 21** on 31 Dec means this page is the **complete 1872 Biała marriage list**, in the 1870-pattern slot (protocol → list → D1).
+
+## What this does **not** do
+
+- Does **not** index Khuna × Liba Enta in **1872** Biała.
 - Does **not** name Khuna’s father or mother.
-- Does **not** prove Khuna × Liba did not marry in 1872 (acts may exist without alphabet).
-- Does **not** substitute for reading the **Г / Х** bands if an alphabet is found.
+- Does **not** make M20 (scan 096) a Herszberg akt.
+
+Together with 1868–1871, Khuna × Liba is **not** in the Biała marriage alphabets/lists for **1868–1872**.
 
 Khuna’s parents: **still unnamed**.

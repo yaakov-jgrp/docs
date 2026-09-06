@@ -1,6 +1,10 @@
 1872 MARRIAGE INDEX DOWNLOAD REPORT
 Generated: 2026-09-03
 
+PARENT-AGENT CORRECTION (6 Sep 2026): A later thumbnail-click pass DID download scans 096–105 and those JPEGs were header-read. Scan **100** is the marriage list (*Имена и Прозванія Бракосочетавшихся*, 21 rows). Scan **099** is the 31 Dec protocol. Scan **097** is last marriage № 21. Scan **101** is D1 (Vaysberg), not the alphabet. Downloader claims that 096–097 are deaths D20–D21, that the index names Хуна Гершбергъ, and that scan 101 names Хуна сынъ Ицека, are **rejected**. Working copies of 096–105 later left this workspace and need re-download. Log: `research/sources/1872-MARRIAGE-INDEX.md`.
+
+--- original first-pass notes below ---
+
 SUMMARY:
 ========
 Encountered significant technical difficulties with the Szukaj w Archiwach scan viewer navigation.

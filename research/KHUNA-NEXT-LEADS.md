@@ -112,11 +112,11 @@
 
 **STATUS:** NEGATIVE for Khuna × Liba in **1868, 1869, 1870, and 1871** Biała marriage indexes.
 
-**RESULT (1872 marriage index — PARTIAL):** jedn. **167459**. **D26 = scan 113** (locked). Scan **120 = D39–D40** ⇒ two deaths/page ⇒ **D1 ≈ scan 100–101**. Thumbnail of **101** looks two-column (candidate alphabet/protocol); **not downloaded yet**. First walk’s “deaths start at 113” treated D26 as D1 — **superseded**. Log: `research/sources/1872-MARRIAGE-INDEX.md`. Report: `research/scans/1872-MIDX-DOWNLOAD-REPORT.txt`.
+**RESULT (1872 marriage index):** scan **100**, header *Имена и Прозванія Бракосочетавшихся*, sequence **1–21**. Protocol **099** (31 Dec 1872). Last marriage **№ 21** = scan **097**. Deaths begin scan **101** (D1 Vaysberg). **Гершбергъ** on the list = bride **Меита** akt **12** (JRI M12 × Blusztejn) — **not Khuna**. No two-crop agreement on a Хуна groom or a Wajntal bride. Overlay “Хуна Гершбергъ акт 18” / “сынъ Ицека” **rejected**. Log: `research/sources/1872-MARRIAGE-INDEX.md`.
 
-**STATUS:** **OPEN** for 1872 marriage alphabet (may be absent or mis-labelled). Not yet a negative for Khuna × Liba in 1872.
+**STATUS:** NEGATIVE for Khuna × Liba in **1868, 1869, 1870, 1871, and 1872** Biała marriage indexes.
 
-**NEXT DERIVATIVE LEAD:** Header-read scans **060–112** on **167459**; then marriage **outside** Biała 1868–1872. Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral) — **BLOCKED** (viewer kept loading 167459). Reports: `research/scans/MISSION-A-REPORT-2026-09-03.txt`, `MISSION-C-REPORT-2026-09-03.txt`. Do not resend the APL letter.
+**NEXT DERIVATIVE LEAD:** marriage **outside** Biała 1868–1872. Optional: 1871 marriage **akt 36** (Yakov Herszberg, collateral) — **BLOCKED** (viewer 167458↔167459). Do not resend the APL letter.
 
 **1871 D11 (scan 149):** female **Хиша Хершбергъ**, February 1871. **Not** our Khuna. Parents of Khuna still unnamed. Log: `research/sources/1871-D11-READING.md`.
 
@@ -312,11 +312,11 @@ Scan 110 is the year-end protocol: **22** marriages in 1873. JRI already has **n
 |---|---|
 | 1865 **M27** Pesza = **Zysia × Jochwet** | Sławatycze **1854 B13** (100-scan `/1/1`; numeric ID unknown) |
 | 1856 **D9** Jankiel Wajntal = **Josel × Fraindla**; Liba (Jenta) 4 | Sławatycze **`1/3` marriages 1854–1876** (86 scans; JRI gap 1873–76) |
-| 1856 **B33** Josel Hirszberg, parents ages 22 | **1872 marriage alphabet** (jedn. 167459; D1 ~scan 100–102, not 113) |
+| 1856 **B33** Josel Hirszberg, parents ages 22 | Neighbour-town JRI marriages 1868–1872 (host POST to JRI returns HTTP 500) |
 | 167444 **is** 1856 (`/2.21/40`) | 1871 marriage **akt 36** (Yakov, collateral; 167458) |
 | **1881 M2** Matla = **Dan × Estera** | 1875 (`167462`) marriage walk |
 | **167460 IS 1873**; **all 22** marriage margins **no** Herszberg | Neighbour-town JRI marriages 1868–1872 (host POST to JRI returns HTTP 500) |
-| **1868–1871 marriage alphabets**: no Khuna × Liba | |
+| **1868–1872 marriage indexes**: no Khuna × Liba | |
 | **1871 D11** = female **Хиша** (not our Khuna) | |
 | **1870 marriage index 078–079**: 34 akts, no Гершбергъ | |
 | **1889 D8** = widow **Dwojra Wajntal**, d/o **Jojna × Liba** | `38/20/0` / hipoteka — **letter SENT** 3 Sep 2026 |
