@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="739" height="927" viewBox="0 0 739 927">
+<rect width="100%" height="100%" fill="#f7f5f1"/>
+<text x="229.8" y="52.0" font-size="16" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#1a1a1a">CONCEPT 3 — Left Banquette Run + Cross-Room Seating</text>
+<text x="229.8" y="68" font-size="11" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" fill="#555">Long low left storage-bench; sofa faces it across the short axis</text>
+<rect x="80.0" y="80.0" width="299.5" height="547.2" fill="#fafafa" stroke="#222" stroke-width="2.5" opacity="1" rx="0"/>
+<rect x="99.2" y="72.8" width="261.1" height="7.2" fill="#b8d4e8" stroke="#4a7fa5" stroke-width="1" opacity="1" rx="0"/>
+<text x="229.8" y="99.2" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="normal" fill="#2a5a7a">FRONT WALL — new windows (former garage door)</text>
+<rect x="80.0" y="80.0" width="100.8" height="86.4" fill="#ffe8a3" stroke="#c49b0c" stroke-width="1.2" opacity="0.85" rx="0"/>
+<text x="130.4" y="113.6" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#7a5a00">METER /</text>
+<text x="130.4" y="137.6" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#7a5a00">SERVICE</text>
+<text x="130.4" y="156.8" font-size="8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="normal" fill="#7a5a00">KEEP CLEAR</text>
+<line x1="379.5" y1="80.0" x2="379.5" y2="279.2" stroke="#f7f5f1" stroke-width="6"/>
+<path d="M 381.5 80.0 L 397.5 80.0 M 381.5 279.2 L 397.5 279.2" stroke="#c45c26" stroke-width="1.5"/>
+<text x="387.5" y="179.6" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#c45c26" transform="rotate(90 387.5 179.6)">83" OPEN → STAIRS</text>
+<rect x="307.5" y="80.0" width="72.0" height="199.2" fill="#e8f5e9" stroke="#66a36b" stroke-width="1" opacity="0.35" rx="0"/>
+<rect x="191.4" y="617.6" width="76.8" height="9.6" fill="#fff" stroke="#222" stroke-width="1.5" opacity="1" rx="0"/>
+<path d="M 191.4 627.2 A 76.8 76.8 0 0 0 268.2 627.2" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="3,2"/>
+<text x="229.8" y="603.2" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="normal" fill="#333">WASHROOM DOOR</text>
+<g stroke="#666" stroke-width="1" fill="#666">
+      <line x1="80.0" y1="40.0" x2="379.52" y2="40.0"/>
+      <line x1="80.0" y1="36.0" x2="80.0" y2="44.0"/>
+      <line x1="379.52" y1="36.0" x2="379.52" y2="44.0"/>
+      <text x="229.76" y="34.0" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" fill="#444" stroke="none">124.8" (10.4') width</text>
+    </g>
+<g stroke="#666" stroke-width="1" fill="#666">
+      <line x1="32.0" y1="80.0" x2="32.0" y2="627.1999999999999"/>
+      <line x1="28.0" y1="80.0" x2="36.0" y2="80.0"/>
+      <line x1="28.0" y1="627.1999999999999" x2="36.0" y2="627.1999999999999"/>
+      <text x="26.0" y="353.59999999999997" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" fill="#444" stroke="none" transform="rotate(-90 26.0 353.59999999999997)">228" (19') length</text>
+    </g>
+<g stroke="#666" stroke-width="1" fill="#666">
+      <line x1="407.52" y1="80.0" x2="407.52" y2="279.2"/>
+      <line x1="403.52" y1="80.0" x2="411.52" y2="80.0"/>
+      <line x1="403.52" y1="279.2" x2="411.52" y2="279.2"/>
+      <text x="401.52" y="179.6" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" fill="#444" stroke="none" transform="rotate(-90 401.52 179.6)">83"</text>
+    </g>
+<rect x="80.0" y="171.2" width="43.2" height="132.0" fill="#d7ccc8" stroke="#5d4037" stroke-width="1.2" opacity="1" rx="2"/>
+<text x="101.6" y="237.2" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="normal" fill="#3e2723">CLOSED TOY
+18"D × ~32"H
+bench top</text>
+<rect x="80.0" y="303.2" width="52.8" height="153.6" fill="#c4a484" stroke="#6d4c2f" stroke-width="1.2" opacity="1" rx="3"/>
+<text x="106.4" y="380.0" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#3e2723" transform="rotate(-90 106.4 380.0)">READING BENCH 22"D</text>
+<rect x="80.0" y="464.0" width="57.6" height="124.8" fill="#a8c5d4" stroke="#2c5f73" stroke-width="1.2" opacity="1" rx="2"/>
+<text x="108.8" y="526.4" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#143844">DESK 24×52"</text>
+<rect x="137.6" y="483.2" width="36.0" height="33.6" fill="#dde" stroke="#888" stroke-width="1" opacity="0.8" rx="2"/>
+<rect x="137.6" y="531.2" width="36.0" height="33.6" fill="#dde" stroke="#888" stroke-width="1" opacity="0.8" rx="2"/>
+<rect x="80.0" y="588.8" width="43.2" height="2.4" fill="#bcaaa4" stroke="#5d4037" stroke-width="1.2" opacity="1" rx="2"/>
+<text x="101.6" y="590.0" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="normal" fill="#3e2723">DRAWERS</text>
+<rect x="293.1" y="308.0" width="86.4" height="187.2" fill="#c4a484" stroke="#6d4c2f" stroke-width="1.2" opacity="1" rx="3"/>
+<text x="336.3" y="401.6" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#3e2723">SOFA 36×78"
+faces LEFT</text>
+<rect x="80.0" y="591.2" width="111.4" height="36.0" fill="#6d4c41" stroke="#4e342e" stroke-width="1.2" opacity="1" rx="0"/>
+<text x="135.7" y="609.2" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#fff">BOOKS 15"D</text>
+<rect x="268.2" y="591.2" width="111.4" height="36.0" fill="#6d4c41" stroke="#4e342e" stroke-width="1.2" opacity="1" rx="0"/>
+<text x="323.8" y="609.2" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#fff">BOOKS 15"D</text>
+<rect x="355.5" y="500.0" width="24.0" height="91.2" fill="#a1887f" stroke="#4e342e" stroke-width="1.2" opacity="1" rx="0"/>
+<text x="367.5" y="545.6" font-size="9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#fff" transform="rotate(-90 367.5 545.6)">10"D</text>
+<rect x="212.0" y="248.0" width="62.4" height="62.4" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.2" opacity="1" rx="2"/>
+<text x="243.2" y="279.2" font-size="8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="normal" fill="#e65100">ROLL
+TABLE</text>
+<rect x="147.2" y="188.0" width="139.2" height="240.0" fill="#d4edda" stroke="#2e7d32" stroke-width="1.5" opacity="0.55" rx="4"/>
+<text x="216.8" y="298.4" font-size="12" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" fill="#1b5e20">OPEN PLAY</text>
+<text x="216.8" y="332.0" font-size="10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="normal" fill="#1b5e20">~4.8' × 8.3'</text>
+<text x="80" y="651.1999999999999" font-size="12" font-weight="bold" font-family="Helvetica,Arial,sans-serif">KEY</text>
+<text x="80" y="669.1999999999999" font-size="11" font-family="Helvetica,Arial,sans-serif">Cost: $–$$ &nbsp;|&nbsp; Book capacity: ~3.2 Billy equiv. (92" @15"D + 38" @10"D ≈ 49 LF) + bench cubbies for toys</text>
+<text x="80" y="687.1999999999999" font-size="11" font-family="Helvetica,Arial,sans-serif">Central play (approx): Central play ≈ 4.8' × 8.3' between banquette and sofa</text>
+<text x="80" y="705.1999999999999" font-size="11" font-family="Helvetica,Arial,sans-serif">Widens room?: YES — seating faces across the width; tall storage only on back; left stays low</text>
+<text x="80" y="723.1999999999999" font-size="10" font-family="Helvetica,Arial,sans-serif" fill="#333">Strong clutter control via continuous closed low cabinets. Sofa clears the 83" stair opening. Desk</text>
+<text x="80" y="737.1999999999999" font-size="10" font-family="Helvetica,Arial,sans-serif" fill="#333">seats 2 comfortably (tight for 3). Very DIY/IKEA friendly.</text>
+</svg>
